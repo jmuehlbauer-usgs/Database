@@ -4763,6 +4763,15 @@ Processing date for 250um sample is 11/28/17"
 "D07767","GC20170915","GrandCanyon","CRGrandCanyon","09/28/2017",,219.00,,7.00,0,4,"Day","08:31:14",303,"Low","DaubertM","Net",0.90,323.90,1.07,65.65,0,0,"GoodenoughD",,"",0.00,0,,"FordM",
 "D07768","GC20170915","GrandCanyon","CRGrandCanyon","09/28/2017",,217.00,,7.00,0,4,"Day","08:01:42",298,"Low","DaubertM","Net",0.91,322.53,1.08,65.38,0,0,"GoodenoughD",,"",0.00,0,,"FordM",
 "D07769","GC20170915","GrandCanyon","CRGrandCanyon","09/24/2017",,178.90,,7.00,0,4,"Day","14:03:18",185,"Medium","QuigleyT","Net",0.88,196.42,1.06,39.81,0,0,"GoodenoughD",,"",0.00,0,,"FordM",
+"D07771","LF20171213","GrandCanyon","CRGrandCanyon","12/13/2017",,6.00,,7.00,0,4,"Day","13:27:00",302,"High","GoodenoughD","Net",0.97,585.64,1.94,118.71,0,0,"GoodenoughD",,"",0.00,0,,"GiardinaM","Sample elutriated because it was very sandy."
+"D07772","LF20171213","GrandCanyon","CRGrandCanyon","12/13/2017",,3.34,,7.00,0,4,"Day","13:53:00",302,"Low","GoodenoughD","Net",0.93,535.15,1.77,108.47,0,0,"GoodenoughD",,"",0.00,0,,"GiardinaM",
+"D07773","LF20171213","GrandCanyon","CRGrandCanyon","12/13/2017",,1.90,,7.00,0,4,"Day","14:17:00",300,"Low","GoodenoughD","Net",0.96,315.24,1.05,63.90,0,0,"GoodenoughD",,"",0.00,0,,"GiardinaM",
+"D07774","LF20171213","GrandCanyon","CRLeesFerry","12/13/2017",,0.00,,7.00,0,4,"Day","14:44:00",303,"Low","GoodenoughD","Net",0.97,217.19,0.72,44.02,0,0,"GoodenoughD",,"",0.00,0,,"GiardinaM",
+"D07775","LF20171213","GrandCanyon","CRLeesFerry","12/13/2017",,-3.50,,7.00,0,4,"Day","15:08:00",302,"Low","GoodenoughD","Bomb",0.91,321.89,1.07,65.25,1,0,"GoodenoughD",,"",0.00,0,,"GiardinaM","Algae on net flowmeter."
+"D07776","LF20171213","GrandCanyon","CRLeesFerry","12/13/2017",,-8.00,,7.00,0,4,"Day","15:35:00",310,"Low","GoodenoughD","Net",1.02,596.91,1.93,120.99,0,0,"GoodenoughD",,"",0.00,0,,"GiardinaM",
+"D07777","LF20171213","GrandCanyon","CRLeesFerry","12/13/2017",,-11.00,,7.00,0,4,"Day","15:55:00",300,"Low","GoodenoughD","Net",1.02,237.77,0.79,48.20,0,0,"GoodenoughD",,"",0.00,0,,"GiardinaM",
+"D07778","LF20171213","GrandCanyon","CRLeesFerry","12/13/2017",,-12.90,,7.00,0,4,"Day","16:11:00",300,"Low","GoodenoughD","Net",1.04,630.83,2.10,127.87,1,0,"GoodenoughD",,"",0.00,0,,"GiardinaM","Algae on bomb flowmeter."
+"D07779","LF20171213","GrandCanyon","CRLeesFerry","12/13/2017",,-13.40,,7.00,0,4,"Day","16:27:00",300,"Low","GoodenoughD","Net",0.99,284.55,0.95,57.68,0,0,"GoodenoughD",,"",0.00,0,,"GiardinaM",
 "D07863","GC20170926","GrandCanyon","CRLeesFerry","09/27/2017",,-3.50,,7.00,0,4,"Day","13:03:51",300,"Low","FordM","Net",0.93,210.95,0.70,42.76,0,0,"GoodenoughD",,"",0.00,0,,"FordM",
 "D07864","GC20170926","GrandCanyon","CRLeesFerry","09/27/2017",,-3.50,,7.00,0,4,"Day","13:12:35",300,"Low","FordM","Net",0.92,221.63,0.74,44.92,0,0,"GoodenoughD",,"",0.00,0,,"FordM",
 "D07865","GC20170926","GrandCanyon","CRLeesFerry","09/27/2017",,-3.50,,7.00,0,4,"Day","13:22:30",300,"Low","FordM","Net",0.95,186.79,0.62,37.86,0,0,"GoodenoughD",,"",0.00,0,,"FordM",
