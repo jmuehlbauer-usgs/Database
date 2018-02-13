@@ -88,7 +88,7 @@
 89,"PTER","Hymenoptera: Pteromalidae","pteromalid",0,0,1,0,1,0,0,0,,,"Animalia","Arthropoda","Insecta","Hymenoptera","Chalcidoidea","Pteromalidae",,,,"Terrestrial",,,,,"TEHYME",,,
 90,"VESP","Hymenoptera: Vespidae","wasp",0,1,0,0,0,1,0,1,,,"Animalia","Arthropoda","Insecta","Hymenoptera","Vespoidea","Vespidae",,,,"Terrestrial",,,,,"TEHYME",,,
 91,"HYMA","Hymenoptera (Adult)","sawfly, wasp, bee, ant adults",0,1,1,1,1,1,1,1,,,"Animalia","Arthropoda","Insecta","Hymenoptera",,,,,,"Terrestrial","Adult","Generalist",,,"TEHYME",,,
-92,"INSM","Insecta","Insect (generic terrestrial)",0,1,1,1,1,0,0,0,,,"Animalia","Arthropoda","Insecta",,,,,,,"Terrestrial",,,,,"TEMISC",25.00,25.00,
+92,"INSM","Insecta","Insect (generic terrestrial)",0,1,1,1,1,1,0,0,,,"Animalia","Arthropoda","Insecta",,,,,,,"Terrestrial",,,,,"TEMISC",25.00,25.00,
 93,"INWT","Insecta","Insect (generic winged)",0,0,0,0,1,0,0,0,,,"Animalia","Arthropoda","Insecta",,,,,,,"Terrestrial",,,,,"TEMISC",,28.00,
 94,"CISP","Lepidoptera: Erebidae: Cisthene angelus","lichen moth",0,1,1,0,0,0,0,0,,,"Animalia","Arthropoda","Insecta","Lepidoptera","Noctuoidea","Erebidae",,"Cisthene","angelus","Terrestrial",,,,,"TECISP",,,
 97,"CLAM","Veneroida: Dreissenidae: Dreissena spp.","clam",0,1,0,1,1,0,0,0,0.02,2.45,"Animalia","Mollusca","Bivalvia","Veneroida","Dreissenoidae","Dreissenidae",,"Dreissena",,"Aquatic",,"CollectorFilterer","8",,"AQMISC",13.00,13.00,0.85
