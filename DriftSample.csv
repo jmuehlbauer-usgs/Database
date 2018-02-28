@@ -2593,13 +2593,13 @@ no processing date"
 "D03354","GC20160909","GrandCanyon","CRGrandCanyon","09/18/2016","1",63.64,9.50,,1,4,"Day","11:04:35",306,,,"Net",0.89,300.12,0.98,60.83,0,0,,"IngramA","",3.97,0,,,"Natal Origins 2016 September trip. "
 "D03359","LF20160920","GrandCanyon","CRGrandCanyon","09/20/2016","1",6.00,21.00,19.00,0,4,"Day","15:57:45",140,,"QuigleyT","Net",0.86,291.38,2.08,59.06,0,0,,"QuigleyT","",3.40,0,,,
 "D03360","LF20160920","GrandCanyon","CRGrandCanyon","09/20/2016","2",2.90,14.00,11.00,0,4,"Day","16:30:00",120,,"QuigleyT","Net",0.89,408.93,3.41,82.89,0,0,,"QuigleyT","01/24/2017",3.33,0,,"GiardinaM",
-"D03361","LF20160920","GrandCanyon","CRGrandCanyon","09/20/2016",,1.89,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"GoodenoughD",,"",0.00,0,,"GiardinaM","Lost bomb. No sample."
-"D03362","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016",,0.00,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"GoodenoughD",,"",0.00,0,,"GiardinaM","Lost bomb. No sample."
-"D03363","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016",,-2.10,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"GoodenoughD",,"",0.00,0,,"GiardinaM","Lost bomb. No sample."
-"D03364","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016",,-3.50,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"GoodenoughD",,"",0.00,0,,"GiardinaM","Lost bomb. No sample."
-"D03365","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016",,-4.90,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"GoodenoughD",,"",0.00,0,,"GiardinaM","Lost bomb. No sample."
-"D03366","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016",,-8.00,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"GoodenoughD",,"",0.00,0,,"GiardinaM","Lost bomb. No sample."
-"D03367","LF20160920","GrandCanyon","CRGrandCanyon","09/20/2016","9",11.00,11.00,8.00,0,4,"Day","13:42:30",180,,,"Net",1.16,163.90,0.91,33.22,0,0,,"IngramA","",1.30,0,,,
+"D03361","LF20160920","GrandCanyon","CRGrandCanyon","09/20/2016","3",1.89,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"MuehlbauerJ",,"",0.00,0,,,"Lost bomb. No sample."
+"D03362","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016","4",0.00,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"MuehlbauerJ",,"",0.00,0,,,"Lost bomb. No sample."
+"D03363","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016","5",-2.10,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"MuehlbauerJ",,"",0.00,0,,,"Lost bomb. No sample."
+"D03364","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016","6",-3.50,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"MuehlbauerJ",,"",0.00,0,,,"Lost bomb. No sample."
+"D03365","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016","7",-4.90,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"MuehlbauerJ",,"",0.00,0,,,"Lost bomb. No sample."
+"D03366","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016","8",-8.00,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"MuehlbauerJ",,"",0.00,0,,,"Lost bomb. No sample."
+"D03367","LF20160920","GrandCanyon","CRGrandCanyon","09/20/2016","9",-11.00,11.00,8.00,0,4,"Day","13:42:30",180,,"QuigleyT","Net",1.16,163.90,0.91,33.22,0,0,,"IngramA","",1.30,0,,,
 "D03368","LF20161103","GrandCanyon","CRGrandCanyon","11/03/2016","1",6.00,,7.00,0,4,"Day","14:50:40",250,,,"Net",0.66,274.76,1.10,55.69,1,0,,"QuigleyT","",2.25,0,,,"Flowmeter readings and therefore low filtration efficiency verified (2017-06-27 JDM)."
 "D03369","LF20161103","GrandCanyon","CRGrandCanyon","11/03/2016","2",3.30,,7.00,0,4,"Day","15:11:35",180,,,"Net",0.88,238.01,1.32,48.24,0,0,,"QuigleyT","",1.62,0,,,
 "D03370","LF20161103","GrandCanyon","CRGrandCanyon","11/03/2016","3",1.60,,5.00,0,4,"Day","15:37:00",245,,,"Net",0.85,191.10,0.78,38.74,0,0,,"QuigleyT","",2.27,0,,,
