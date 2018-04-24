@@ -2734,7 +2734,9 @@ Processing date for 250um sample is 7/11/17"
 
 <1mm sample is 500um"
 "D03505","GC20170428","GrandCanyon","CRGrandCanyon","05/03/2017","1",106.50,,7.00,0,4,"Day","16:23:17",241,,"GoodenoughD","Net",0.80,268.52,1.11,54.43,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03506","GC20170428","GrandCanyon","CRGrandCanyon","05/04/2017","1",108.60,,7.00,0,4,"Day","08:58:32",247,,"GoodenoughD","Net",0.87,203.23,0.82,41.19,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03506","GC20170428","GrandCanyon","CRGrandCanyon","05/04/2017","1",108.60,,7.00,0,4,"Day","08:58:32",247,,"GoodenoughD","Net",0.87,203.23,0.82,41.19,0,0,"GoodenoughD","WoodyE","03/30/2018",14.62,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03507","GC20170428","GrandCanyon","CRGrandCanyon","05/04/2017","1",110.50,,7.00,0,4,"Day","11:20:32",244,,"GoodenoughD","Net",0.84,319.89,1.31,64.84,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03508","GC20170428","GrandCanyon","CRGrandCanyon","05/04/2017","1",112.40,,7.00,0,4,"Day","11:59:54",236,,"GoodenoughD","Net",0.83,224.13,0.95,45.43,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03509","GC20170428","GrandCanyon","CRGrandCanyon","05/04/2017","1",114.80,,7.00,0,4,"Day","12:32:26",242,,"GoodenoughD","Net",0.78,171.30,0.71,34.72,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
@@ -2777,7 +2779,9 @@ Processing date for 250um sample is 7/11/17"
 "D03541","GC20170428","GrandCanyon","CRGrandCanyon","05/07/2017","1",172.40,,7.00,0,4,"Day","15:17:25",242,,"GoodenoughD","Net",0.70,303.43,1.25,61.51,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03542","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",175.20,,7.00,0,4,"Day","08:57:09",245,,"GoodenoughD","Net",0.85,129.52,0.53,26.25,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03543","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",177.70,,7.00,0,4,"Day","09:47:59",237,,"GoodenoughD","Net",0.80,85.35,0.36,17.30,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. Inner label incorrectly recorded, correct RM is 177.7."
-"D03544","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",178.90,,7.00,0,4,"Day","10:07:14",235,,"GoodenoughD","Net",0.88,116.32,0.49,23.58,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03544","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",178.90,,7.00,0,4,"Day","10:07:14",235,,"GoodenoughD","Net",0.88,116.32,0.49,23.58,0,0,"GoodenoughD","WoodyE","04/03/2018",7.43,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03545","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",181.40,,7.00,0,4,"Day","11:30:52",242,,"GoodenoughD","Net",0.85,162.02,0.67,32.84,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03546","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",183.20,,7.00,0,4,"Day","11:55:05",246,,"GoodenoughD","Net",0.78,106.79,0.43,21.65,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03547","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",185.50,,7.00,0,4,"Day","12:23:07",239,,"GoodenoughD","Net",0.84,265.93,1.11,53.90,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
@@ -2803,12 +2807,16 @@ Processing date for 250um sample is 7/11/17"
 "D03561","GC20170428","GrandCanyon","CRGrandCanyon","05/09/2017","1",213.00,,7.00,0,4,"Day","11:30:53",257,,"GoodenoughD","Net",0.85,223.57,0.87,45.32,0,0,"GoodenoughD","WoodyE","03/20/2018",7.83,0,,"GiardinaM","Did not sound for depth. 
 
 <1mm sample size in 500um"
-"D03562","GC20170428","GrandCanyon","CRGrandCanyon","05/09/2017","1",215.00,,7.00,0,4,"Day","11:58:53",262,,"GoodenoughD","Net",0.84,199.54,0.76,40.45,1,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. Lots of algae on bomb flow meter, number may be off."
+"D03562","GC20170428","GrandCanyon","CRGrandCanyon","05/09/2017","1",215.00,,7.00,0,4,"Day","11:58:53",262,,"GoodenoughD","Net",0.84,199.54,0.76,40.45,1,0,"GoodenoughD","WoodyE","03/27/2018",4.97,0,,"GiardinaM","Did not sound for depth. Lots of algae on bomb flow meter, number may be off.
+
+<1mm sample is 500um"
 "D03563","GC20170428","GrandCanyon","CRGrandCanyon","05/10/2017","1",217.00,,7.00,0,4,"Day","08:58:00",243,,"GoodenoughD","Net",0.86,160.22,0.66,32.48,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03564","GC20170428","GrandCanyon","CRGrandCanyon","05/10/2017","1",219.00,,7.00,0,4,"Day","09:22:56",252,,"GoodenoughD","Net",0.81,184.56,0.73,37.41,0,0,"GoodenoughD","WoodyE","03/21/2018",4.17,0,,"GiardinaM","Did not sound for depth. 
 
 <1mm sample is 500um"
-"D03565","GC20170428","GrandCanyon","CRGrandCanyon","05/10/2017","1",221.10,,7.00,0,4,"Day","09:52:20",242,,"GoodenoughD","Net",0.88,143.57,0.59,29.10,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03565","GC20170428","GrandCanyon","CRGrandCanyon","05/10/2017","1",221.10,,7.00,0,4,"Day","09:52:20",242,,"GoodenoughD","Net",0.88,143.57,0.59,29.10,0,0,"GoodenoughD","WoodyE","03/26/2018",5.77,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03566","GC20170428","GrandCanyon","CRGrandCanyon","05/10/2017","1",223.30,,7.00,0,4,"Day","10:18:23",246,,"GoodenoughD","Net",0.85,149.43,0.61,30.29,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03567","GC20170428","GrandCanyon","CRGrandCanyon","05/10/2017","1",225.30,,7.00,0,4,"Day","10:45:18",248,,"GoodenoughD","Net",0.85,224.83,0.91,45.57,0,0,"GoodenoughD","HendrixB","03/20/2018",3.77,0,,"GiardinaM","Did not sound for depth. 
 
@@ -2828,7 +2836,9 @@ Processing date for 250um sample is 7/11/17"
 
 <1mm sample is 500um"
 "D03574","GC20170428","GrandCanyon","CRGrandCanyon","05/10/2017","1",239.10,,7.00,0,4,"Day","14:58:21",235,,"GoodenoughD","Net",0.83,265.88,1.13,53.89,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03575","GC20170428","GrandCanyon","CRGrandCanyon","05/10/2017","1",241.00,,7.00,0,4,"Day","15:22:11",251,,"GoodenoughD","Net",0.80,257.76,1.03,52.25,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03575","GC20170428","GrandCanyon","CRGrandCanyon","05/10/2017","1",241.00,,7.00,0,4,"Day","15:22:11",251,,"GoodenoughD","Net",0.80,257.76,1.03,52.25,0,0,"GoodenoughD","SzydloC","03/27/2018",7.42,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03576","GC20170428","GrandCanyon","CRGrandCanyon","05/10/2017","1",243.00,,7.00,0,4,"Day","15:50:20",242,,"GoodenoughD","Net",0.85,235.64,0.97,47.76,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03577","GC20170428","GrandCanyon","CRGrandCanyon","05/11/2017","1",245.00,,7.00,0,4,"Day","08:51:14",239,,"GoodenoughD","Net",0.83,208.10,0.87,42.18,0,0,"GoodenoughD","HendrixB","03/28/2018",4.50,0,,"GiardinaM","Did not sound for depth. 
 
@@ -2840,7 +2850,9 @@ Processing time for 500um sample is processed 04/03/2018"
 
 <1mm sample is 500um"
 "D03580","GC20170428","GrandCanyon","CRGrandCanyon","05/11/2017","1",251.00,,7.00,0,4,"Day","10:43:58",242,,"GoodenoughD","Net",0.87,227.36,0.94,46.09,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03581","GC20170428","GrandCanyon","CRGrandCanyon","05/11/2017","1",252.90,,7.00,0,4,"Day","11:08:58",230,,"GoodenoughD","Net",0.87,211.81,0.92,42.93,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03581","GC20170428","GrandCanyon","CRGrandCanyon","05/11/2017","1",252.90,,7.00,0,4,"Day","11:08:58",230,,"GoodenoughD","Net",0.87,211.81,0.92,42.93,0,0,"GoodenoughD","WoodyE","03/29/2018",7.25,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03583","GC20170428","GrandCanyon","CRGrandCanyon","05/11/2017","1",257.00,,7.00,0,4,"Day","12:16:37",240,,"GoodenoughD","Net",0.70,123.98,0.52,25.13,0,0,"GoodenoughD","HendrixB","03/27/2018",5.22,0,,"GiardinaM","Did not sound for depth. 
 
 <1mm sample is 500um"
@@ -2948,7 +2960,8 @@ no processing time for 250um sample"
 Processing date for 250um sample is 11/30/17"
 "D03658","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,0.00,,7.00,0,4,"Day","15:18:00",300,"Low","GoodenoughD","Net",0.94,193.44,0.64,39.21,0,0,"GoodenoughD","HendrixB","02/08/2018",4.17,0,,"FordM","Parked at 7ft."
 "D03659","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,-3.50,,7.00,0,4,"Day","15:40:00",300,"Low","GoodenoughD","Net",0.98,303.92,1.01,61.60,0,0,"GoodenoughD","SzydloC","02/07/2018",14.17,0,,"FordM","Parked at 7ft."
-"D03660","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,-8.00,,7.00,0,4,"Day","16:04:00",300,"Low","GoodenoughD","Net",0.95,484.71,1.62,98.25,0,0,"GoodenoughD",,"",0.00,0,,"FordM","Parked at 7ft. Metal nose cone on the net flowmeter came off when the sample was being taken, but it caught by the net. A small porion of the sample was spilled/lost in the process of bagging it out in the field."
+"D03660","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,-8.00,,7.00,0,4,"Day","16:04:00",300,"Low","GoodenoughD","Net",0.95,484.71,1.62,98.25,0,0,"GoodenoughD","RyanM","02/06/2018",47.97,0,,"GiardinaM","Parked at 7ft. Metal nose cone on the net flowmeter came off when the sample was being taken, but it caught by the net. A small porion of the sample was spilled/lost in the process of bagging it out in the field. 
+Processing time for 1mm sample is 30h12m"
 "D03661","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,-11.00,,7.00,0,4,"Day","16:27:00",300,"Low","GoodenoughD","Net",0.95,300.31,1.00,60.87,0,0,"GoodenoughD","HendrixB","02/06/2018",11.82,0,,"GiardinaM","Parked at 7ft."
 "D03662","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,-12.90,,7.00,0,4,"Day","16:52:00",300,"Low","GoodenoughD","Net",0.98,563.21,1.88,114.16,0,0,"GoodenoughD","HendrixB","02/04/2018",10.92,0,,"GiardinaM","Parked at 7ft."
 "D03663","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,-13.40,,7.00,0,4,"Day","17:05:00",300,"Low","GoodenoughD","Net",0.94,337.19,1.12,68.35,0,0,"GoodenoughD","SzydloC","01/11/2017",9.97,0,,"GiardinaM","Parked at 7ft."
@@ -4909,7 +4922,7 @@ Processing date for 250um sample is 11/28/17"
 "D07875","GC20170926","GrandCanyon","CRGrandCanyon","10/13/2017",,212.30,,7.00,0,4,"Day","12:09:50",238,"High","GoodenoughD","Net",0.90,238.33,1.00,48.31,0,0,"GoodenoughD",,"",0.00,0,,"FordM",
 "D07876","GC20170926","GrandCanyon","CRGrandCanyon","10/13/2017",,212.30,,7.00,0,4,"Day","12:17:55",300,"High","GoodenoughD","Net",0.93,278.23,0.93,56.40,0,0,"GoodenoughD",,"",0.00,0,,"FordM",
 "D07877","GC20170926","GrandCanyon","CRGrandCanyon","10/13/2017",,212.30,,7.00,0,4,"Day","12:28:00",239,"High","GoodenoughD","Net",0.96,181.71,0.76,36.83,0,0,"GoodenoughD",,"",0.00,0,,"FordM",
-"D07878","LF20171026","GrandCanyon","CRGrandCanyon","10/26/2017",,6.00,,7.00,0,4,"Day","13:49:05",240,"Medium","GoodenoughD","Net",0.90,441.78,1.84,89.55,0,0,"GoodenoughD",,"",0.00,0,,"FordM",
+"D07878","LF20171026","GrandCanyon","CRGrandCanyon","10/26/2017",,6.00,,7.00,0,4,"Day","13:49:05",240,"Medium","GoodenoughD","Net",0.90,441.78,1.84,89.55,0,0,"GoodenoughD","HendrixB","02/20/2018",19.67,0,,"GiardinaM",
 "D07879","LF20171026","GrandCanyon","CRGrandCanyon","10/26/2017",,3.34,,7.00,0,4,"Day","14:10:00",241,"Medium","GoodenoughD","Net",0.89,314.78,1.31,63.81,1,0,"GoodenoughD","RyanM","11/07/2017",32.62,0,,"GiardinaM","250um processing time is actually 35hr29min
 1mm sample was processed on 10/30/17
 Datasheet notes: Small amount of sample spilled (mostly sand and NZMS)"
@@ -4920,3 +4933,83 @@ Datasheet notes: Small amount of sample spilled (mostly sand and NZMS)"
 "D07884","LF20171026","GrandCanyon","CRLeesFerry","10/26/2017",,-11.00,,7.00,0,4,"Day","16:02:00",302,"Low","GoodenoughD","Net",0.97,238.06,0.79,48.25,0,0,"GoodenoughD","SzydloC","02/13/2018",9.43,0,,"FordM",
 "D07885","LF20171026","GrandCanyon","CRLeesFerry","10/26/2017",,-12.90,,7.00,0,4,"Day","16:20:00",300,"Low","GoodenoughD","Net",0.98,531.41,1.77,107.72,0,0,"GoodenoughD","HendrixB","02/13/2018",5.57,0,,"FordM",
 "D07886","LF20171026","GrandCanyon","CRLeesFerry","10/26/2017",,-13.40,,7.00,0,4,"Day","16:33:00",300,"Low","GoodenoughD","Net",0.93,269.89,0.90,54.71,0,0,"GoodenoughD","QuigleyT","11/03/2017",1.83,0,,"GiardinaM",
+"D07888","GC20180411","GrandCanyon","CRGrandCanyon","04/11/2018",,1.90,,7.00,0,4,"Day","10:57:50",307,"High","KennedyT","Net",1.06,325.92,1.06,66.06,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07889","GC20180411","GrandCanyon","CRGrandCanyon","04/11/2018",,3.30,,7.00,0,4,"Day","11:28:25",301,"High","KennedyT","Net",0.99,528.85,1.76,107.20,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07890","GC20180411","GrandCanyon","CRGrandCanyon","04/11/2018",,6.10,,7.00,0,4,"Day","12:03:35",315,"High","KennedyT","Net",0.97,321.35,1.02,65.14,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07891","GC20180411","GrandCanyon","CRGrandCanyon","04/11/2018",,8.90,,7.00,0,4,"Day","13:43:20",303,"High","KennedyT","Net",0.96,325.38,1.07,65.95,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07892","GC20180411","GrandCanyon","CRGrandCanyon","04/11/2018",,12.90,,7.00,0,4,"Day","14:37:32",300,"High","KennedyT","Net",1.09,388.52,1.30,78.75,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07893","GC20180411","GrandCanyon","CRGrandCanyon","04/11/2018",,16.90,,7.00,0,4,"Day","15:40:38",307,"High","KennedyT","Net",0.97,252.46,0.82,51.17,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07894","GC20180411","GrandCanyon","CRGrandCanyon","04/11/2018",,19.00,,7.00,0,4,"Day","16:18:32",306,"High","KennedyT","Net",0.95,323.85,1.06,65.64,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07895","GC20180411","GrandCanyon","CRGrandCanyon","04/12/2018",,21.30,,7.00,0,4,"Day","09:30:28",294,"High","KennedyT","Net",0.96,327.91,1.12,66.47,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07896","GC20180411","GrandCanyon","CRGrandCanyon","04/12/2018",,26.50,,7.00,0,4,"Day","10:55:37",296,"High","KennedyT","Net",0.92,327.45,1.11,66.37,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07897","GC20180411","GrandCanyon","CRGrandCanyon","04/12/2018",,29.30,,7.00,0,4,"Day","11:41:51",303,"High","KennedyT","Net",0.93,326.78,1.08,66.24,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07898","GC20180411","GrandCanyon","CRGrandCanyon","04/12/2018",,32.90,,7.00,0,4,"Day","14:00:18",290,"High","KennedyT","Net",0.93,339.56,1.17,68.83,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07899","GC20180411","GrandCanyon","CRGrandCanyon","04/12/2018",,35.60,,7.00,0,4,"Day","15:13:45",276,"High","KennedyT","Net",0.95,312.55,1.13,63.35,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07900","GC20180411","GrandCanyon","CRGrandCanyon","04/13/2018",,39.70,,7.00,0,4,"Day","09:37:53",303,"High","KennedyT","Net",0.91,316.29,1.04,64.11,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07901","GC20180411","GrandCanyon","CRGrandCanyon","04/13/2018",,43.80,,7.00,0,4,"Day","10:25:24",299,"High","KennedyT","Net",0.93,295.52,0.99,59.90,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07902","GC20180411","GrandCanyon","CRGrandCanyon","04/13/2018",,47.90,,7.00,0,4,"Day","11:17:57",304,"High","KennedyT","Net",0.98,443.90,1.46,89.98,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07903","GC20180411","GrandCanyon","CRGrandCanyon","04/13/2018",,52.30,,7.00,0,4,"Day","12:08:00",301,"High","KennedyT","Net",0.89,513.82,1.71,104.15,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07904","GC20180411","GrandCanyon","CRGrandCanyon","04/13/2018",,55.50,,7.00,0,4,"Day","14:30:37",295,"High","KennedyT","Net",0.93,289.44,0.98,58.67,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07905","GC20180411","GrandCanyon","CRGrandCanyon","04/13/2018",,57.50,,7.00,0,4,"Day","15:06:33",298,"High","KennedyT","Net",0.98,430.75,1.45,87.31,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07906","GC20180411","GrandCanyon","CRGrandCanyon","04/14/2018",,61.70,,7.00,0,4,"Day","09:23:50",290,"High","KennedyT","Net",0.96,441.94,1.52,89.58,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07907","GC20180411","GrandCanyon","CRGrandCanyon","04/14/2018",,63.50,,7.00,0,4,"Day","09:54:35",298,"High","KennedyT","Net",0.92,421.31,1.41,85.40,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07908","GC20180411","GrandCanyon","CRGrandCanyon","04/14/2018",,68.50,,7.00,0,4,"Day","10:53:46",302,"High","KennedyT","Net",0.91,510.99,1.69,103.58,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07909","GC20180411","GrandCanyon","CRGrandCanyon","04/14/2018",,73.40,,7.00,0,4,"Day","12:21:02",290,"High","KennedyT","Net",0.50,163.01,0.56,33.04,1,1,"GoodenoughD",,"",0.00,0,,,"Filtration efficency very low. Retaking sample was not possible. Sample discarded in lab."
+"D07910","GC20180411","GrandCanyon","CRGrandCanyon","04/14/2018",,74.70,,7.00,0,4,"Day","12:46:35",304,"High","KennedyT","Net",0.85,198.58,0.65,40.25,0,0,"GoodenoughD",,"",0.00,0,,,"Bomb flowmeter had algae on it."
+"D07911","GC20180411","GrandCanyon","CRGrandCanyon","04/14/2018",,77.10,,7.00,0,4,"Day","13:59:51",294,"High","KennedyT","Net",0.41,181.31,0.62,36.75,1,1,"GoodenoughD",,"",0.00,0,,,"Filtration efficency very low. Retaking sample was not possible. Sample discarded in field."
+"D07912","GC20180411","GrandCanyon","CRGrandCanyon","04/14/2018",,79.80,,7.00,0,4,"Day","14:35:31",294,"High","KennedyT","Net",0.75,340.93,1.16,69.11,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07913","GC20180411","GrandCanyon","CRGrandCanyon","04/14/2018",,84.30,,7.00,0,4,"Day","15:37:13",297,"High","KennedyT","Net",0.97,272.04,0.92,55.14,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07914","GC20180411","GrandCanyon","CRGrandCanyon","04/15/2018",,88.00,,7.00,0,4,"Day","09:43:13",305,"High","KennedyT","Net",1.03,372.00,1.22,75.40,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07915","GC20180411","GrandCanyon","CRGrandCanyon","04/15/2018",,92.00,,7.00,0,4,"Day","11:23:50",295,"High","KennedyT","Net",0.92,426.63,1.45,86.48,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07916","GC20180411","GrandCanyon","CRGrandCanyon","04/15/2018",,96.40,,7.00,0,4,"Day","12:14:28",295,"High","KennedyT","Net",0.93,382.03,1.30,77.44,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07917","GC20180411","GrandCanyon","CRGrandCanyon","04/15/2018",,100.70,,7.00,0,4,"Day","13:02:00",298,"High","KennedyT","Net",0.92,461.12,1.55,93.47,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07918","GC20180411","GrandCanyon","CRGrandCanyon","04/15/2018",,104.60,,7.00,0,4,"Day","14:43:12",300,"High","KennedyT","Net",0.90,389.08,1.30,78.87,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07919","GC20180411","GrandCanyon","CRGrandCanyon","04/15/2018",,108.60,,7.00,0,4,"Day","15:35:52",297,"High","KennedyT","Net",0.97,248.72,0.84,50.42,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07920","GC20180411","GrandCanyon","CRGrandCanyon","04/16/2018",,112.40,,7.00,0,4,"Day","09:56:34",293,"High","KennedyT","Net",1.00,257.16,0.88,52.13,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07921","GC20180411","GrandCanyon","CRGrandCanyon","04/16/2018",,117.00,,7.00,0,4,"Day","10:45:09",292,"High","KennedyT","Net",0.94,347.09,1.19,70.36,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07922","GC20180411","GrandCanyon","CRGrandCanyon","04/16/2018",,121.10,,7.00,0,4,"Day","12:10:40",293,"High","KennedyT","Net",0.92,515.65,1.76,104.52,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07923","GC20180411","GrandCanyon","CRGrandCanyon","04/16/2018",,125.30,,7.00,0,4,"Day","13:49:29",294,"High","KennedyT","Net",0.98,266.20,0.91,53.96,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07924","GC20180411","GrandCanyon","CRGrandCanyon","04/16/2018",,127.40,,7.00,0,4,"Day","14:24:28",312,"High","KennedyT","Net",0.96,239.57,0.77,48.56,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07925","GC20180411","GrandCanyon","CRGrandCanyon","04/16/2018",,131.30,,7.00,0,4,"Day","15:48:11",347,"High","KennedyT","Net",0.95,283.98,0.82,57.56,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07926","GC20180411","GrandCanyon","CRGrandCanyon","04/16/2018",,133.70,,7.00,0,4,"Day","16:43:15",314,"High","KennedyT","Net",1.02,296.49,0.94,60.10,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07927","GC20180411","GrandCanyon","CRGrandCanyon","04/17/2018",,136.90,,7.00,0,4,"Day","09:42:27",248,"Medium","KennedyT","Net",1.01,311.50,1.26,63.14,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07928","GC20180411","GrandCanyon","CRGrandCanyon","04/17/2018",,141.60,,7.00,0,4,"Day","11:39:13",304,"High","KennedyT","Net",0.96,515.16,1.69,104.42,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07929","GC20180411","GrandCanyon","CRGrandCanyon","04/17/2018",,143.90,,7.00,0,4,"Day","12:15:04",310,"Medium","KennedyT","Net",0.91,267.79,0.86,54.28,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07930","GC20180411","GrandCanyon","CRGrandCanyon","04/17/2018",,146.50,,7.00,0,4,"Day","13:53:41",303,"High","KennedyT","Net",0.91,496.68,1.64,100.68,1,0,"GoodenoughD",,"",0.00,0,,,"Sample taken in fast water, the boat moved downstream approximately 0.3 mile over the course of deployment."
+"D07931","GC20180411","GrandCanyon","CRGrandCanyon","04/17/2018",,150.70,,7.00,0,4,"Day","14:54:47",301,"High","KennedyT","Net",0.84,525.95,1.75,106.61,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07932","GC20180411","GrandCanyon","CRGrandCanyon","04/17/2018",,152.60,,7.00,0,4,"Day","15:39:53",307,"High","KennedyT","Net",0.93,339.56,1.11,68.83,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07933","GC20180411","GrandCanyon","CRGrandCanyon","04/17/2018",,156.90,,7.00,0,4,"Day","16:32:58",298,"High","KennedyT","Net",0.93,357.99,1.20,72.56,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07934","GC20180411","GrandCanyon","CRGrandCanyon","04/18/2018",,160.40,,7.00,0,4,"Day","08:57:27",315,"High","KennedyT","Net",0.90,457.57,1.45,92.75,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07935","GC20180411","GrandCanyon","CRGrandCanyon","04/18/2018",,164.60,,7.00,0,4,"Day","09:47:33",296,"High","KennedyT","Net",0.84,286.57,0.97,58.09,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07936","GC20180411","GrandCanyon","CRGrandCanyon","04/18/2018",,166.70,,7.00,0,4,"Day","10:26:54",298,"High","KennedyT","Net",0.91,311.39,1.04,63.12,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07937","GC20180411","GrandCanyon","CRGrandCanyon","04/18/2018",,170.80,,7.00,0,4,"Day","12:25:42",301,"High","KennedyT","Net",0.80,330.92,1.10,67.08,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07938","GC20180411","GrandCanyon","CRGrandCanyon","04/18/2018",,175.20,,7.00,0,4,"Day","13:15:48",297,"High","KennedyT","Net",0.87,461.77,1.55,93.60,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07939","GC20180411","GrandCanyon","CRGrandCanyon","04/18/2018",,178.90,,7.00,0,4,"Day","14:07:14",307,"Medium","KennedyT","Net",0.99,443.58,1.44,89.91,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07940","GC20180411","GrandCanyon","CRGrandCanyon","04/18/2018",,183.20,,7.00,0,4,"Day","15:19:45",244,"High","KennedyT","Net",0.86,305.77,1.25,61.98,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07941","GC20180411","GrandCanyon","CRGrandCanyon","04/19/2018",,187.50,,7.00,0,4,"Day","10:49:09",300,"High","KennedyT","Net",0.85,480.95,1.60,97.49,0,0,"GoodenoughD",,"",0.00,0,,,"Net, bomb, 2 flowmeters (#3 and 10), and reel line lost during this sample. Equipment was replaced and sample was retaken."
+"D07942","GC20180411","GrandCanyon","CRGrandCanyon","04/19/2018",,191.60,,7.00,0,4,"Day","12:43:47",298,"High","KennedyT","Net",0.79,472.58,1.59,95.79,0,0,"GoodenoughD",,"",0.00,0,,,"First attempt on this sample yielded low filtration efficiency, sample was disgarded and recollected."
+"D07943","GC20180411","GrandCanyon","CRGrandCanyon","04/19/2018",,195.10,,7.00,0,4,"Day","13:39:58",303,"High","KennedyT","Net",0.93,229.27,0.76,46.47,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07944","GC20180411","GrandCanyon","CRGrandCanyon","04/19/2018",,199.60,,7.00,0,4,"Day","14:29:47",300,"High","KennedyT","Net",0.78,452.14,1.51,91.65,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07945","GC20180411","GrandCanyon","CRGrandCanyon","04/19/2018",,203.00,,7.00,0,4,"Day","15:25:51",251,"High","KennedyT","Net",0.93,386.88,1.54,78.42,0,0,"GoodenoughD",,"",0.00,0,,,"During deployment the bomb hit river bottom, so  the boat was repositioned, the sample was discarded, the net was rinsed and a new sample was collected."
+"D07946","GC20180411","GrandCanyon","CRGrandCanyon","04/19/2018",,204.90,,7.00,0,4,"Day","15:57:04",303,"High","KennedyT","Net",0.80,320.16,1.06,64.90,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07947","GC20180411","GrandCanyon","CRGrandCanyon","04/20/2018",,209.10,,7.00,0,4,"Day","11:14:29",300,"High","KennedyT","Net",0.78,398.85,1.33,80.85,0,0,"GoodenoughD",,"",0.00,0,,,"Filtration efficency was becoming problematic, so flowmeters were swapped out."
+"D07948","GC20180411","GrandCanyon","CRGrandCanyon","04/20/2018",,212.30,,7.00,0,4,"Day","12:24:08",121,"High","KennedyT","Net",0.83,166.81,1.38,33.81,0,0,"GoodenoughD",,"",0.00,0,,,"Shortened sample time deployment due to low filtration efficiency."
+"D07949","GC20180411","GrandCanyon","CRGrandCanyon","04/20/2018",,212.30,,7.00,0,6,"Day","12:39:24",302,"High","KennedyT","Net",0.87,447.86,1.48,90.78,0,0,"GoodenoughD",,"",0.00,0,,,"Started using a courser net (500um) due to low filtration efficiency."
+"D07950","GC20180411","GrandCanyon","CRGrandCanyon","04/20/2018",,215.00,,7.00,0,6,"Day","13:16:07",327,"High","KennedyT","Net",0.90,413.86,1.27,83.89,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07951","GC20180411","GrandCanyon","CRGrandCanyon","04/20/2018",,219.00,,7.00,0,6,"Day","13:57:19",301,"Medium","KennedyT","Net",0.91,322.91,1.07,65.45,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07952","GC20180411","GrandCanyon","CRGrandCanyon","04/20/2018",,221.10,,7.00,0,6,"Day","14:32:22",300,"Medium","KennedyT","Net",0.93,282.32,0.94,57.23,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07953","GC20180411","GrandCanyon","CRGrandCanyon","04/20/2018",,225.30,,7.00,0,6,"Day","15:21:32",300,"Medium","KennedyT","Net",0.94,348.27,1.16,70.59,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07954","GC20180411","GrandCanyon","CRGrandCanyon","04/21/2018",,229.10,,7.00,0,6,"Day","09:41:52",294,"Medium","KennedyT","Net",0.99,292.62,1.00,59.31,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07955","GC20180411","GrandCanyon","CRGrandCanyon","04/21/2018",,233.10,,7.00,0,6,"Day","10:27:21",311,"High","KennedyT","Net",0.93,328.83,1.06,66.65,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07956","GC20180411","GrandCanyon","CRGrandCanyon","04/21/2018",,237.10,,7.00,0,6,"Day","11:14:59",300,"Medium","KennedyT","Net",0.87,513.23,1.71,104.03,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07957","GC20180411","GrandCanyon","CRGrandCanyon","04/21/2018",,241.00,,7.00,0,6,"Day","11:59:37",313,"Medium","KennedyT","Net",0.89,476.91,1.52,96.67,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07958","GC20180411","GrandCanyon","CRGrandCanyon","04/21/2018",,245.00,,7.00,0,6,"Day","13:33:45",300,"Medium","KennedyT","Net",0.96,304.29,1.01,61.68,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07959","GC20180411","GrandCanyon","CRGrandCanyon","04/21/2018",,249.20,,7.00,0,6,"Day","14:22:22",300,"Medium","KennedyT","Net",1.11,281.94,0.94,57.15,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07960","GC20180411","GrandCanyon","CRGrandCanyon","04/21/2018",,252.90,,6.00,0,6,"Day","16:03:59",300,"Medium","KennedyT","Net",0.99,315.48,1.05,63.95,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07961","GC20180411","GrandCanyon","CRGrandCanyon","04/22/2018",,257.00,,7.00,0,6,"Day","09:56:37",312,"Low","KennedyT","Net",0.89,384.91,1.23,78.02,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07962","GC20180411","GrandCanyon","CRGrandCanyon","04/22/2018",,260.00,,7.00,0,6,"Day","10:36:57",300,"Low","KennedyT","Net",1.01,298.37,0.99,60.48,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07963","GC20180411","GrandCanyon","CRGrandCanyon","04/22/2018",,264.00,,6.00,0,6,"Day","11:21:47",300,"High","KennedyT","Net",0.93,388.62,1.30,78.77,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07964","GC20180411","GrandCanyon","CRGrandCanyon","04/22/2018",,268.00,,6.00,0,6,"Day","12:15:25",300,"High","KennedyT","Net",0.90,387.98,1.29,78.64,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07965","GC20180411","GrandCanyon","CRGrandCanyon","04/22/2018",,272.40,,7.00,0,6,"Day","14:22:05",301,"High","KennedyT","Net",0.86,464.43,1.54,94.14,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07966","GC20180411","GrandCanyon","CRGrandCanyon","04/22/2018",,275.90,,7.00,0,6,"Day","16:37:43",312,"High","KennedyT","Net",0.76,308.97,0.99,62.63,0,0,"GoodenoughD",,"",0.00,0,,,
+"D07967","GC20180411","GrandCanyon","CRGrandCanyon","04/22/2018",,279.80,,5.00,0,6,"Day","17:19:40",300,"High","KennedyT","Net",0.83,374.99,1.25,76.01,0,0,"GoodenoughD",,"",0.00,0,,,
