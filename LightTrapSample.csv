@@ -1,7 +1,7 @@
 "SampleID","BarcodeID","Region","Reach","Date","RiverMile","Bank","Collector","Weather","WindSpeed","WindDirection","Level","Habitat","TimeBegin","TimeEnd","Temperature","Battery","Bats","FlagStrange","FlagDelete","EntererSample","Processor","ProcessDate","ProcessTime","QAQC","Checker","EntererSpecimen","Notes","CloseTemp","DistanceFromCenterpoint","TrapLocation","AssociatedTrib","ProcessNotes"
-7247,,"GrandCanyon","CRGrandCanyon",7/4/2017 0:00:00,52.10,"RB","PrivateBoater","Clear",0,,"HighWater","Grasses-Forbes",12/30/1899 20:00:00,12/30/1899 21:30:00,,,1,1,1,"DaubertM",,,,0,,"FordM","MD- temperature not noted. Was in DB as ""D03416"" Sample does not exist. -MD and ANM 9-1-2017",,,,,
 8061,,"GrandCanyon","CRGrandCanyon",,,,,"NoRain",,,"HighWater",,,,,"Rechargeable",0,0,0,"DaubertM",,,,1,,,,,,,,
 8069,,"GrandCanyon","CRGrandCanyon",,,"LB","PrivateBoater","NoRain",0,"NA","HighWater","Vegetation",12/30/1899 19:46:00,12/30/1899 20:45:00,,"Rechargeable",0,0,0,"DaubertM",,,,0,,,"MD- UC Davis trip.",,,,,
+7247,,"GrandCanyon","CRGrandCanyon",7/4/2017 0:00:00,52.10,"RB","PrivateBoater","Clear",0,,"HighWater","Grasses-Forbes",12/30/1899 20:00:00,12/30/1899 21:30:00,,,1,1,1,"DaubertM",,,,0,,"FordM","MD- temperature not noted. Was in DB as ""D03416"" Sample does not exist. -MD and ANM 9-1-2017",,,,,
 7880,"L0","GrandCanyon","CRGrandCanyon",,,,,,,,"HighWater",,,,,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,"GiardinaM",,,,,,
 618,"L00001","GrandCanyon","CRGrandCanyon",8/9/2012 0:00:00,174.82,"RB","DyeB","Cloudy",1,"Upstream","HighWater","Grasses-Forbes",12/30/1899 19:57:00,12/30/1899 20:56:00,27.00,,0,0,0,,"KortenhoevenE",,"10435",0,,,"BERMUDA GRASS.",,,,,
 338,"L00002","GrandCanyon","CRGrandCanyon",4/22/2012 0:00:00,30.60,"RB","BaadeE","Clear",0,"na","45K","Trees-Shrubs",12/30/1899 19:13:00,12/30/1899 20:25:00,23.00,,0,0,0,,"MetcalfeA",,"30000",0,,,,,,,,
@@ -4960,7 +4960,7 @@ no processing time",,,,,
 4724,"L05401","GrandCanyon","CRGrandCanyon",10/24/2015 0:00:00,222.27,"LB","PrivateBoater","Clear",0,,"HighWater","Grasses-Forbes",12/30/1899 18:22:00,12/30/1899 19:22:00,17.70,,0,0,0,,"IngramA",,"1400",0,,,,,,,,
 5143,"L05402","GrandCanyon","CRGrandCanyon",4/1/2016 0:00:00,19.43,"LB","GCMRC","Clear",0,,"HighWater","Sand",12/30/1899 19:22:00,12/30/1899 20:30:00,15.00,,0,0,0,,"DaubertM",10/16/2017 0:00:00,"4",0,,"GiardinaM","Jamie Townsend. Unexpectedly big catch!",,,,,
 5144,"L05403","GrandCanyon","CRGrandCanyon",4/2/2016 0:00:00,19.44,"RB","GCMRC","Clear",0,,"HighWater","Grasses-Forbes",12/30/1899 19:30:00,12/30/1899 20:30:00,13.70,,0,0,0,,"DaubertM",10/7/2017 0:00:00,"3",0,,"GiardinaM",,,,,,
-5145,"L05404","GrandCanyon","CRGrandCanyon",4/3/2016 0:00:00,39.31,"RB","GCMRC","Clear",1,"Upstream","HighWater","Rock",12/30/1899 19:35:00,12/30/1899 20:36:00,19.10,,0,0,0,,,,,0,,,,,,,,
+5145,"L05404","GrandCanyon","CRGrandCanyon",4/3/2016 0:00:00,39.31,"RB","GCMRC","Clear",1,"Upstream","HighWater","Rock",12/30/1899 19:35:00,12/30/1899 20:36:00,19.10,,0,0,0,,"DaubertM",1/17/2018 0:00:00,"0016",0,,"GiardinaM","QAQC saved",,,,,
 4826,"L05405","GrandCanyon","CRGrandCanyon",8/11/2015 0:00:00,-2.10,"RB","Foodbase","Clear",0,,"HighWater","Rock",12/30/1899 19:45:00,12/30/1899 20:45:00,,,0,0,0,,"GarciaPenaD",,"1100",0,,,"LB LFM.",,,,,
 4827,"L05406","GrandCanyon","CRGrandCanyon",8/11/2015 0:00:00,-4.00,"LB","Foodbase","Cloudy",0,,"HighWater","Trees-Shrubs",12/30/1899 19:45:00,12/30/1899 20:45:00,,,0,0,0,,"GarciaPenaD",,"1700",0,,,"cloud cover, rain earlier. LB LFM.",,,,,
 4829,"L05407","GrandCanyon","CRGrandCanyon",8/11/2015 0:00:00,-11.50,"RB","Foodbase","Cloudy",0,,"HighWater","Grasses-Forbes",12/30/1899 19:45:00,12/30/1899 20:45:00,,,0,0,0,,"QuigleyT",,"900",0,,,"LB LFM. Rained earlier.",,,,,
@@ -4980,10 +4980,12 @@ EK-> Red Flagged on 5/10/2016",,,,,
 4801,"L05421","GrandCanyon","CRGrandCanyon",11/5/2015 0:00:00,209.10,"LB","PrivateBoater","Cloudy",0,,"HighWater","Grasses-Forbes",12/30/1899 18:00:00,12/30/1899 19:04:00,11.00,,0,0,0,,"GarciaPenaD",,"0",0,,,,,,,,
 5323,"L05422","GrandCanyon","CRGrandCanyon",5/7/2016 0:00:00,20.71,"RB","JerniganS","Cloudy",1,"Downstream","HighWater","Sand",12/30/1899 19:41:00,12/30/1899 20:42:00,,,0,0,0,,"DaubertM",10/18/2017 0:00:00,"2",0,,"GiardinaM","MD-(air temp not noted).",,,,,
 4802,"L05423","GrandCanyon","CRGrandCanyon",11/6/2015 0:00:00,219.95,"RB","PrivateBoater","Clear",0,"Upstream","HighWater","Grasses-Forbes",12/30/1899 18:10:00,12/30/1899 19:12:00,11.80,,0,0,0,,"GarciaPenaD",,"300",0,,,,,,,,
-5327,"L05424","GrandCanyon","CRGrandCanyon",5/11/2016 0:00:00,74.64,"RB","JerniganS","Clear",0,,"HighWater","Sand",12/30/1899 19:48:00,12/30/1899 20:50:00,21.70,,0,0,0,,,,,0,,,,,,,,
+5327,"L05424","GrandCanyon","CRGrandCanyon",5/11/2016 0:00:00,74.64,"RB","JerniganS","Clear",0,,"HighWater","Sand",12/30/1899 19:48:00,12/30/1899 20:50:00,21.70,,0,0,0,,"DaubertM",1/17/2018 0:00:00,"0006",0,,"GiardinaM","QAQC saved",,,,,
 5005,"L05425","GrandCanyon","CRGrandCanyon",3/11/2016 0:00:00,53.11,"RB","PrivateBoater","Cloudy",1,"Upstream","HighWater","Sand",12/30/1899 19:00:00,12/30/1899 20:00:00,21.50,,0,0,0,,"DaubertM",12/8/2017 0:00:00,"5",0,,"GiardinaM",,,,,,
 5006,"L05426","GrandCanyon","CRGrandCanyon",3/12/2016 0:00:00,65.83,"RB","PrivateBoater",,0,"Upstream","HighWater","Sand",12/30/1899 19:00:00,12/30/1899 20:00:00,14.50,,0,0,0,,"DaubertM",1/15/2018 0:00:00,"3",0,,"GiardinaM","No internal label",,,,,
-5007,"L05427","GrandCanyon","CRGrandCanyon",3/13/2016 0:00:00,65.83,"RB","PrivateBoater","Cloudy",1,"Upstream","HighWater","Sand",12/30/1899 18:35:00,12/30/1899 19:45:00,20.00,,0,0,0,,,,,0,,,,,,,,
+5007,"L05427","GrandCanyon","CRGrandCanyon",3/13/2016 0:00:00,65.83,"RB","PrivateBoater","Cloudy",1,"Upstream","HighWater","Sand",12/30/1899 18:35:00,12/30/1899 19:45:00,20.00,,0,0,0,,"DaubertM",1/17/2018 0:00:00,"0006",0,,"GiardinaM","QAQC saved 
+
+No internal label",,,,,
 4799,"L05428","GrandCanyon","CRGrandCanyon",11/1/2015 0:00:00,158.70,"RB","PrivateBoater","Clear",0,"Upstream","HighWater","Rock",12/30/1899 18:09:00,12/30/1899 19:09:00,16.00,,0,0,0,,"KortenhoevenE",,"1400",0,,,,,,,,
 4798,"L05429","GrandCanyon","CRGrandCanyon",10/31/2015 0:00:00,148.91,"LB","PrivateBoater","Clear",0,"Upstream","HighWater","Rock",12/30/1899 18:15:00,12/30/1899 19:17:00,14.40,,0,0,0,,"KortenhoevenE",,"2400",0,,,,,,,,
 7968,"L05430","UpperBasin","DoloresR",6/6/2016 0:00:00,,"RB",,"Clear",1,"Downstream","HighWater",,12/30/1899 20:40:00,12/30/1899 21:40:00,19.70,"Night1AA",0,0,0,"MetcalfeA",,,,0,,"GiardinaM","Collected By Julia Nave on the San Miguel River, a tributary of upper Dolores. This was the only sample collected there.",,,,,
@@ -5137,7 +5139,7 @@ Possible Red FlaG?",,,,,
 5215,"L05590","GrandCanyon","CRGrandCanyon",3/23/2016 0:00:00,74.50,"RB","PrivateBoater","Clear",1,,"HighWater","Trees-Shrubs",12/30/1899 19:03:00,12/30/1899 20:03:00,15.06,,0,0,0,,"DaubertM",11/21/2017 0:00:00,"3",0,,"GiardinaM","MD-(no wind direction noted).",,,,,
 5216,"L05591","GrandCanyon","CRGrandCanyon",3/24/2016 0:00:00,87.50,"LB","PrivateBoater","Clear",1,,"HighWater","Trees-Shrubs",12/30/1899 18:47:00,12/30/1899 19:47:00,15.78,,0,0,0,,"DaubertM",1/15/2018 0:00:00,"3",0,,"GiardinaM","MD-(no wind direction noted).",,,,,
 5218,"L05592","GrandCanyon","CRGrandCanyon",3/26/2016 0:00:00,98.00,"RB","PrivateBoater","Clear",1,,"HighWater","Trees-Shrubs",12/30/1899 18:51:00,12/30/1899 19:51:00,15.50,,0,0,0,,"DaubertM",1/15/2018 0:00:00,"2",0,,"GiardinaM","MD-(wind direction not noted).",,,,,
-5217,"L05593","GrandCanyon","CRGrandCanyon",3/25/2016 0:00:00,95.50,"LB","PrivateBoater","Clear",2,"Upstream","HighWater","Trees-Shrubs",12/30/1899 18:45:00,12/30/1899 19:45:00,16.28,,0,0,0,,,,,0,,,,,,,,
+5217,"L05593","GrandCanyon","CRGrandCanyon",3/25/2016 0:00:00,95.50,"LB","PrivateBoater","Clear",2,"Upstream","HighWater","Trees-Shrubs",12/30/1899 18:45:00,12/30/1899 19:45:00,16.28,,0,0,0,,"DaubertM",1/17/2018 0:00:00,"0005",0,,"GiardinaM","QAQC saved",,,,,
 4704,"L05594","GrandCanyon","CRGrandCanyon",10/15/2015 0:00:00,97.27,"LB","WilliamsK","Clear",0,,"HighWater","Sand",12/30/1899 18:07:00,12/30/1899 19:10:00,18.30,,0,0,0,,"GarciaPenaD",,"5400",0,,,"Kelly -> rain for the past 2 nights! 10/16 and 10/17",,,,,
 5046,"L05623","UpperBasin","SJSandIsland",3/5/2016 0:00:00,8.30,"LB","Foodbase","Cloudy",0,,"HighWater","Trees-Shrubs",12/30/1899 18:28:00,12/30/1899 19:23:00,14.00,,0,1,0,,,,,0,,,"GCY training trip Chinle camp. EK: Open time suspiciously early (before sunset?)",,,,,
 5044,"L05624","UpperBasin","SJSandIsland",3/6/2016 0:00:00,20.50,"LB","Foodbase","Cloudy",1,"Downstream","HighWater","Grasses-Forbes",12/30/1899 18:28:00,12/30/1899 19:38:00,16.50,,0,1,0,,,,,0,,,"GCY training trip at Stairmaster Camp. EK: Open time suspiciously early (before sunset?)",,,,,
@@ -5175,7 +5177,9 @@ No internal label",,,,,
 5326,"L05648","GrandCanyon","CRGrandCanyon",5/10/2016 0:00:00,66.85,"RB","JerniganS",,,,"HighWater","Sand",12/30/1899 19:36:00,12/30/1899 20:28:00,16.30,,0,0,0,,"DaubertM",12/6/2017 0:00:00,"336",0,,"GiardinaM","MD-(weather description, wind and wind direction not noted).",,,,,
 5009,"L05649","GrandCanyon","CRGrandCanyon",3/15/2016 0:00:00,84.55,"RB","PrivateBoater","Cloudy",0,,"HighWater","Sand",12/30/1899 19:14:00,12/30/1899 20:15:00,18.20,,0,0,0,,"DaubertM",12/8/2017 0:00:00,"2",0,,"GiardinaM","No internal label",,,,,
 5008,"L05650","GrandCanyon","CRGrandCanyon",3/14/2016 0:00:00,74.63,"RB","PrivateBoater","Cloudy",2,"Upstream","HighWater","Sand",12/30/1899 19:10:00,12/30/1899 20:17:00,19.50,,0,0,0,,"DaubertM",1/15/2018 0:00:00,"2",0,,"GiardinaM","No internal label",,,,,
-5034,"L05651","GrandCanyon","CRGrandCanyon",3/10/2016 0:00:00,47.47,"RB","PrivateBoater","Clear",0,"Upstream","HighWater","Grasses-Forbes",12/30/1899 18:40:00,12/30/1899 20:05:00,19.40,,0,0,0,,,,,0,,"GiardinaM",,,,,,
+5034,"L05651","GrandCanyon","CRGrandCanyon",3/10/2016 0:00:00,47.47,"RB","PrivateBoater","Clear",0,"Upstream","HighWater","Grasses-Forbes",12/30/1899 18:40:00,12/30/1899 20:05:00,19.40,,0,0,0,,"DaubertM",1/18/2018 0:00:00,"0003",0,,"GiardinaM","No internal label 
+
+QAQC saved",,,,,
 5033,"L05652","GrandCanyon","CRGrandCanyon",3/9/2016 0:00:00,47.48,"RB","PrivateBoater","Clear",0,"Upstream","HighWater","Sand",12/30/1899 18:46:00,12/30/1899 19:51:00,15.20,,0,0,0,,"DaubertM",1/17/2018 0:00:00,"2",0,,"GiardinaM","No internal label",,,,,
 5032,"L05653","GrandCanyon","CRGrandCanyon",3/7/2016 0:00:00,29.46,"LB","PrivateBoater",,1,"Downstream","HighWater","Sand",12/30/1899 18:16:00,12/30/1899 19:19:00,12.80,,0,0,0,,,,,0,,,,,,,,
 4990,"L05654","GrandCanyon","CRGrandCanyon",2/19/2016 0:00:00,29.85,"RB","GCMRC","Clear",1,"Upstream","HighWater","Grasses-Forbes",12/30/1899 18:30:00,12/30/1899 19:35:00,16.30,,0,0,0,,"GarciaPenaD",,"1100",0,,,"Marc Perkins GCMRC.",,,,,
@@ -5298,7 +5302,7 @@ No internal label",,,,,
 5354,"L05798","GrandCanyon","CRGrandCanyon",5/26/2016 0:00:00,188.41,"RB","PermarW","Clear",0,,"HighWater","Sand",12/30/1899 20:01:00,12/30/1899 21:02:00,19.40,,0,0,0,,"DaubertM",11/7/2017 0:00:00,"7",0,,"GiardinaM",,,,,,
 5353,"L05799","GrandCanyon","CRGrandCanyon",5/25/2016 0:00:00,165.16,"RB","PermarW","Clear",0,"Upstream","HighWater","Rock",12/30/1899 20:00:00,12/30/1899 21:00:00,,,0,0,0,,"FordM",11/7/2017 0:00:00,"15",0,,"GiardinaM","wind was greater than 10mph after trap was running. MD-(no air temp noted).",,,,,
 7757,"L05800","GrandCanyon","CRGrandCanyon",4/8/2016 0:00:00,279.00,"LB","PrivateBoater","Cloudy",1,,"HighWater","Trees-Shrubs",12/30/1899 18:59:00,12/30/1899 19:59:00,18.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",1/16/2018 0:00:00,"2",0,,"GiardinaM",,,,,,
-5227,"L05801","GrandCanyon","CRGrandCanyon",4/7/2016 0:00:00,253.00,"LB","PrivateBoater","Cloudy",1,,"HighWater","Trees-Shrubs",12/30/1899 18:56:00,12/30/1899 19:56:00,25.90,,0,0,0,,,,,0,,,,,,,,
+5227,"L05801","GrandCanyon","CRGrandCanyon",4/7/2016 0:00:00,253.00,"LB","PrivateBoater","Cloudy",1,,"HighWater","Trees-Shrubs",12/30/1899 18:56:00,12/30/1899 19:56:00,25.90,,0,0,0,,"DaubertM",1/17/2018 0:00:00,"0014",0,,"GiardinaM","QAQC saved",,,,,
 5995,"L05802","GrandCanyon","CRGrandCanyon",8/5/2016 0:00:00,53.39,"RB","GCMRC","Cloudy",0,,"HighWater","Sand",12/30/1899 19:45:00,12/30/1899 20:55:00,,,0,0,0,,"DaubertM",11/6/2017 0:00:00,"17",0,,"GiardinaM","MD-(no open temp noted).",,,,,
 5226,"L05803","GrandCanyon","CRGrandCanyon",4/6/2016 0:00:00,239.80,"RB","PrivateBoater","Clear",1,,"HighWater","Rock",12/30/1899 18:55:00,12/30/1899 19:55:00,18.30,,0,0,0,,"DaubertM",1/15/2018 0:00:00,"21",0,,"GiardinaM",,,,,,
 4970,"L05804","GrandCanyon","CRGrandCanyon",11/28/2015 0:00:00,84.50,"RB","PrivateBoater","Cloudy",0,,"HighWater","Sand",12/30/1899 17:21:00,12/30/1899 18:23:00,10.00,,0,0,0,,"GarciaPenaD",,"100",0,,,,,,,,"no bugs, sample tossed, bottle recycled."
@@ -5387,7 +5391,7 @@ No internal label.",,,,,
 5988,"L06212","UpperBasin","SJSandIsland",7/22/2016 0:00:00,6.00,"LB","GCY","Cloudy",0,,"HighWater","Sand",12/30/1899 20:14:00,12/30/1899 21:19:00,28.70,,0,0,0,,"KortenhoevenE",7/27/2017 0:00:00,"218",0,,"MetcalfeA",,,,,,
 5990,"L06213","UpperBasin","SJSandIsland",7/23/2016 0:00:00,19.30,"LB","GCY","Cloudy",1,"Upstream","HighWater","Sand",12/30/1899 20:07:00,,34.90,,0,1,0,,,,,0,,,"no close time recorded.",,,,,
 5233,"L06214","GrandCanyon","CRGrandCanyon",4/10/2016 0:00:00,11.25,"RB","PrivateBoater","Cloudy",1,,"HighWater",,12/30/1899 19:20:00,12/30/1899 20:20:00,19.40,,0,0,0,,"FordM",12/6/2017 0:00:00,"5",0,,"GiardinaM","MD-(wind direction and habitat type not noted).",,,,,
-5234,"L06215","GrandCanyon","CRGrandCanyon",4/11/2016 0:00:00,21.00,"RB","PrivateBoater","Clear",0,,"HighWater","Sand",12/30/1899 19:10:00,12/30/1899 20:10:00,22.40,,0,0,0,,,,,0,,,,,,,,
+5234,"L06215","GrandCanyon","CRGrandCanyon",4/11/2016 0:00:00,21.00,"RB","PrivateBoater","Clear",0,,"HighWater","Sand",12/30/1899 19:10:00,12/30/1899 20:10:00,22.40,,0,0,0,,"DaubertM",1/17/2018 0:00:00,"0005",0,,"GiardinaM","QAQC saved",,,,,
 5236,"L06216","GrandCanyon","CRGrandCanyon",4/13/2016 0:00:00,50.10,,"PrivateBoater","Clear",0,,"HighWater","Grasses-Forbes",12/30/1899 19:15:00,12/30/1899 20:30:00,19.20,,0,0,0,,"DaubertM",10/12/2017 0:00:00,"16",0,,"GiardinaM","MD-(river side not noted).",,,,,
 5235,"L06217","GrandCanyon","CRGrandCanyon",4/12/2016 0:00:00,35.00,"LB","PrivateBoater","Clear",0,,"HighWater","Trees-Shrubs",12/30/1899 19:10:00,12/30/1899 20:20:00,19.10,,0,0,0,,"DaubertM",1/16/2018 0:00:00,"6",0,,"GiardinaM",,,,,,
 5237,"L06218","GrandCanyon","CRGrandCanyon",4/14/2016 0:00:00,66.00,"RB","PrivateBoater","Clear",1,"Upstream","HighWater","Trees-Shrubs",12/30/1899 19:00:00,12/30/1899 20:10:00,21.50,,0,0,0,,"FordM",12/5/2017 0:00:00,"27",0,,"GiardinaM",,,,,,
@@ -5443,7 +5447,9 @@ No internal label",,,,,
 5290,"L06273","UpperBasin","SJSandIsland",5/14/2016 0:00:00,66.50,"RB","GCY","Cloudy",2,"Downstream","HighWater","Grasses-Forbes",12/30/1899 19:27:00,12/30/1899 20:27:00,27.30,,0,0,0,,,,,0,,,,,,,,
 5291,"L06274","UpperBasin","SJSandIsland",5/15/2016 0:00:00,76.00,"LB","GCY","Cloudy",1,"Downstream","HighWater","Sand",12/30/1899 19:15:00,,24.60,,0,1,0,,,,,0,,,"MD-(no close time noted).",,,,,
 5552,"L06275","GrandCanyon","CRGrandCanyon",5/22/2016 0:00:00,225.80,"LB","GCY","Clear",0,,"HighWater","Trees-Shrubs",12/30/1899 20:05:00,12/30/1899 21:05:00,22.90,,0,0,0,,"DaubertM",12/4/2017 0:00:00,"9",0,,"GiardinaM","No internal label",,,,,
-5553,"L06276","GrandCanyon","CRGrandCanyon",5/23/2016 0:00:00,229.40,"RB","GCY","Clear",1,"Upstream","HighWater","Sand",12/30/1899 19:24:00,12/30/1899 20:24:00,27.20,,0,0,0,,,,,0,,,,,,,,
+5553,"L06276","GrandCanyon","CRGrandCanyon",5/23/2016 0:00:00,229.40,"RB","GCY","Clear",1,"Upstream","HighWater","Sand",12/30/1899 19:24:00,12/30/1899 20:24:00,27.20,,0,0,0,,"DaubertM",1/17/2018 0:00:00,"0009",0,,"GiardinaM","No internal label 
+
+QAQC saved",,,,,
 5526,"L06277","UpperBasin","SJSandIsland",5/24/2016 0:00:00,47.80,"LB","GCY","Clear",0,"Upstream","HighWater","Grasses-Forbes",12/30/1899 19:51:00,12/30/1899 20:57:00,24.30,,0,1,0,,,,,0,,,"EK: Open time suspiciously early (before sunset?)",,,,,
 5426,"L06278","GrandCanyon","CRGrandCanyon",5/4/2016 0:00:00,19.20,,"MorrisS","Clear",1,"Downstream","HighWater","Grasses-Forbes",12/30/1899 19:55:00,12/30/1899 20:55:00,17.80,,0,0,0,,"GoodenoughD",11/7/2017 0:00:00,"240",0,,"GiardinaM","Datasheet stated the date as ""4/5/2016"" but is actually May the 4th.
 
@@ -5460,7 +5466,11 @@ No internal label",,,,,
 5433,"L06286","GrandCanyon","CRGrandCanyon",5/14/2016 0:00:00,179.50,"LB","MorrisS","Clear",0,,"HighWater","Grasses-Forbes",12/30/1899 19:46:00,12/30/1899 20:45:00,27.00,,0,0,0,,"GoodenoughD",11/6/2017 0:00:00,"101",0,,"GiardinaM","No internal label",,,,,
 5436,"L06287","GrandCanyon","CRGrandCanyon",5/24/2016 0:00:00,14.20,"LB","MorrisS","Clear",2,"Upstream","HighWater","Rock",12/30/1899 19:44:00,12/30/1899 20:44:00,21.50,,0,0,0,,"DaubertM",11/7/2017 0:00:00,"3",0,,"GiardinaM","No inner label",,,,,
 5435,"L06288","GrandCanyon","CRGrandCanyon",5/15/2016 0:00:00,200.20,"LB","MorrisS","Clear",0,,"HighWater","Grasses-Forbes",12/30/1899 20:06:00,12/30/1899 21:06:00,24.90,,0,0,0,,"DaubertM",11/27/2017 0:00:00,"11",0,,"GiardinaM","No internal label",,,,,
-5438,"L06289","GrandCanyon","CRGrandCanyon",5/26/2016 0:00:00,47.50,"RB","MorrisS","Clear",0,,"HighWater","Sand",12/30/1899 19:48:00,12/30/1899 19:47:00,19.50,,0,0,0,,,,,0,,,"MD-(open or close time recorded incorrectly).",,,,,
+5438,"L06289","GrandCanyon","CRGrandCanyon",5/26/2016 0:00:00,47.50,"RB","MorrisS","Clear",0,,"HighWater","Sand",12/30/1899 19:48:00,12/30/1899 19:47:00,19.50,,0,0,0,,"DaubertM",3/20/2018 0:00:00,"0008",0,,"GiardinaM","MD-(open or close time recorded incorrectly).
+
+No internal label 
+
+QAQC sample saved",,,,,
 5439,"L06290","GrandCanyon","CRGrandCanyon",5/27/2016 0:00:00,63.00,"RB","MorrisS","Clear",0,,"HighWater","Sand",12/30/1899 19:55:00,12/30/1899 20:52:00,24.20,,0,0,0,,"DaubertM",,"3",0,,"GiardinaM","No internal label
 no processing date",,,,,
 5440,"L06291","GrandCanyon","CRGrandCanyon",5/28/2016 0:00:00,74.70,"RB","MorrisS","Clear",0,,"HighWater","Rock",12/30/1899 20:16:00,12/30/1899 20:17:00,21.30,,0,0,0,,"DaubertM",12/4/2017 0:00:00,"14",0,,"GiardinaM","No inner label",,,,,
@@ -5614,7 +5624,7 @@ Datasheet reads: Bottle says "" NAU San Juans - Entered wonky data so internal l
 6572,"L06448","GrandCanyon","CRGrandCanyon",9/6/2016 0:00:00,199.30,"RB","MackayW","Clear",0,,"HighWater","Rock",12/30/1899 19:25:00,12/30/1899 20:25:00,28.00,,0,0,0,,"DaubertM",12/6/2017 0:00:00,"14",0,,"GiardinaM",,,,,,
 6560,"L06449","GrandCanyon","CRGrandCanyon",8/9/2016 0:00:00,133.70,"LB","MackayW","Cloudy",1,"Downstream","HighWater","Rock",12/30/1899 19:45:00,12/30/1899 20:45:00,34.80,,0,0,0,,"DaubertM",12/4/2017 0:00:00,"8",0,,"GiardinaM",,,,,,
 6544,"L06450","GrandCanyon","CRGrandCanyon",5/12/2016 0:00:00,146.10,"LB","MackayW","Clear",0,,"HighWater","Rock",12/30/1899 20:45:00,12/30/1899 21:55:00,26.10,,0,0,0,,"GoodenoughD",11/7/2017 0:00:00,"101",0,,"GiardinaM",,,,,,
-6542,"L06451","GrandCanyon","CRGrandCanyon",5/11/2016 0:00:00,132.50,"RB","MackayW","Clear",1,"Upstream","HighWater","Sand",12/30/1899 20:41:00,12/30/1899 21:41:00,22.00,,0,0,0,,,,,0,,,,,,,,
+6542,"L06451","GrandCanyon","CRGrandCanyon",5/11/2016 0:00:00,132.50,"RB","MackayW","Clear",1,"Upstream","HighWater","Sand",12/30/1899 20:41:00,12/30/1899 21:41:00,22.00,,0,0,0,,"DaubertM",3/20/2018 0:00:00,"0007",0,,"GiardinaM","QAQC sample saved",,,,,
 6534,"L06452","GrandCanyon","CRGrandCanyon",4/12/2016 0:00:00,188.40,"RB","MackayW","Clear",1,"Upstream","HighWater","Sand",12/30/1899 20:00:00,12/30/1899 21:00:00,21.30,,0,0,0,,"DaubertM",10/27/2017 0:00:00,"4",0,,"GiardinaM",,,,,,
 6526,"L06453","GrandCanyon","CRGrandCanyon",7/7/2016 0:00:00,20.70,"RB","MackayW","Cloudy",0,,"HighWater","Sand",12/30/1899 20:20:00,12/30/1899 21:20:00,15.70,,0,0,0,,"DaubertM",11/7/2017 0:00:00,"7",0,,"GiardinaM",,,,,,
 6527,"L06454","GrandCanyon","CRGrandCanyon",4/8/2016 0:00:00,53.20,"RB","MackayW","Rain",1,"Upstream","HighWater","Sand",12/30/1899 19:45:00,12/30/1899 20:45:00,15.60,,0,0,0,,"DaubertM",10/23/2017 0:00:00,"2",0,,"GiardinaM",,,,,,
@@ -5819,7 +5829,7 @@ Data sheet reads: No barcode and no river mile. GCY.",,,,,
 5229,"L06669","GrandCanyon","CRGrandCanyon",4/12/2016 0:00:00,225.80,"LB","PrivateBoater","Clear",0,"Downstream","HighWater","Sand",12/30/1899 19:22:00,12/30/1899 20:22:00,24.10,,0,0,0,,"DaubertM",1/16/2018 0:00:00,"3",0,,"GiardinaM",,,,,,
 5230,"L06670","GrandCanyon","CRGrandCanyon",4/13/2016 0:00:00,230.60,"LB","PrivateBoater","Clear",,"Downstream","HighWater","Sand",12/30/1899 19:14:00,12/30/1899 20:15:00,,,0,0,0,,"FordM",1/16/2018 0:00:00,"3",0,,"GiardinaM","Thermometer broken. MD-(no wind noted).",,,,,
 5231,"L06671","GrandCanyon","CRGrandCanyon",4/14/2016 0:00:00,248.80,"RB","PrivateBoater","Cloudy",0,,"HighWater","Sand",12/30/1899 19:35:00,12/30/1899 20:40:00,,,0,0,0,,"DaubertM",1/16/2018 0:00:00,"6",0,,"GiardinaM","Thermometer broken.",,,,,
-5232,"L06672","GrandCanyon","CRGrandCanyon",4/15/2016 0:00:00,273.97,"LB","PrivateBoater","Clear",1,"Upstream","HighWater","Trees-Shrubs",12/30/1899 19:11:00,12/30/1899 20:21:00,19.30,,0,0,0,,,,,0,,,,,,,,
+5232,"L06672","GrandCanyon","CRGrandCanyon",4/15/2016 0:00:00,273.97,"LB","PrivateBoater","Clear",1,"Upstream","HighWater","Trees-Shrubs",12/30/1899 19:11:00,12/30/1899 20:21:00,19.30,,0,0,0,,"DaubertM",1/17/2018 0:00:00,"0003",0,,"GiardinaM","QAQC saved",,,,,
 6799,"L06673","UpperBasin","GRDesoGray",6/1/2016 0:00:00,26.00,"LB","FullerL","Clear",1,"Downstream","HighWater","Sand",12/30/1899 21:20:00,12/30/1899 22:20:00,24.50,,0,0,0,,"MetcalfeA",6/27/2017 0:00:00,"713",0,,,"felt colder",,,,,
 6797,"L06674","UpperBasin","GRDesoGray",6/6/2016 0:00:00,95.50,"RB","MartinezC","Clear",0,"Downstream","HighWater","Sand",12/30/1899 21:23:00,12/30/1899 22:23:00,22.40,,0,0,0,,"MetcalfeA",3/1/2017 0:00:00,"12000",0,,,"flow 19500 during gates release",,,,,"terr in env"
 5471,"L06675","GrandCanyon","CRGrandCanyon",6/1/2016 0:00:00,186.01,"LB","SchragerT","Clear",1,"Upstream","HighWater","Grasses-Forbes",12/30/1899 20:12:00,12/30/1899 21:17:00,34.20,,0,0,0,,"DaubertM",12/1/2017 0:00:00,"134",0,,"GiardinaM",,,,,,
@@ -5831,7 +5841,9 @@ SAMPLE DATE ON DATASHEET IS WRITTEN AS 5/30/16",,,,,
 5467,"L06679","GrandCanyon","CRGrandCanyon",5/29/2016 0:00:00,120.33,"LB","SchragerT","Clear",1,"Upstream","HighWater","Grasses-Forbes",12/30/1899 19:05:00,12/30/1899 20:05:00,24.10,,0,0,0,,"DaubertM",11/30/2017 0:00:00,"17",0,,"GiardinaM",,,,,,
 5466,"L06680","GrandCanyon","CRGrandCanyon",5/28/2016 0:00:00,98.67,"RB","SchragerT","Clear",1,"Upstream","HighWater","Trees-Shrubs",12/30/1899 19:08:00,12/30/1899 20:08:00,24.10,,0,0,0,,"DaubertM",12/1/2017 0:00:00,"19",0,,"GiardinaM","No inner label",,,,,
 5140,"L06681","GrandCanyon","CRGrandCanyon",5/2/2016 0:00:00,240.61,"RB","RoussisO","Clear",2,"Downstream","HighWater","Rock",12/30/1899 19:20:00,12/30/1899 20:17:00,22.30,,0,0,0,,,,,0,,,,,,,,
-5139,"L06682","GrandCanyon","CRGrandCanyon",5/7/2016 0:00:00,219.97,"RB","RoussisO","Clear",0,,"HighWater","Sand",12/30/1899 19:54:00,12/30/1899 20:57:00,16.30,,0,0,0,,,,,0,,,,,,,,
+5139,"L06682","GrandCanyon","CRGrandCanyon",5/7/2016 0:00:00,219.97,"RB","RoussisO","Clear",0,,"HighWater","Sand",12/30/1899 19:54:00,12/30/1899 20:57:00,16.30,,0,0,0,,"DaubertM",1/17/2018 0:00:00,"0011",0,,"GiardinaM","No internal label 
+
+QAQC saved",,,,,
 5138,"L06683","GrandCanyon","CRGrandCanyon",4/30/2016 0:00:00,192.35,"RB","RoussisO","Cloudy",0,,"HighWater","Sand",12/30/1899 19:15:00,12/30/1899 20:35:00,15.00,,0,0,0,,"DaubertM",1/16/2018 0:00:00,"2",0,,"GiardinaM",,,,,,
 5137,"L06684","GrandCanyon","CRGrandCanyon",4/29/2016 0:00:00,165.18,"RB","RoussisO","Cloudy",2,"Downstream","HighWater","Rock",12/30/1899 19:17:00,12/30/1899 20:10:00,18.00,,0,0,0,,"DaubertM",11/8/2017 0:00:00,"1",0,,"GiardinaM",,,,,,
 5136,"L06685","GrandCanyon","CRGrandCanyon",4/28/2016 0:00:00,149.85,"LB","RoussisO","Cloudy",1,"Upstream","HighWater","Sand",12/30/1899 19:12:00,12/30/1899 20:17:00,15.00,,0,0,0,,,,,0,,,,,,,,
@@ -5839,9 +5851,11 @@ SAMPLE DATE ON DATASHEET IS WRITTEN AS 5/30/16",,,,,
 
 No internal label",,,,,
 5134,"L06687","GrandCanyon","CRGrandCanyon",4/26/2016 0:00:00,120.60,"RB","RoussisO","Clear",2,"Upstream","HighWater","Sand",12/30/1899 20:00:00,12/30/1899 21:00:00,19.00,,0,0,0,,"DaubertM",11/14/2017 0:00:00,,0,,"GiardinaM","no processing time",,,,,
-5133,"L06688","GrandCanyon","CRGrandCanyon",4/25/2016 0:00:00,109.96,"RB","RoussisO","Cloudy",1,"Upstream","HighWater","Sand",12/30/1899 19:11:00,12/30/1899 20:06:00,16.00,,0,0,0,,,,,0,,,,,,,,
+5133,"L06688","GrandCanyon","CRGrandCanyon",4/25/2016 0:00:00,109.96,"RB","RoussisO","Cloudy",1,"Upstream","HighWater","Sand",12/30/1899 19:11:00,12/30/1899 20:06:00,16.00,,0,0,0,,"DaubertM",1/17/2018 0:00:00,"0004",0,,"GiardinaM","QAQC saved",,,,,
 5132,"L06689","GrandCanyon","CRGrandCanyon",4/24/2016 0:00:00,93.89,"LB","RoussisO","Cloudy",2,"Upstream","HighWater","Sand",12/30/1899 19:10:00,12/30/1899 20:14:00,23.40,,0,0,0,,"FordM",1/16/2018 0:00:00,"14",0,,"14",,,,,,
-5131,"L06690","GrandCanyon","CRGrandCanyon",4/23/2016 0:00:00,81.74,"LB","RoussisO",,2,"Upstream","HighWater","Sand",12/30/1899 19:09:00,12/30/1899 20:12:00,20.80,,0,0,0,,,,,0,,,"Light consistent wind with just a few gusts.",,,,,
+5131,"L06690","GrandCanyon","CRGrandCanyon",4/23/2016 0:00:00,81.74,"LB","RoussisO",,2,"Upstream","HighWater","Sand",12/30/1899 19:09:00,12/30/1899 20:12:00,20.80,,0,0,0,,"DaubertM",1/18/2018 0:00:00,"0006",0,,"GiardinaM","Light consistent wind with just a few gusts.
+
+QAQC saved",,,,,
 5130,"L06691","GrandCanyon","CRGrandCanyon",4/22/2016 0:00:00,65.18,"RB","RoussisO","Clear",2,"Upstream","HighWater",,12/30/1899 19:17:00,12/30/1899 20:15:00,23.20,,0,0,0,,"FordM",12/5/2017 0:00:00,"5",0,,"GiardinaM","Giant gusts of wind with just a few calm moments. MD-(no habitat type noted).",,,,,
 5129,"L06692","GrandCanyon","CRGrandCanyon",4/21/2016 0:00:00,47.67,"RB","RoussisO","Clear",1,"Upstream","HighWater","Sand",12/30/1899 19:09:00,12/30/1899 20:17:00,19.40,,0,0,0,,"FordM",12/1/2017 0:00:00,"8",0,,"GiardinaM","Wind picked up 1/2 way through collection. Definitely a lot stronger up wind the last half an hour.",,,,,
 5128,"L06693","GrandCanyon","CRGrandCanyon",4/20/2016 0:00:00,32.79,"LB","RoussisO","Clear",0,,"HighWater","Sand",12/30/1899 19:01:00,12/30/1899 20:13:00,17.30,,0,0,0,,"FordM",1/17/2018 0:00:00,"23",0,,"GiardinaM","really calm night at little red wall.",,,,,
@@ -6181,7 +6195,10 @@ no processing time",,,,,
 5517,"L07314","UpperBasin","SJSandIsland",6/5/2016 0:00:00,76.00,"LB","GCY","Clear",0,,"HighWater","Grasses-Forbes",12/30/1899 19:53:00,12/30/1899 21:30:00,26.80,,0,1,0,,,,,0,,,"EK: Open time suspiciously early (before sunset?)",,,,,
 5516,"L07315","UpperBasin","SJSandIsland",6/4/2016 0:00:00,66.50,"RB","GCY","Clear",0,"Downstream","HighWater","Trees-Shrubs",12/30/1899 20:11:00,12/30/1899 21:11:00,24.30,,0,1,0,,,,,0,,,"EK: Open time suspiciously early (before sunset?)",,,,,
 5515,"L07316","UpperBasin","SJSandIsland",6/3/2016 0:00:00,59.00,"RB","GCY","Clear",0,"Upstream","HighWater","Grasses-Forbes",12/30/1899 20:00:00,12/30/1899 21:00:00,25.10,,0,1,0,,"DaubertM",10/19/2017 0:00:00,"27",0,,"GiardinaM","EK: Open time suspiciously early (before sunset?)",,,,,
-5514,"L07317","UpperBasin","SJSandIsland",6/2/2016 0:00:00,46.60,"LB","GCY","Clear",0,"Upstream","HighWater","Grasses-Forbes",12/30/1899 19:31:00,12/30/1899 20:23:00,30.90,,0,1,0,,,,,0,,,"""Some ants crawled into the bottle as we were pouring alcohol back into bottle"". EK: Open time suspiciously early (before sunset?)",,,,,
+5514,"L07317","UpperBasin","SJSandIsland",6/2/2016 0:00:00,46.60,"LB","GCY","Clear",0,"Upstream","HighWater","Grasses-Forbes",12/30/1899 19:31:00,12/30/1899 20:23:00,30.90,,0,1,0,,"DaubertM",1/18/2018 0:00:00,"0023",0,,"GiardinaM","""Some ants crawled into the bottle as we were pouring alcohol back into bottle"". EK: Open time suspiciously early (before sunset?)
+
+No internal label 
+QAQC saved",,,,,
 5400,"L07318","GrandCanyon","CRGrandCanyon",6/7/2016 0:00:00,229.00,,"GCY","Clear",0,"Downstream","HighWater","Sand",12/30/1899 19:22:00,12/30/1899 20:28:00,36.66,,0,0,0,,"DaubertM",10/19/2017 0:00:00,"5",0,,"GiardinaM","MD-(river side not noted).",,,,,
 5402,"L07319","GrandCanyon","CRGrandCanyon",6/9/2016 0:00:00,277.00,"LB","GCY","Clear",0,"Downstream","HighWater","Grasses-Forbes",12/30/1899 21:08:00,,30.90,,0,1,0,,,,,0,,,"MD-(close time not noted).",,,,,
 5401,"L07320","GrandCanyon","CRGrandCanyon",6/8/2016 0:00:00,249.40,"RB","GCY","Clear",0,"Downstream","HighWater","Sand",12/30/1899 20:03:00,12/30/1899 21:05:00,38.60,,0,0,0,,"DaubertM",10/24/2017 0:00:00,"4",0,,"GiardinaM","No inner label",,,,,
@@ -6344,7 +6361,7 @@ Notes on datasheet read: Saved Oslari for Anya",,,,,
 
 No internal label",,,,,
 6605,"L07565","GrandCanyon","CRGrandCanyon",8/26/2016 0:00:00,14.42,"LB","TibbitsC","Cloudy",0,,"HighWater","Rock",12/30/1899 19:31:00,12/30/1899 19:35:00,19.70,,0,0,0,,,,,0,,,,,,,,
-6608,"L07566","GrandCanyon","CRGrandCanyon",8/27/2016 0:00:00,44.53,"LB","TibbitsC","Cloudy",0,,"HighWater","Sand",12/30/1899 19:10:00,12/30/1899 20:12:00,18.40,,0,0,0,,,,,0,,,,,,,,
+6608,"L07566","GrandCanyon","CRGrandCanyon",8/27/2016 0:00:00,44.53,"LB","TibbitsC","Cloudy",0,,"HighWater","Sand",12/30/1899 19:10:00,12/30/1899 20:12:00,18.40,,0,0,0,,"FordM",4/17/2018 0:00:00,,0,,"GiardinaM","No processing time on datasheet",,,,,
 6610,"L07567","GrandCanyon","CRGrandCanyon",8/28/2016 0:00:00,66.85,"RB","TibbitsC","Clear",0,,"HighWater","Sand",12/30/1899 19:18:00,12/30/1899 20:20:00,23.30,,0,0,0,,,,,0,,,,,,,,
 6612,"L07568","GrandCanyon","CRGrandCanyon",8/29/2016 0:00:00,92.40,"RB","TibbitsC","Clear",0,,"HighWater",,12/30/1899 19:28:00,12/30/1899 20:30:00,25.30,,0,0,0,,,,,0,,,,,,,,
 5592,"L07569","GrandCanyon","CRGrandCanyon",6/29/2016 0:00:00,127.00,"RB","PrivateBoater","Clear",0,,"HighWater","Trees-Shrubs",12/30/1899 19:52:00,12/30/1899 20:51:00,28.60,,0,0,0,,"FordM",3/16/2017 0:00:00,"3500",0,,"MF",,,,,,"no inner label"
@@ -6709,34 +6726,34 @@ notes on datasheet read: saved oslari for Anya",,,,,
 7065,"L08001","GrandCanyon","CRGrandCanyon",7/15/2016 0:00:00,19.44,"LB","GCY","Clear",0,"Downstream","HighWater",,12/30/1899 20:10:00,12/30/1899 21:10:00,32.20,,0,0,0,"KortenhoevenE","KortenhoevenE",5/5/2017 0:00:00,"142",0,,"GiardinaM","No habitat recorded- EK",,,,,
 7068,"L08002","GrandCanyon","CRGrandCanyon",7/16/2016 0:00:00,31.87,"RB","GCY","Clear",1,"Upstream","HighWater","Trees-Shrubs",12/30/1899 20:08:00,,33.90,,0,1,0,"KortenhoevenE","FordM",6/14/2017 0:00:00,,0,,"GiardinaM","no close time recorded. Collected by GCY and Christina Lupoli, likely collection was about 1 hour. - EK
 no processing time",,,,,
-8011,"L08003","GrandCanyon","CRGrandCanyon",7/17/2016 0:00:00,44.47,"LB","GCY",,0,"NA","HighWater","Sand",12/30/1899 19:59:00,12/30/1899 20:54:00,34.80,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,"GiardinaM","!PART OF AN ARRAY 0",,,,,
-8012,"L08004","GrandCanyon","CRGrandCanyon",7/17/2016 0:00:00,44.47,"LB","GCY",,0,"NA","HighWater","Sand",12/30/1899 20:00:00,12/30/1899 20:56:00,31.90,"Rechargeable",0,1,0,"MetcalfeA",,,,0,,"GiardinaM","!PART OF AN ARRAY 30f! Smoky from fire",,,,,
-8013,"L08005","GrandCanyon","CRGrandCanyon",7/17/2016 0:00:00,44.47,"LB","GCY",,0,"NA","HighWater","Sand",12/30/1899 20:01:00,12/30/1899 20:58:00,33.40,"Rechargeable",0,1,0,"MetcalfeA",,,,0,,"GiardinaM","!PART OF AN ARRAY 60f! ""smoky from fire""",,,,,
-8014,"L08006","GrandCanyon","CRGrandCanyon",7/17/2016 0:00:00,44.47,"LB","GCY","Cloudy",0,"NA","HighWater","Trees-Shrubs",12/30/1899 20:03:00,12/30/1899 20:59:00,34.60,"Rechargeable",0,1,1,"MetcalfeA",,,,0,,"GiardinaM","!PART OF AN ARRAY 120f! ""smoky from fire. Light malfunctioned""",,,,,
-8015,"L08007","GrandCanyon","CRGrandCanyon",7/17/2016 0:00:00,44.47,"LB","GCY","Cloudy",0,"NA","HighWater",,12/30/1899 20:05:00,12/30/1899 21:02:00,34.60,"Rechargeable",0,1,0,"MetcalfeA",,,,0,,"GiardinaM","!PART OF AN ARRAY 240f! ""smoky from fire""",,,,,
+8011,"L08003","GrandCanyon","CRGrandCanyon",7/17/2016 0:00:00,44.47,"LB","GCY",,0,"NA","HighWater","Sand",12/30/1899 19:59:00,12/30/1899 20:54:00,34.80,"Rechargeable",0,0,0,"MetcalfeA","FordM",4/2/2018 0:00:00,"0048",0,,"GiardinaM","!PART OF AN ARRAY 0",,,,,
+8012,"L08004","GrandCanyon","CRGrandCanyon",7/17/2016 0:00:00,44.47,"LB","GCY",,0,"NA","HighWater","Sand",12/30/1899 20:00:00,12/30/1899 20:56:00,31.90,"Rechargeable",0,1,0,"MetcalfeA","FordM",4/16/2018 0:00:00,"0245",0,,"GiardinaM","!PART OF AN ARRAY 30f! Smoky from fire",,,,,
+8013,"L08005","GrandCanyon","CRGrandCanyon",7/17/2016 0:00:00,44.47,"LB","GCY",,0,"NA","HighWater","Sand",12/30/1899 20:01:00,12/30/1899 20:58:00,33.40,"Rechargeable",0,1,0,"MetcalfeA","FordM",4/6/2018 0:00:00,"0048",0,,"GiardinaM","!PART OF AN ARRAY 60f! ""smoky from fire""",,,,,
+8014,"L08006","GrandCanyon","CRGrandCanyon",7/17/2016 0:00:00,44.47,"LB","GCY","Cloudy",0,"NA","HighWater","Trees-Shrubs",12/30/1899 20:03:00,12/30/1899 20:59:00,34.60,"Rechargeable",0,1,1,"MetcalfeA","FordM",4/5/2018 0:00:00,"0020",0,,"GiardinaM","!PART OF AN ARRAY 120f! ""smoky from fire. Light malfunctioned""",,,,,
+8015,"L08007","GrandCanyon","CRGrandCanyon",7/17/2016 0:00:00,44.47,"LB","GCY","Cloudy",0,"NA","HighWater",,12/30/1899 20:05:00,12/30/1899 21:02:00,34.60,"Rechargeable",0,1,0,"MetcalfeA","FordM",4/2/2018 0:00:00,"0100",0,,"GiardinaM","!PART OF AN ARRAY 240f! ""smoky from fire""",,,,,
 7072,"L08008","GrandCanyon","CRGrandCanyon",7/18/2016 0:00:00,58.97,"LB","GCY","Cloudy",1,"Downstream","HighWater","Trees-Shrubs",12/30/1899 18:50:00,12/30/1899 21:15:00,28.00,,0,1,0,"KortenhoevenE","FordM",6/14/2017 0:00:00,"25",0,,"GiardinaM","open/close times. Opened too early and ran for about 2.5 hours. - EK. ""Rain ~5pm, possibly more later. 19:50 NO BUGS. Still Light. Left +1hr""",,,,,
-7070,"L08009","GrandCanyon","CRGrandCanyon",7/19/2016 0:00:00,65.07,"RB","GCY","Clear",0,,"HighWater","Trees-Shrubs",12/30/1899 20:30:00,12/30/1899 21:40:00,28.30,,0,0,0,"KortenhoevenE",,,,0,,"FordM",,,,,,
-8004,"L08010","GrandCanyon","CRGrandCanyon",7/20/2016 0:00:00,87.73,"LB","GCY","Cloudy",0,"NA","HighWater","Sand",12/30/1899 20:08:00,12/30/1899 21:20:00,28.80,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,"GiardinaM",,,,,,
+7070,"L08009","GrandCanyon","CRGrandCanyon",7/19/2016 0:00:00,65.07,"RB","GCY","Clear",0,,"HighWater","Trees-Shrubs",12/30/1899 20:30:00,12/30/1899 21:40:00,28.30,,0,0,0,"KortenhoevenE","DaubertM",4/4/2018 0:00:00,"0026",0,,"GiardinaM",,,,,,
+8004,"L08010","GrandCanyon","CRGrandCanyon",7/20/2016 0:00:00,87.73,"LB","GCY","Cloudy",0,"NA","HighWater","Sand",12/30/1899 20:08:00,12/30/1899 21:20:00,28.80,"Rechargeable",0,0,0,"MetcalfeA","DaubertM",4/5/2018 0:00:00,"0107",0,,"GiardinaM",,,,,,
 8005,"L08011","GrandCanyon","CRGrandCanyon",7/21/2016 0:00:00,108.30,"LB","GCY","Cloudy",1,"Downstream","HighWater","Trees-Shrubs",12/30/1899 20:21:00,12/30/1899 21:21:00,35.00,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,"GiardinaM",,,,,,
-8006,"L08012","GrandCanyon","CRGrandCanyon",7/22/2016 0:00:00,114.92,"RB","GCY","Cloudy",1,"Upstream","HighWater",,12/30/1899 21:08:00,12/30/1899 22:08:00,36.70,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,"GiardinaM",,,,,,
-7767,"L08013","GrandCanyon","CRGrandCanyon",7/23/2016 0:00:00,122.78,"RB","GCY","Clear",0,"NA","HighWater",,12/30/1899 20:00:00,12/30/1899 21:10:00,29.70,"Rechargeable",0,0,1,"DaubertM",,,,0,,"GiardinaM","MD- No datasheet associated with sample. (2016)
+8006,"L08012","GrandCanyon","CRGrandCanyon",7/22/2016 0:00:00,114.92,"RB","GCY","Cloudy",1,"Upstream","HighWater",,12/30/1899 21:08:00,12/30/1899 22:08:00,36.70,"Rechargeable",0,0,0,"MetcalfeA","FordM",4/5/2018 0:00:00,,0,,"GiardinaM","No processing time noted on datasheet",,,,,
+7767,"L08013","GrandCanyon","CRGrandCanyon",7/23/2016 0:00:00,122.78,"RB","GCY","Clear",0,"NA","HighWater",,12/30/1899 20:00:00,12/30/1899 21:10:00,29.70,"Rechargeable",0,0,1,"DaubertM","FordM",4/3/2018 0:00:00,"0148",0,,"GiardinaM","MD- No datasheet associated with sample. (2016)
 
 AM- found datasheet mixed in with 2017 San Juan samples 2/13/18",,,,,
-8008,"L08014","GrandCanyon","CRGrandCanyon",7/23/2016 0:00:00,122.78,"RB","GCY","Clear",0,"NA","45K",,12/30/1899 20:00:00,12/30/1899 21:12:00,29.70,"Night3AA",0,1,0,"MetcalfeA",,,,0,,"GiardinaM","TWO SAMPLES COLLECTED AT THIS CAMP THIS NIGHT. This one in old high water zone.",,,,,
-7763,"L08015","GrandCanyon","CRGrandCanyon",7/24/2016 0:00:00,140.40,,"GCY",,,,"HighWater",,,,,"Rechargeable",0,0,1,"DaubertM",,,,0,,"GiardinaM","MD- no datasheet associated with sample.",,,,,
-8010,"L08016","GrandCanyon","CRGrandCanyon",7/24/2016 0:00:00,140.38,"LB","GCY","Clear",0,"NA","45K","Trees-Shrubs",12/30/1899 20:30:00,12/30/1899 21:30:00,34.50,"Night4AA",0,1,0,"MetcalfeA",,,,0,,"GiardinaM","!Old High Water Zone! Paired sample. No idea why.",,,,,
-7764,"L08017","GrandCanyon","CRGrandCanyon",7/25/2016 0:00:00,150.71,"LB","GCY","Rain",0,"NA","HighWater","Trees-Shrubs",12/30/1899 20:15:00,12/30/1899 21:15:00,32.90,"Night4AA",0,0,0,"MetcalfeA",,,,0,,"GiardinaM","MD- no datasheet associated with sample
+8008,"L08014","GrandCanyon","CRGrandCanyon",7/23/2016 0:00:00,122.78,"RB","GCY","Clear",0,"NA","45K",,12/30/1899 20:00:00,12/30/1899 21:12:00,29.70,"Night3AA",0,1,0,"MetcalfeA","DaubertM",4/4/2018 0:00:00,"0035",0,,"GiardinaM","TWO SAMPLES COLLECTED AT THIS CAMP THIS NIGHT. This one in old high water zone.",,,,,
+7763,"L08015","GrandCanyon","CRGrandCanyon",7/24/2016 0:00:00,140.40,,"GCY",,,,"HighWater",,,,,"Rechargeable",0,0,1,"DaubertM","DaubertM",4/5/2018 0:00:00,"0041",0,,"GiardinaM","MD- no datasheet associated with sample.",,,,,
+8010,"L08016","GrandCanyon","CRGrandCanyon",7/24/2016 0:00:00,140.38,"LB","GCY","Clear",0,"NA","45K","Trees-Shrubs",12/30/1899 20:30:00,12/30/1899 21:30:00,34.50,"Night4AA",0,1,0,"MetcalfeA","DaubertM",4/2/2018 0:00:00,"0137",0,,"GiardinaM","!Old High Water Zone! Paired sample. No idea why.",,,,,
+7764,"L08017","GrandCanyon","CRGrandCanyon",7/25/2016 0:00:00,150.71,"LB","GCY","Rain",0,"NA","HighWater","Trees-Shrubs",12/30/1899 20:15:00,12/30/1899 21:15:00,32.90,"Night4AA",0,0,0,"MetcalfeA","FordM",4/6/2018 0:00:00,"0048",0,,"GiardinaM","MD- no datasheet associated with sample
 
 AM- found datasheet mixed in with 2017 San Juan datasheets (2/13/18)
 
 ""Rained heavily midway""",,,,,
-7765,"L08018","GrandCanyon","CRGrandCanyon",7/26/2016 0:00:00,172.10,"LB","GCY","Cloudy",1,"Downstream","HighWater","Grasses-Forbes",12/30/1899 20:45:00,12/30/1899 21:45:00,37.90,"Night2AA",0,0,0,"MetcalfeA",,,,0,,"GiardinaM","MD- no datasheet associated with sample
+7765,"L08018","GrandCanyon","CRGrandCanyon",7/26/2016 0:00:00,172.10,"LB","GCY","Cloudy",1,"Downstream","HighWater","Grasses-Forbes",12/30/1899 20:45:00,12/30/1899 21:45:00,37.90,"Night2AA",0,0,0,"MetcalfeA","DaubertM",4/6/2018 0:00:00,"0024",0,,"GiardinaM","MD- no datasheet associated with sample
 
 AM- found datasheet mixed in with 2017 San Juan datasheets (2/13/18)",,,,,
-7762,"L08019","GrandCanyon","CRGrandCanyon",7/28/2016 0:00:00,225.92,"LB","GCY","Cloudy",0,"NA","HighWater","Rock",12/30/1899 20:00:00,12/30/1899 21:00:00,29.60,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,"GiardinaM","MD- no datasheet associated with sample.
+7762,"L08019","GrandCanyon","CRGrandCanyon",7/28/2016 0:00:00,225.92,"LB","GCY","Cloudy",0,"NA","HighWater","Rock",12/30/1899 20:00:00,12/30/1899 21:00:00,29.60,"Rechargeable",0,0,0,"MetcalfeA","DaubertM",4/5/2018 0:00:00,"0006",0,,"GiardinaM","MD- no datasheet associated with sample.
 
 AM- found datasheet mixed in with 2017 San Juan datasheets (2/13/18)",,,,,
-8016,"L08020","GrandCanyon","CRGrandCanyon",7/27/2016 0:00:00,199.45,"RB","GCY","Clear",1,"Upstream","HighWater","Sand",12/30/1899 20:20:00,12/30/1899 21:20:00,36.50,"Night3AA",0,0,0,"MetcalfeA",,,,0,,"GiardinaM","Datasheet recovered Feb 2018",,,,,
+8016,"L08020","GrandCanyon","CRGrandCanyon",7/27/2016 0:00:00,199.45,"RB","GCY","Clear",1,"Upstream","HighWater","Sand",12/30/1899 20:20:00,12/30/1899 21:20:00,36.50,"Night3AA",0,0,0,"MetcalfeA","FordM",4/4/2018 0:00:00,"0038",0,,"GiardinaM","Datasheet recovered Feb 2018",,,,,
 6591,"L08021","GrandCanyon","CRGrandCanyon",10/17/2016 0:00:00,58.10,"LB","JordanN","Clear",0,"Upstream","HighWater","Sand",12/30/1899 18:50:00,12/30/1899 19:50:00,22.00,,0,0,0,,,,,0,,,,,,,,
 6037,"L08022","GrandCanyon","CRGrandCanyon",9/11/2016 0:00:00,248.70,"RB","GCMRC","Clear",0,"Upstream","HighWater","Sand",12/30/1899 19:55:00,12/30/1899 20:55:00,30.20,,0,0,0,,,,,0,,,,,,,,
 6583,"L08023","GrandCanyon","CRGrandCanyon",10/2/2016 0:00:00,188.60,"RB","JordanN","Clear",2,"Upstream","HighWater","Sand",12/30/1899 19:20:00,12/30/1899 20:20:00,21.40,,0,0,0,,,,,0,,,,,,,,
@@ -6766,9 +6783,11 @@ No processing time",,,,,
 5950,"L08048","GrandCanyon","CRGrandCanyon",8/8/2016 0:00:00,137.60,"LB","JordanN","Clear",1,"Upstream","HighWater","Sand",12/30/1899 20:45:00,12/30/1899 21:48:00,29.10,,0,0,0,,,,,0,,,,,,,,
 5949,"L08049","GrandCanyon","CRGrandCanyon",8/6/2016 0:00:00,74.60,"RB","JordanN","Cloudy",0,,"HighWater","Rock",12/30/1899 20:45:00,12/30/1899 21:48:00,23.70,,0,0,0,,,,,0,,,,,,,,
 5948,"L08050","GrandCanyon","CRGrandCanyon",8/5/2016 0:00:00,31.90,"RB","JordanN","Cloudy",1,"Downstream","HighWater","Trees-Shrubs",12/30/1899 20:45:00,12/30/1899 21:50:00,22.80,,0,0,0,,,,,0,,,,,,,,
-8017,"L08051","GrandCanyon","CRGrandCanyon",7/27/2016 0:00:00,199.45,"RB","GCY","Clear",1,"Upstream","45K","Sand",12/30/1899 20:20:00,12/30/1899 21:20:00,36.50,"Night2AA",0,1,0,"MetcalfeA",,,,0,,"GiardinaM","!Array 30f. Datasheet recovered Feb 2018",,,,,
-8018,"L08052","GrandCanyon","CRGrandCanyon",7/27/2016 0:00:00,199.45,"RB","GCY","Clear",1,"Upstream","45K","Grasses-Forbes",12/30/1899 20:20:00,12/30/1899 21:20:00,36.50,"Night2AA",0,0,0,"MetcalfeA",,,,0,,"GiardinaM","!Array 60f. Datasheet recovered Feb 2018",,,,,
-8020,"L08053","GrandCanyon","CRGrandCanyon",7/27/2016 0:00:00,199.45,"RB","GCY","Clear",1,"Upstream","HighWater",,12/30/1899 20:22:00,12/30/1899 21:22:00,36.50,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,"GiardinaM","!Array but no distance recorded, probably 120ft. Datasheet recovered Feb 2018",,,,,
+8017,"L08051","GrandCanyon","CRGrandCanyon",7/27/2016 0:00:00,199.45,"RB","GCY","Clear",1,"Upstream","45K","Sand",12/30/1899 20:20:00,12/30/1899 21:20:00,36.50,"Night2AA",0,1,0,"MetcalfeA","FordM",4/16/2018 0:00:00,"0148",0,,"GiardinaM","!Array 30f. Datasheet recovered Feb 2018",,,,,
+8018,"L08052","GrandCanyon","CRGrandCanyon",7/27/2016 0:00:00,199.45,"RB","GCY","Clear",1,"Upstream","45K","Grasses-Forbes",12/30/1899 20:20:00,12/30/1899 21:20:00,36.50,"Night2AA",0,0,0,"MetcalfeA","DaubertM",4/6/2018 0:00:00,"0046",0,,"GiardinaM","!Array 60f. Datasheet recovered Feb 2018",,,,,
+8020,"L08053","GrandCanyon","CRGrandCanyon",7/27/2016 0:00:00,199.45,"RB","GCY","Clear",1,"Upstream","HighWater",,12/30/1899 20:22:00,12/30/1899 21:22:00,36.50,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,"GiardinaM","!Array but no distance recorded, probably 120ft. Datasheet recovered Feb 2018
+
+Datasheet reads: ""Nothing in Sample (Bugs or Data)""",,,,,
 6227,"L08054","GrandCanyon","CRGrandCanyon",9/18/2016 0:00:00,0.13,"RB","WilliamsK","Clear",0,,"HighWater",,12/30/1899 18:37:00,12/30/1899 19:37:00,19.10,,0,0,0,,"DaubertM",10/11/2017 0:00:00,"4",0,,"GiardinaM","MD-(Habitat type not noted).",,,,,
 6228,"L08055","GrandCanyon","CRGrandCanyon",9/19/2016 0:00:00,20.13,"LB","WilliamsK","Clear",0,,"HighWater",,12/30/1899 18:29:00,12/30/1899 19:32:00,20.30,,0,0,0,,"FordM",10/30/2017 0:00:00,"11",0,,"GiardinaM","MD-(Habitat type not noted).",,,,,
 6229,"L08056","GrandCanyon","CRGrandCanyon",9/20/2016 0:00:00,30.75,"RB","WilliamsK","Cloudy",0,,"HighWater","Sand",12/30/1899 18:27:00,12/30/1899 19:40:00,18.40,,0,0,0,,"DaubertM",10/11/2017 0:00:00,"4",0,,"GiardinaM",,,,,,
@@ -6886,8 +6905,8 @@ No internal label",,,,,
 6104,"L08181","GrandCanyon","CRGrandCanyon",8/22/2016 0:00:00,23.55,"LB","JerniganS","Cloudy",1,"Upstream","HighWater","Sand",12/30/1899 19:20:00,12/30/1899 20:22:00,20.90,,0,0,0,,"DaubertM",,"11",0,,"GiardinaM",,,,,,
 6103,"L08182","GrandCanyon","CRGrandCanyon",8/21/2016 0:00:00,8.01,"LB","JerniganS","Cloudy",,,"HighWater",,12/30/1899 19:21:00,12/30/1899 20:24:00,21.60,,0,0,0,,,,,0,,,"Driftwood for habitat type. MD-(no wind or wind direction noted).",,,,,
 6102,"L08183","GrandCanyon","CRGrandCanyon",8/20/2016 0:00:00,0.00,"RB","JerniganS","Cloudy",0,,"HighWater","Rock",12/30/1899 19:23:00,12/30/1899 20:25:00,22.30,,0,0,0,,,,,0,,,,,,,,
-7071,"L08187","GrandCanyon","CRGrandCanyon",7/19/2016 0:00:00,65.07,"RB","GCY","Clear",0,,"45K","Trees-Shrubs",12/30/1899 20:25:00,12/30/1899 21:30:00,28.30,,0,1,0,"KortenhoevenE",,,,0,,"FordM","""old high water line""",,,,,
-7073,"L08188","GrandCanyon","CRGrandCanyon",7/18/2016 0:00:00,58.97,"LB","GCY","Cloudy",1,"Downstream","45K","Grasses-Forbes",12/30/1899 18:52:00,12/30/1899 21:20:00,28.00,,0,1,0,"KortenhoevenE",,,,0,,"FordM","Sample open for 1 hr and 28 minutes. Sample opened prior to true sunset. ASSUME THAT THIS SAMPLE IS COLLECTED AT THE OLD HIGH WATER ZONE -EK ""Rain ~ 5pm. Possibly more later. Terrestrial SITE""",,,,,
+7071,"L08187","GrandCanyon","CRGrandCanyon",7/19/2016 0:00:00,65.07,"RB","GCY","Clear",0,,"45K","Trees-Shrubs",12/30/1899 20:25:00,12/30/1899 21:30:00,28.30,,0,1,0,"KortenhoevenE","DaubertM",4/5/2018 0:00:00,"0046",0,,"GiardinaM","""old high water line""",,,,,
+7073,"L08188","GrandCanyon","CRGrandCanyon",7/18/2016 0:00:00,58.97,"LB","GCY","Cloudy",1,"Downstream","45K","Grasses-Forbes",12/30/1899 18:52:00,12/30/1899 21:20:00,28.00,,0,1,0,"KortenhoevenE","DaubertM",4/4/2018 0:00:00,"0024",0,,"GiardinaM","Sample open for 1 hr and 28 minutes. Sample opened prior to true sunset. ASSUME THAT THIS SAMPLE IS COLLECTED AT THE OLD HIGH WATER ZONE -EK ""Rain ~ 5pm. Possibly more later. Terrestrial SITE""",,,,,
 7069,"L08189","GrandCanyon","CRGrandCanyon",7/16/2016 0:00:00,31.82,"RB","GCY","Clear",1,"Upstream","HighWater","Rock",12/30/1899 20:03:00,,33.90,,0,0,0,"KortenhoevenE",,,,0,,"FordM","no close time recorded. Collected by GCY and Christina Lupoli, likely a 1 hour collection. - EK ""Further back from Water""",,,,,
 7066,"L08190","GrandCanyon","CRGrandCanyon",7/15/2016 0:00:00,19.44,"LB","GCY","Clear",0,,"45K",,12/30/1899 20:13:00,12/30/1899 21:13:00,32.20,,0,1,0,"KortenhoevenE",,,,0,,"FordM","No Sample for this Datasheet/Barcode. No habitat recorded- EK. ""~300' from high water""",,,,,
 7720,"L08191","GrandCanyon","CRGrandCanyon",4/6/2017 0:00:00,47.60,,"MackayW","Clear",0,"NA","HighWater","Sand",12/30/1899 19:42:00,12/30/1899 20:42:00,15.40,"Rechargeable",0,0,0,"DaubertM",,,,0,,"GiardinaM","MD- river side not noted.",,,,,
@@ -7076,14 +7095,14 @@ No internal label",,,,,
 6575,"L08418","GrandCanyon","CRGrandCanyon",9/24/2016 0:00:00,47.50,"RB","JordanN","Clear",0,"Upstream","HighWater","Sand",12/30/1899 19:20:00,12/30/1899 20:20:00,23.30,,0,0,0,,,,,0,,,,,,,,
 6586,"L08419","GrandCanyon","CRGrandCanyon",10/14/2016 0:00:00,12.40,"LB","JordanN","Clear",0,"Upstream","HighWater","Sand",12/30/1899 18:53:00,12/30/1899 19:53:00,20.40,,0,0,0,,,,,0,,,,,,,,
 6587,"L08420","GrandCanyon","CRGrandCanyon",10/15/2016 0:00:00,23.50,,"JordanN",,,,"HighWater",,12/30/1899 18:55:00,12/30/1899 19:57:00,20.80,,0,1,0,,,,,0,,,"MD-(River side, weather discription, wind, wind direction and habitat type not noted).",,,,,
-6597,"L08421","GrandCanyon","CRGrandCanyon",10/22/2016 0:00:00,132.50,"RB","JordanN","Clear",0,"Upstream","HighWater","Sand",12/30/1899 18:50:00,12/30/1899 19:50:00,17.60,,0,0,0,,,,,0,,,,,,,,
-6598,"L08422","GrandCanyon","CRGrandCanyon",10/23/2016 0:00:00,144.80,"RB","JordanN","Clear",0,"Upstream","HighWater","Sand",12/30/1899 18:55:00,12/30/1899 19:56:00,17.90,,0,0,0,,,,,0,,,,,,,,
+6597,"L08421","GrandCanyon","CRGrandCanyon",10/22/2016 0:00:00,132.50,"RB","JordanN","Clear",0,"Upstream","HighWater","Sand",12/30/1899 18:50:00,12/30/1899 19:50:00,17.60,,0,0,0,,"FordM",4/17/2018 0:00:00,"0038",0,,"GiardinaM",,,,,,
+6598,"L08422","GrandCanyon","CRGrandCanyon",10/23/2016 0:00:00,144.80,"RB","JordanN","Clear",0,"Upstream","HighWater","Sand",12/30/1899 18:55:00,12/30/1899 19:56:00,17.90,,0,0,0,,"FordM",4/17/2018 0:00:00,"0027",0,,"GiardinaM",,,,,,
 6600,"L08423","GrandCanyon","CRGrandCanyon",10/25/2016 0:00:00,167.00,"LB","JordanN","Clear",0,"Upstream","HighWater","Sand",12/30/1899 18:52:00,12/30/1899 19:55:00,19.40,,0,0,0,,,,,0,,,,,,,,
 6601,"L08424","GrandCanyon","CRGrandCanyon",10/26/2016 0:00:00,185.90,"RB","JordanN","Clear",0,,"HighWater",,12/30/1899 18:50:00,12/30/1899 19:50:00,18.60,,0,0,0,,,,,0,,,"MD-(habitat type not noted).",,,,,
 6596,"L08437","GrandCanyon","CRGrandCanyon",10/21/2016 0:00:00,119.00,"RB","JordanN","Clear",0,"Upstream","HighWater","Sand",12/30/1899 18:55:00,12/30/1899 19:55:00,17.00,,0,0,0,,,,,0,,,,,,,,
 6595,"L08439","GrandCanyon","CRGrandCanyon",10/20/2016 0:00:00,93.80,"LB","NPSGRCA","Clear",0,"Upstream","HighWater","Sand",12/30/1899 18:52:00,12/30/1899 19:55:00,15.60,,0,0,0,,,,,0,,,,,,,,
 6594,"L08440","GrandCanyon","CRGrandCanyon",10/19/2016 0:00:00,74.60,"RB","JordanN","Clear",0,"Upstream","HighWater","Rock",12/30/1899 18:50:00,12/30/1899 19:50:00,20.20,,0,0,0,,,,,0,,,,,,,,
-6593,"L08441","GrandCanyon","CRGrandCanyon",10/18/2016 0:00:00,74.60,"RB","JordanN","Clear",0,"Upstream","HighWater","Rock",12/30/1899 18:55:00,12/30/1899 19:55:00,26.20,,0,0,0,,,,,0,,,,,,,,
+6593,"L08441","GrandCanyon","CRGrandCanyon",10/18/2016 0:00:00,74.60,"RB","JordanN","Clear",0,"Upstream","HighWater","Rock",12/30/1899 18:55:00,12/30/1899 19:55:00,26.20,,0,0,0,,"FordM",4/17/2018 0:00:00,"0022",0,,"GiardinaM",,,,,,
 6590,"L08442","GrandCanyon","CRGrandCanyon",10/16/2016 0:00:00,41.20,"RB","JordanN","Clear",2,"Upstream","HighWater","Sand",12/30/1899 18:55:00,12/30/1899 19:55:00,25.80,,0,0,0,,,,,0,,,,,,,,
 6580,"L08445","GrandCanyon","CRGrandCanyon",9/30/2016 0:00:00,145.00,"LB","JordanN","Clear",0,"Upstream","HighWater","Sand",12/30/1899 19:26:00,12/30/1899 20:26:00,21.00,,0,0,0,,,,,0,,,,,,,,
 6579,"L08446","GrandCanyon","CRGrandCanyon",9/29/2016 0:00:00,132.50,"RB","JordanN","Rain",1,"Upstream","HighWater","Sand",12/30/1899 19:25:00,12/30/1899 20:30:00,22.50,,0,1,0,,,,,0,,,"Very rainy night.",,,,,
@@ -7435,7 +7454,7 @@ No internal label",,,,,
 6398,"L08787","GrandCanyon","CRGrandCanyon",10/19/2016 0:00:00,144.50,"RB","Foodbase","Cloudy",0,,"HighWater","Sand",12/30/1899 18:19:00,12/30/1899 19:48:00,19.00,,0,0,0,,,,,0,,,"October row trip.",,,,,
 6396,"L08788","GrandCanyon","CRGrandCanyon",10/18/2016 0:00:00,133.00,,"Foodbase","Clear",0,,"HighWater","Sand",12/30/1899 18:24:00,12/30/1899 19:47:00,18.00,,0,0,0,,,,,0,,,"River side not noted. October row trip.",,,,,"SAMPLE OBLITERATED BY DARK FORCES (tossed, not processed)"
 6395,"L08789","GrandCanyon","CRGrandCanyon",10/17/2016 0:00:00,132.00,"RB","Foodbase","Clear",0,,"HighWater","Sand",12/30/1899 18:50:00,12/30/1899 19:55:00,80.50,,0,0,0,,,,,0,,,"October row trip.",,,,,
-6401,"L08790","GrandCanyon","CRGrandCanyon",10/22/2016 0:00:00,199.00,"RB","Foodbase","Clear",0,,"HighWater","Rock",12/30/1899 18:28:00,12/30/1899 19:26:00,22.10,,0,0,0,,,,,0,,,,,,,,
+6401,"L08790","GrandCanyon","CRGrandCanyon",10/22/2016 0:00:00,199.00,"RB","Foodbase","Clear",0,,"HighWater","Rock",12/30/1899 18:28:00,12/30/1899 19:26:00,22.10,,0,0,0,,"DaubertM",4/3/2018 0:00:00,"0013",0,,"GiardinaM",,,,,,
 6400,"L08791","GrandCanyon","CRGrandCanyon",10/21/2016 0:00:00,176.00,"LB","Foodbase","Clear",0,,"HighWater","Sand",12/30/1899 18:27:00,12/30/1899 19:32:00,17.40,,0,0,0,,,,,0,,,,,,,,
 6991,"L08792","GrandCanyon","CRGrandCanyon",4/27/2017 0:00:00,14.23,"LB","JerniganS","Clear",1,"Upstream","HighWater","Sand",12/30/1899 19:21:00,12/30/1899 20:23:00,15.50,,1,0,0,,,,,0,,,,,,,,
 6990,"L08793","GrandCanyon","CRGrandCanyon",4/25/2017 0:00:00,0.00,"RB","JerniganS","Clear",1,"Upstream","HighWater","Rock",12/30/1899 19:21:00,12/30/1899 20:25:00,21.30,,1,0,0,,"DaubertM",12/20/2017 0:00:00,"20",0,,"GiardinaM",,,,,,
