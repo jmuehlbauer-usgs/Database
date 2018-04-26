@@ -2898,7 +2898,7 @@ Processing date for 250um sample was 11/2/17"
 "D03601","LF20170713","GrandCanyon","CRLeesFerry","07/13/2017",,-12.90,,7.00,0,4,"Day","18:21:26",306,,"QuigleyT","Net",0.98,584.21,1.91,118.42,0,0,"GoodenoughD","RyanM","09/25/2017",38.45,0,,"GiardinaM","100 lb bomb used. Bomb was covered in algae.
 
 250um sample was procesed in 25hrs34min and was also processed on 09/27/17"
-"D03602","LF20170713","GrandCanyon","CRLeesFerry","07/13/2017",,-13.40,,7.00,0,4,"Day","18:35:27",296,,"QuigleyT","Net",1.02,375.26,1.27,76.07,1,1,"GoodenoughD","McCollumK","09/18/2017",23.85,0,,"GiardinaM","100 lb bomb used."
+"D03602","LF20170713","GrandCanyon","CRLeesFerry","07/13/2017",,-13.40,,7.00,0,4,"Day","18:35:27",296,,"QuigleyT","Net",1.02,375.26,1.27,76.07,1,0,"GoodenoughD","McCollumK","09/18/2017",23.85,0,,"GiardinaM","100 lb bomb used."
 "D03603","LF20170601","GrandCanyon","CRGrandCanyon","06/01/2017",,6.00,,7.00,0,4,"Day","15:06:56",300,"Medium","QuigleyT","Net",0.91,546.61,1.82,110.80,1,0,"GoodenoughD","HendrixB","11/27/2017",47.97,1,"FordM","GiardinaM","Actual process time for 1mm sample is 36hr 38min
 Actual process time for 250um sample is 39hr 1min and processing date is 12/05/17
 
@@ -2953,14 +2953,14 @@ no processing time for 250um sample"
 "D03650","LF20170809","GrandCanyon","CRGrandCanyon","08/09/2017",,1.90,,7.00,0,4,"Day","15:15:00",240,"Low","GoodenoughD","Net",0.94,308.25,1.28,62.48,0,0,"GoodenoughD","QuigleyT","09/24/2017",7.73,0,,"GiardinaM","250um sample was processed 10/24/17"
 "D03651","LF20170809","GrandCanyon","CRGrandCanyon","08/09/2017",,3.34,,7.00,0,4,"Day","14:54:00",210,"Medium","GoodenoughD","Net",0.98,424.78,2.02,86.10,0,0,"GoodenoughD","WoodyE","10/23/2017",26.27,0,,"GiardinaM","250um sample was processed 10/26/17"
 "D03652","LF20170809","GrandCanyon","CRGrandCanyon","08/09/2017",,6.00,,7.00,0,4,"Day","14:30:00",210,"High","GoodenoughD","Net",0.85,371.19,1.77,75.24,0,0,"GoodenoughD","QuigleyT","10/31/2017",9.00,0,,"GiardinaM","1mm sample processed 11/03/17"
-"D03655","LF20170911","GrandCanyon","CRGrandCanyon","09/11/2017",,6.00,,7.00,0,4,"Day","14:08:12",210,"Medium","GoodenoughD","Net",0.97,399.68,1.90,81.02,1,1,"GoodenoughD","WoodyE","12/06/2017",14.20,0,,"GiardinaM","Parked at 7ft."
+"D03655","LF20170911","GrandCanyon","CRGrandCanyon","09/11/2017",,6.00,,7.00,0,4,"Day","14:08:12",210,"Medium","GoodenoughD","Net",0.97,399.68,1.90,81.02,1,0,"GoodenoughD","WoodyE","12/06/2017",14.20,0,,"GiardinaM","Parked at 7ft."
 "D03656","LF20170911","GrandCanyon","CRGrandCanyon","09/11/2017",,3.34,,7.00,0,4,"Day","14:35:00",240,"Medium","GoodenoughD","Net",1.01,406.06,1.69,82.31,0,0,"GoodenoughD","HendrixB","02/08/2018",11.45,0,,"FordM","Parked at 7ft."
 "D03657","LF20170911","GrandCanyon","CRGrandCanyon","09/11/2017",,1.90,,7.00,0,4,"Day","14:51:00",240,"Low","GoodenoughD","Net",0.96,218.89,0.91,44.37,0,0,"GoodenoughD","WoodyE","11/28/2017",11.77,0,,"GiardinaM","Parked at 7ft.
 
 Processing date for 250um sample is 11/30/17"
 "D03658","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,0.00,,7.00,0,4,"Day","15:18:00",300,"Low","GoodenoughD","Net",0.94,193.44,0.64,39.21,0,0,"GoodenoughD","HendrixB","02/08/2018",4.17,0,,"FordM","Parked at 7ft."
 "D03659","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,-3.50,,7.00,0,4,"Day","15:40:00",300,"Low","GoodenoughD","Net",0.98,303.92,1.01,61.60,0,0,"GoodenoughD","SzydloC","02/07/2018",14.17,0,,"FordM","Parked at 7ft."
-"D03660","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,-8.00,,7.00,0,4,"Day","16:04:00",300,"Low","GoodenoughD","Net",0.95,484.71,1.62,98.25,0,0,"GoodenoughD","RyanM","02/06/2018",47.97,0,,"GiardinaM","Parked at 7ft. Metal nose cone on the net flowmeter came off when the sample was being taken, but it caught by the net. A small porion of the sample was spilled/lost in the process of bagging it out in the field. 
+"D03660","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,-8.00,,7.00,0,4,"Day","16:04:00",300,"Low","GoodenoughD","Net",0.95,484.71,1.62,98.25,1,0,"GoodenoughD","RyanM","02/06/2018",47.97,0,,"GiardinaM","Parked at 7ft. Metal nose cone on the net flowmeter came off when the sample was being taken, but it caught by the net. A small porion of the sample was spilled/lost in the process of bagging it out in the field. 
 Processing time for 1mm sample is 30h12m"
 "D03661","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,-11.00,,7.00,0,4,"Day","16:27:00",300,"Low","GoodenoughD","Net",0.95,300.31,1.00,60.87,0,0,"GoodenoughD","HendrixB","02/06/2018",11.82,0,,"GiardinaM","Parked at 7ft."
 "D03662","LF20170911","GrandCanyon","CRLeesFerry","09/11/2017",,-12.90,,7.00,0,4,"Day","16:52:00",300,"Low","GoodenoughD","Net",0.98,563.21,1.88,114.16,0,0,"GoodenoughD","HendrixB","02/04/2018",10.92,0,,"GiardinaM","Parked at 7ft."
@@ -4743,7 +4743,7 @@ Processing date for 250um sample is 11/28/17"
 "D07663","GC20170915","GrandCanyon","CRGrandCanyon","09/15/2017",,8.90,,7.00,0,4,"Day","15:01:02",30,"High","QuigleyT","Net",0.65,19.96,0.67,4.05,1,1,"GoodenoughD",,"",0.00,0,,"FordM","Super muddy and lots of debris."
 "D07664","GC20170915","GrandCanyon","CRGrandCanyon","09/15/2017",,10.70,,7.00,0,4,"Day","15:45:48",15,"High","QuigleyT","Net",0.89,10.25,0.68,2.08,1,1,"GoodenoughD",,"",0.00,0,,"FordM","Full of crap on first try, moved lightly further to left bank on second try."
 "D07665","GC20170915","GrandCanyon","CRGrandCanyon","09/15/2017",,12.90,,7.00,0,4,"Day","16:16:20",15,"High","QuigleyT","Net",0.87,11.84,0.79,2.40,1,1,"GoodenoughD",,"",0.00,0,,"FordM",
-"D07666","GC20170915","GrandCanyon","CRGrandCanyon","09/16/2017",,15.00,,7.00,0,4,"Day","08:56:38",34,"High","DaubertM","Net",0.82,39.30,1.16,7.97,1,0,"GoodenoughD",,"",0.00,0,,"FordM","Sediment load still really high, water really muddy with debris. Kept samples at 30s."
+"D07666","GC20170915","GrandCanyon","CRGrandCanyon","09/16/2017",,15.00,,7.00,0,4,"Day","08:56:38",34,"High","DaubertM","Net",0.82,39.30,1.16,7.97,1,1,"GoodenoughD",,"",0.00,0,,"FordM","Sediment load still really high, water really muddy with debris. Kept samples at 30s."
 "D07667","GC20170915","GrandCanyon","CRGrandCanyon","09/16/2017",,17.00,,7.00,0,4,"Day","09:19:46",36,"High","DaubertM","Net",0.85,24.43,0.68,4.95,1,1,"GoodenoughD",,"",0.00,0,,"FordM","Sediment load still really high, water really muddy with debris. Kept samples at 30s."
 "D07668","GC20170915","GrandCanyon","CRGrandCanyon","09/16/2017",,19.00,,7.00,0,4,"Day","10:03:12",59,"High","DaubertM","Net",0.89,45.51,0.77,9.22,1,0,"GoodenoughD",,"",0.00,0,,"FordM",
 "D07669","GC20170915","GrandCanyon","CRGrandCanyon","09/16/2017",,21.30,,7.00,0,4,"Day","10:43:42",63,"High","DaubertM","Net",0.86,60.71,0.96,12.31,1,0,"GoodenoughD",,"",0.00,0,,"FordM",
