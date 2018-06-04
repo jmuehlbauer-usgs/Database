@@ -2672,37 +2672,61 @@ TIPL was written on 250um datasheet but no count"
 
 Processing date for 250um sample is 7/11/17"
 "D03445","LF20170405","GrandCanyon","CRLeesFerry","04/05/2017",,-13.30,,7.00,0,4,"Day","12:04:00",300,"Low","QuigleyT","Net",0.91,229.32,0.76,46.48,0,0,"GoodenoughD","McCollumK","07/24/2017",3.32,0,,"GiardinaM","No processing time for 250um sample"
-"D03446","GC20170428","GrandCanyon","CRLeesFerry","04/28/2017","1",-15.50,,7.00,0,4,"Day","15:00:00",300,,"GoodenoughD","Net",,506.50,1.69,102.67,1,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. Flowmeter on bomb not spinning correctly, changed out after next sample (D03447)."
-"D03447","GC20170428","GrandCanyon","CRLeesFerry","04/28/2017","1",-13.30,,6.00,0,4,"Day","15:27:00",300,,"GoodenoughD","Net",,449.90,1.50,91.19,1,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. Flowmeter on bomb not spinning correctly, changed out after sample was taken."
+"D03446","GC20170428","GrandCanyon","CRLeesFerry","04/28/2017","1",-15.50,,7.00,0,4,"Day","15:00:00",300,,"GoodenoughD","Net",,506.50,1.69,102.67,1,0,"GoodenoughD","WoodyE","05/21/2018",1.08,0,,"GiardinaM","Did not sound for depth. Flowmeter on bomb not spinning correctly, changed out after next sample (D03447).
+
+<1mm sample is 500um"
+"D03447","GC20170428","GrandCanyon","CRLeesFerry","04/28/2017","1",-13.30,,6.00,0,4,"Day","15:27:00",300,,"GoodenoughD","Net",,449.90,1.50,91.19,1,0,"GoodenoughD","HendrixB","05/16/2018",4.65,0,,"GiardinaM","Did not sound for depth. Flowmeter on bomb not spinning correctly, changed out after sample was taken.
+
+<1mm sample is 500um"
 "D03448","GC20170428","GrandCanyon","CRLeesFerry","04/28/2017","1",-11.00,,7.00,0,4,"Day","15:50:00",300,,"GoodenoughD","Net",0.90,214.77,0.72,43.53,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03449","GC20170428","GrandCanyon","CRLeesFerry","04/28/2017","1",-8.00,,7.00,0,4,"Day","16:09:00",300,,"GoodenoughD","Net",0.81,395.56,1.32,80.18,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03450","GC20170428","GrandCanyon","CRLeesFerry","04/28/2017","1",-4.90,,7.00,0,4,"Day","16:30:00",330,,"GoodenoughD","Net",0.83,267.39,0.81,54.20,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03451","GC20170428","GrandCanyon","CRLeesFerry","04/28/2017","1",-3.50,,7.00,0,4,"Day","16:50:00",300,,"GoodenoughD","Net",0.83,215.68,0.72,43.72,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03452","GC20170428","GrandCanyon","CRLeesFerry","04/28/2017","1",-2.10,,7.00,0,4,"Day","17:05:00",300,,"GoodenoughD","Net",0.96,337.97,1.13,68.51,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03453","GC20170428","GrandCanyon","CRLeesFerry","04/28/2017","1",0.00,,7.00,0,4,"Day","17:25:00",300,,"GoodenoughD","Net",0.79,157.20,0.52,31.86,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03453","GC20170428","GrandCanyon","CRLeesFerry","04/28/2017","1",0.00,,7.00,0,4,"Day","17:25:00",300,,"GoodenoughD","Net",0.79,157.20,0.52,31.86,0,0,"GoodenoughD","WoodyE","05/23/2018",3.28,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03454","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",1.65,,7.00,0,4,"Day","10:16:30",291,,"GoodenoughD","Net",0.87,273.82,0.94,55.50,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03455","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",3.34,,7.00,0,4,"Day","10:40:15",293,,"GoodenoughD","Net",0.81,171.60,0.59,34.78,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03455","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",3.34,,7.00,0,4,"Day","10:40:15",293,,"GoodenoughD","Net",0.81,171.60,0.59,34.78,0,0,"GoodenoughD","HendrixB","05/21/2018",3.82,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03456","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",6.00,,7.00,0,4,"Day","11:18:59",237,,"GoodenoughD","Net",0.61,70.69,0.30,14.33,1,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. Flowmeter readings and therefore low filtration efficiency verified (2017-06-27 JDM)."
-"D03457","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",8.90,,7.00,0,4,"Day","12:07:51",242,,"GoodenoughD","Net",0.81,152.77,0.63,30.97,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03457","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",8.90,,7.00,0,4,"Day","12:07:51",242,,"GoodenoughD","Net",0.81,152.77,0.63,30.97,0,0,"GoodenoughD","HendrixB","05/21/2018",3.80,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03458","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",10.70,,7.00,0,4,"Day","13:39:22",241,,"GoodenoughD","Net",0.82,202.69,0.84,41.09,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03459","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",12.90,,7.00,0,4,"Day","14:18:13",240,,"GoodenoughD","Net",0.86,268.84,1.12,54.49,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03460","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",15.00,,7.00,0,4,"Day","14:59:28",237,,"GoodenoughD","Net",0.85,171.49,0.72,34.76,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03461","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",17.00,,7.00,0,4,"Day","15:25:50",239,,"GoodenoughD","Net",0.84,170.38,0.71,34.54,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03462","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",19.00,,7.00,0,4,"Day","16:00:45",254,,"GoodenoughD","Net",0.79,133.75,0.53,27.11,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. Several samples around North Canyon to pair with previous sticky trap studies (longitudinal). "
+"D03462","GC20170428","GrandCanyon","CRGrandCanyon","04/29/2017","1",19.00,,7.00,0,4,"Day","16:00:45",254,,"GoodenoughD","Net",0.79,133.75,0.53,27.11,0,0,"GoodenoughD","HendrixB","05/29/2018",3.85,0,,"GiardinaM","Did not sound for depth. Several samples around North Canyon to pair with previous sticky trap studies (longitudinal). 
+
+<1mm sample is 500um"
 "D03463","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",20.60,,7.00,0,4,"Day","09:09:16",240,,"GoodenoughD","Net",0.83,168.47,0.70,34.15,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. Several samples around North Canyon to pair with previous sticky trap studies (longitudinal). "
 "D03464","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",21.00,,7.00,0,4,"Day","09:27:23",267,,"GoodenoughD","Net",0.87,298.70,1.12,60.55,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. Several samples around North Canyon to pair with previous sticky trap studies (longitudinal). "
 "D03465","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",21.30,,7.00,0,4,"Day","09:41:46",243,,"GoodenoughD","Net",0.87,216.30,0.89,43.84,0,0,"GoodenoughD","WoodyE","05/24/2018",8.53,0,,"GiardinaM","Did not sound for depth. Several samples around North Canyon to pair with previous sticky trap studies (longitudinal). 
 <1mm sample is 500um"
 "D03466","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",23.70,,7.00,0,4,"Day","10:12:45",210,,"GoodenoughD","Net",0.85,235.35,1.12,47.71,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03467","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",26.50,,7.00,0,4,"Day","10:48:25",246,,"GoodenoughD","Net",0.83,167.02,0.68,33.85,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03468","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",29.30,,7.00,0,4,"Day","11:56:37",239,,"GoodenoughD","Net",0.81,260.58,1.09,52.82,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03467","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",26.50,,7.00,0,4,"Day","10:48:25",246,,"GoodenoughD","Net",0.83,167.02,0.68,33.85,0,0,"GoodenoughD","HendrixB","05/22/2018",5.77,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
+"D03468","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",29.30,,7.00,0,4,"Day","11:56:37",239,,"GoodenoughD","Net",0.81,260.58,1.09,52.82,1,0,"GoodenoughD","HendrixB","05/23/2018",8.20,0,,"GiardinaM","Did not sound for depth. 
+
+Samll percentage of sample spilled while rinsing (<5%)
+
+<1mm sample is 500um"
 "D03469","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",31.60,,7.00,0,4,"Day","12:28:41",258,,"GoodenoughD","Net",0.84,290.95,1.13,58.98,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03470","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",32.90,,7.00,0,4,"Day","12:50:32",237,,"GoodenoughD","Net",0.80,235.62,0.99,47.76,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03470","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",32.90,,7.00,0,4,"Day","12:50:32",237,,"GoodenoughD","Net",0.80,235.62,0.99,47.76,0,0,"GoodenoughD","WoodyE","05/21/2018",9.23,0,,"GiardinaM","Did not sound for depth.
+
+<1mm sample is 500um"
 "D03471","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",35.60,,7.00,0,4,"Day","14:21:45",241,,"GoodenoughD","Net",0.84,174.50,0.72,35.37,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03472","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",37.90,,7.00,0,4,"Day","14:51:48",249,,"GoodenoughD","Net",0.89,204.63,0.82,41.48,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03473","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",39.70,,7.00,0,4,"Day","15:17:25",239,,"GoodenoughD","Net",0.84,170.82,0.71,34.63,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03473","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",39.70,,7.00,0,4,"Day","15:17:25",239,,"GoodenoughD","Net",0.84,170.82,0.71,34.63,0,0,"GoodenoughD","WoodyE","05/18/2018",7.07,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03474","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",41.80,,7.00,0,4,"Day","15:52:15",235,,"GoodenoughD","Net",0.83,104.83,0.45,21.25,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03475","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",43.80,,7.00,0,4,"Day","16:18:16",245,,"GoodenoughD","Net",0.87,206.43,0.84,41.84,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03475","GC20170428","GrandCanyon","CRGrandCanyon","04/30/2017","1",43.80,,7.00,0,4,"Day","16:18:16",245,,"GoodenoughD","Net",0.87,206.43,0.84,41.84,0,0,"GoodenoughD","HendrixB","05/26/2018",4.45,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03476","GC20170428","GrandCanyon","CRGrandCanyon","05/01/2017","1",45.80,,7.00,0,4,"Day","10:03:38",243,,"GoodenoughD","Net",0.83,198.28,0.82,40.19,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03477","GC20170428","GrandCanyon","CRGrandCanyon","05/01/2017","1",48.00,,7.00,0,4,"Day","12:29:31",246,,"GoodenoughD","Net",0.84,207.16,0.84,41.99,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03478","GC20170428","GrandCanyon","CRGrandCanyon","05/01/2017","1",50.10,,7.00,0,4,"Day","13:17:22",235,,"GoodenoughD","Net",0.80,313.36,1.33,63.52,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
@@ -2716,7 +2740,9 @@ Processing date for 250um sample is 7/11/17"
 <1mm sample is 500um"
 "D03483","GC20170428","GrandCanyon","CRGrandCanyon","05/02/2017","1",61.70,,7.00,0,4,"Day","11:22:06",262,,"GoodenoughD","Net",0.80,314.68,1.20,63.79,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03484","GC20170428","GrandCanyon","CRGrandCanyon","05/02/2017","1",62.10,,7.00,0,4,"Day","11:45:18",242,,"GoodenoughD","Net",0.83,195.43,0.81,39.61,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03485","GC20170428","GrandCanyon","CRGrandCanyon","05/02/2017","1",64.10,,7.00,0,4,"Day","12:39:28",243,,"GoodenoughD","Net",0.79,309.03,1.27,62.64,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03485","GC20170428","GrandCanyon","CRGrandCanyon","05/02/2017","1",64.10,,7.00,0,4,"Day","12:39:28",243,,"GoodenoughD","Net",0.79,309.03,1.27,62.64,0,0,"GoodenoughD","HendrixB","05/29/2018",6.50,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03486","GC20170428","GrandCanyon","CRGrandCanyon","05/02/2017","1",66.10,,7.00,0,4,"Day","13:05:54",241,,"GoodenoughD","Net",0.86,225.31,0.93,45.67,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03487","GC20170428","GrandCanyon","CRGrandCanyon","05/02/2017","1",69.00,,7.00,0,4,"Day","13:35:04",263,,"GoodenoughD","Net",0.84,289.96,1.10,58.77,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03488","GC20170428","GrandCanyon","CRGrandCanyon","05/02/2017","1",71.00,,7.00,0,4,"Day","14:32:25",239,,"GoodenoughD","Net",0.85,215.28,0.90,43.64,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
@@ -2729,7 +2755,9 @@ Processing date for 250um sample is 7/11/17"
 "D03495","GC20170428","GrandCanyon","CRGrandCanyon","05/03/2017","1",86.00,,7.00,0,4,"Day","09:35:08",242,,"GoodenoughD","Net",0.86,306.44,1.27,62.12,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03496","GC20170428","GrandCanyon","CRGrandCanyon","05/03/2017","1",88.00,,7.00,0,4,"Day","10:01:29",243,,"GoodenoughD","Net",0.83,241.02,0.99,48.85,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03497","GC20170428","GrandCanyon","CRGrandCanyon","05/03/2017","1",89.90,,7.00,0,4,"Day","11:32:36",242,,"GoodenoughD","Net",0.83,367.48,1.52,74.49,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03498","GC20170428","GrandCanyon","CRGrandCanyon","05/03/2017","1",92.00,,7.00,0,4,"Day","11:58:12",238,,"GoodenoughD","Net",0.92,226.15,0.95,45.84,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03498","GC20170428","GrandCanyon","CRGrandCanyon","05/03/2017","1",92.00,,7.00,0,4,"Day","11:58:12",238,,"GoodenoughD","Net",0.92,226.15,0.95,45.84,0,0,"GoodenoughD","HendrixB","05/24/2018",8.48,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03499","GC20170428","GrandCanyon","CRGrandCanyon","05/03/2017","1",94.30,,7.00,0,4,"Day","12:41:05",247,,"GoodenoughD","Net",0.90,240.49,0.97,48.75,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03500","GC20170428","GrandCanyon","CRGrandCanyon","05/03/2017","1",96.40,,7.00,0,4,"Day","13:07:39",244,,"GoodenoughD","Net",0.79,319.11,1.31,64.68,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03501","GC20170428","GrandCanyon","CRGrandCanyon","05/03/2017","1",98.50,,7.00,0,4,"Day","14:29:45",238,,"GoodenoughD","Net",0.76,216.84,0.91,43.95,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
@@ -2750,7 +2778,9 @@ Processing date for 250um sample is 7/11/17"
 
 <1mm sample is 500um"
 "D03511","GC20170428","GrandCanyon","CRGrandCanyon","05/04/2017","1",120.60,,7.00,0,4,"Day","14:28:40",233,,"GoodenoughD","Net",0.81,193.38,0.83,39.20,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03512","GC20170428","GrandCanyon","CRGrandCanyon","05/04/2017","1",121.10,,7.00,0,4,"Day","14:44:37",243,,"GoodenoughD","Net",0.84,375.60,1.55,76.13,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03512","GC20170428","GrandCanyon","CRGrandCanyon","05/04/2017","1",121.10,,7.00,0,4,"Day","14:44:37",243,,"GoodenoughD","Net",0.84,375.60,1.55,76.13,0,0,"GoodenoughD","HendrixB","04/03/2018",18.12,0,,"GiardinaM","Did not sound for depth. 
+
+<1MM SAMPLE is 500um"
 "D03514","GC20170428","GrandCanyon","CRGrandCanyon","05/04/2017","1",123.20,,7.00,0,4,"Day","15:13:15",242,,"GoodenoughD","Net",0.80,157.15,0.65,31.85,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03515","GC20170428","GrandCanyon","CRGrandCanyon","05/04/2017","1",125.30,,7.00,0,4,"Day","15:43:13",249,,"GoodenoughD","Net",0.81,304.10,1.22,61.64,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03516","GC20170428","GrandCanyon","CRGrandCanyon","05/04/2017","1",127.40,,7.00,0,4,"Day","16:06:06",246,,"GoodenoughD","Net",0.84,179.69,0.73,36.42,0,0,"GoodenoughD","WoodyE","04/09/2018",15.43,0,,"GiardinaM","Did not sound for depth. 
@@ -2773,7 +2803,9 @@ Processing date for 250um sample is 7/11/17"
 <1mm sample is really 500um"
 "D03529","GC20170428","GrandCanyon","CRGrandCanyon","05/06/2017","1",148.80,,7.00,0,4,"Day","09:45:26",254,,"GoodenoughD","Net",0.84,296.17,1.17,60.03,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03530","GC20170428","GrandCanyon","CRGrandCanyon","05/06/2017","1",150.70,,7.00,0,4,"Day","10:12:46",248,,"GoodenoughD","Net",0.80,408.75,1.65,82.85,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03531","GC20170428","GrandCanyon","CRGrandCanyon","05/06/2017","1",152.60,,7.00,0,4,"Day","10:54:22",237,,"GoodenoughD","Net",0.84,277.53,1.17,56.26,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03531","GC20170428","GrandCanyon","CRGrandCanyon","05/06/2017","1",152.60,,7.00,0,4,"Day","10:54:22",237,,"GoodenoughD","Net",0.84,277.53,1.17,56.26,0,0,"GoodenoughD","WoodyE","05/04/2018",19.47,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03532","GC20170428","GrandCanyon","CRGrandCanyon","05/06/2017","1",154.20,,7.00,0,4,"Day","11:17:35",257,,"GoodenoughD","Net",0.84,366.78,1.43,74.35,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03533","GC20170428","GrandCanyon","CRGrandCanyon","05/06/2017","1",156.80,,7.00,0,4,"Day","13:29:51",260,,"GoodenoughD","Net",0.79,187.63,0.72,38.03,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03534","GC20170428","GrandCanyon","CRGrandCanyon","05/06/2017","1",158.90,,7.00,0,4,"Day","15:54:11",249,,"GoodenoughD","Net",0.82,266.04,1.07,53.93,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
@@ -2794,7 +2826,9 @@ Processing date for 250um sample is 7/11/17"
 "D03547","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",185.50,,7.00,0,4,"Day","12:23:07",239,,"GoodenoughD","Net",0.84,265.93,1.11,53.90,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03548","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",187.50,,7.00,0,4,"Day","12:57:22",239,,"GoodenoughD","Net",0.88,222.71,0.93,45.14,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03549","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",189.50,,7.00,0,4,"Day","13:21:42",241,,"GoodenoughD","Net",0.80,356.48,1.48,72.26,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
-"D03550","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",191.50,,7.00,0,4,"Day","13:46:40",239,,"GoodenoughD","Net",0.90,185.21,0.77,37.54,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
+"D03550","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",191.50,,7.00,0,4,"Day","13:46:40",239,,"GoodenoughD","Net",0.90,185.21,0.77,37.54,0,0,"GoodenoughD","HendrixB","05/27/2018",5.00,0,,"GiardinaM","Did not sound for depth. 
+
+<1mm sample is 500um"
 "D03551","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",193.60,,7.00,0,4,"Day","14:12:49",244,,"GoodenoughD","Net",0.87,341.98,1.40,69.32,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03552","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",195.10,,7.00,0,4,"Day","14:46:44",206,,"GoodenoughD","Net",0.74,77.71,0.38,15.75,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
 "D03553","GC20170428","GrandCanyon","CRGrandCanyon","05/08/2017","1",197.10,,7.00,0,4,"Day","15:14:03",242,,"GoodenoughD","Net",0.79,134.42,0.56,27.25,0,0,"GoodenoughD",,"",0.00,0,,,"Did not sound for depth. "
