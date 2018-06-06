@@ -1,11 +1,11 @@
 "SampleID","BarcodeID","Region","Reach","Date","RiverMile","Bank","Collector","Weather","WindSpeed","WindDirection","Level","Habitat","TimeBegin","TimeEnd","Temperature","Battery","Bats","FlagStrange","FlagDelete","EntererSample","Processor","ProcessDate","ProcessTime","QAQC","Checker","EntererSpecimen","Notes","DistanceFromCenterpoint","TrapLocation","AssociatedTrib","ProcessNotes"
 7247,,"GrandCanyon","CRGrandCanyon",7/4/2017 0:00:00,52.10,"RB","PrivateBoater","Clear",0,,"HighWater","Grasses-Forbes",12/30/1899 20:00:00,12/30/1899 21:30:00,,,1,1,1,"DaubertM",,,,0,,"FordM","MD- temperature not noted. Was in DB as ""D03416"" Sample does not exist. -MD and ANM 9-1-2017",,,,
+8061,,"GrandCanyon","CRGrandCanyon",,,,,"NoRain",,,"HighWater",,,,,"Rechargeable",0,0,0,"DaubertM",,,,1,,,,,,,
 8259,,"GrandCanyon","CRGrandCanyon",,,,,"NoRain",,,"HighWater",,,,,"Rechargeable",0,0,0,"DaubertM",,,,0,,,,,,,
-8306,,"GrandCanyon","CRGrandCanyon",,,,,"NoRain",,,"HighWater",,,,,"Rechargeable",0,0,0,"DaubertM",,,,0,,,,,,,
 8264,,"GrandCanyon","CRGrandCanyon",,,,,"NoRain",,,"HighWater",,,,,"Rechargeable",0,0,0,"DaubertM",,,,0,,,,,,,
 8127,,"GrandCanyon","CRGrandCanyon",,,,,"NoRain",,,"HighWater",,,,,"Rechargeable",0,0,0,"DaubertM",,,,0,,,,,,,
+8306,,"GrandCanyon","CRGrandCanyon",,,,,"NoRain",,,"HighWater",,,,,"Rechargeable",0,0,0,"DaubertM",,,,0,,,,,,,
 8069,,"GrandCanyon","CRGrandCanyon",,,"LB","PrivateBoater","NoRain",0,"NA","HighWater","Vegetation",12/30/1899 19:46:00,12/30/1899 20:45:00,,"Rechargeable",0,0,0,"DaubertM",,,,0,,,"MD- UC Davis trip.",,,,
-8061,,"GrandCanyon","CRGrandCanyon",,,,,"NoRain",,,"HighWater",,,,,"Rechargeable",0,0,0,"DaubertM",,,,1,,,,,,,
 8168," L10348","GrandCanyon","LittleCR",4/18/2018 0:00:00,10.43,"LB","USFWS","NoRain",0,"NA","HighWater","Sand",12/30/1899 19:20:00,12/30/1899 20:20:00,,"Rechargeable",0,0,0,"DaubertM",,,,0,,,,,,,
 7880,"L0","GrandCanyon","CRGrandCanyon",,,,,,,,"HighWater",,,,,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,"GiardinaM",,,,,
 618,"L00001","GrandCanyon","CRGrandCanyon",8/9/2012 0:00:00,174.82,"RB","DyeB","Cloudy",1,"Upstream","HighWater","Grasses-Forbes",12/30/1899 19:57:00,12/30/1899 20:56:00,27.00,,0,0,0,,"KortenhoevenE",,"10435",0,,,"BERMUDA GRASS.",,,,
