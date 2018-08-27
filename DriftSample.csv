@@ -5079,109 +5079,51 @@ MF- Actual process time for 250um is 24:05"
 "D08070","LF20180809","GrandCanyon","CRLeesFerry","08/09/2018",,-12.90,,7.00,0,4,"Day","16:30:00",305,"Low","DaubertM","Net",1.17,594.25,1.95,120.45,0,0,"GoodenoughD","CorneliusJ","08/16/2018",4.85,0,,"FordM",
 "D08071","LF20180809","GrandCanyon","CRLeesFerry","08/09/2018",,-13.40,,7.00,0,4,"Day","16:42:35",297,"Low","DaubertM","Net",0.86,300.61,1.01,60.93,0,0,"GoodenoughD","SzydloC","08/15/2018",4.00,0,,"FordM",
 "D08072","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-12.90,,7.00,0,4,"Crepuscular","04:57:00",302,"Low","DaubertM","Net",0.90,435.54,1.44,88.28,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08073","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-12.90,,7.00,0,4,"Crepuscular","05:03:22",328,"Low","DaubertM","Net",0.91,534.61,1.63,108.37,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08074","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-8.00,,7.00,0,4,"Crepuscular","05:30:34",298,"Low","DaubertM","Net",0.90,355.91,1.19,72.14,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08075","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-8.00,,7.00,0,4,"Crepuscular","05:47:13",298,"Low","DaubertM","Net",0.88,370.92,1.24,75.19,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08076","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-3.50,,7.00,0,4,"Crepuscular","06:04:25",305,"Low","DaubertM","Net",1.05,237.28,0.78,48.10,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08077","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-3.50,,7.00,0,4,"Crepuscular","06:11:10",298,"Low","DaubertM","Net",0.87,240.86,0.81,48.82,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08078","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,0.00,,7.00,0,4,"Crepuscular","06:34:26",300,"Low","DaubertM","Net",0.85,173.96,0.58,35.26,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08079","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,0.00,,7.00,0,4,"Crepuscular","06:40:50",307,"Low","DaubertM","Net",0.82,164.57,0.54,33.36,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample.
-
-* sig. portion of sample lost due to wind-KH"
 "D08080","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-12.90,,7.00,0,4,"Day","08:00:30",300,"Low","DaubertM","Net",0.89,584.70,1.95,118.52,0,0,"GoodenoughD",,"",0.00,0,,,"Bomb flowmeter went over 999999, numbers not correct but difference is accurate."
-"D08081","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-12.90,,7.00,0,4,"Day","08:06:48",302,"Low","DaubertM","Net",0.90,631.67,2.09,128.04,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08082","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-8.00,,7.00,0,4,"Day","08:54:45",299,"Low","DaubertM","Net",0.90,466.47,1.56,94.55,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08083","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-8.00,,7.00,0,4,"Day","09:01:20",300,"Low","DaubertM","Net",0.89,472.66,1.58,95.81,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08084","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-3.50,,7.00,0,4,"Day","09:53:36",301,"Low","DaubertM","Net",0.88,335.04,1.11,67.91,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08085","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-3.50,,7.00,0,4,"Day","10:00:23",302,"Low","DaubertM","Net",0.87,315.99,1.05,64.05,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08086","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,0.00,,7.00,0,4,"Day","10:45:33",300,"Low","DaubertM","Net",0.83,223.89,0.75,45.38,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08087","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,0.00,,7.00,0,4,"Day","10:51:35",301,"Low","DaubertM","Net",0.81,214.58,0.71,43.50,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08088","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-12.90,,7.00,0,4,"Day","15:17:17",283,"Low","DaubertM","Net",0.89,597.91,2.11,121.20,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08089","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-12.90,,7.00,0,4,"Day","15:23:00",300,"Low","DaubertM","Net",0.93,558.42,1.86,113.19,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08090","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-8.00,,7.00,0,4,"Day","15:43:20",306,"Low","DaubertM","Net",0.92,531.03,1.74,107.64,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08091","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-8.00,,7.00,0,4,"Day","15:20:20",289,"Low","DaubertM","Net",0.93,507.87,1.76,102.95,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08092","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-3.50,,7.00,0,4,"Day","16:20:48",302,"Low","DaubertM","Net",0.86,294.04,0.97,59.60,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08093","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,-3.50,,7.00,0,4,"Day","16:27:45",300,"Low","DaubertM","Net",0.87,354.95,1.18,71.95,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08094","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,0.00,,7.00,0,4,"Day","16:51:18",300,"Low","DaubertM","Net",0.59,217.06,0.72,44.00,1,0,"GoodenoughD",,"",0.00,0,,,"Discrepancy in the number for this sample in the bomb flowmeter readings. That was compounded by not having a datasheet and had to transcribe numbers from a scratch piece of paper. Additionaly a tech potentially transposed some recorded digits.
 DO NOT REMOVE SAMPLE, process as normal"
-"D08095","LF20180809","GrandCanyon","CRLeesFerry","08/10/2018",,0.00,,7.00,0,4,"Day","17:06:50",300,"Low","DaubertM","Net",0.85,270.48,0.90,54.83,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08096","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-12.90,,7.00,0,4,"Crepuscular","04:47:30",301,"Low","DaubertM","Net",0.93,539.59,1.79,109.37,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08097","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-12.90,,7.00,0,4,"Crepuscular","04:54:05",300,"Low","DaubertM","Net",0.93,496.82,1.66,100.71,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08098","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-8.00,,7.00,0,4,"Crepuscular","05:44:27",308,"Low","DaubertM","Net",1.10,407.64,1.32,82.63,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08099","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-8.00,,7.00,0,4,"Crepuscular","05:36:40",303,"Low","DaubertM","Net",0.89,396.43,1.31,80.36,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08100","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-3.50,,7.00,0,4,"Crepuscular","06:10:23",302,"Low","DaubertM","Net",0.88,254.50,0.84,51.59,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08101","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-3.50,,7.00,0,4,"Crepuscular","06:16:36",302,"Low","DaubertM","Net",0.86,247.83,0.82,50.24,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08102","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,0.00,,7.00,0,4,"Crepuscular","06:48:05",296,"Low","DaubertM","Net",0.82,179.69,0.61,36.42,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08103","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,0.00,,7.00,0,4,"Crepuscular","06:54:25",310,"Low","DaubertM","Net",0.82,187.92,0.61,38.09,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08104","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-12.90,,7.00,0,4,"Day","07:57:25",315,"Low","DaubertM","Net",0.98,570.52,1.81,115.64,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08105","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-12.90,,7.00,0,4,"Day","08:05:24",298,"Low","DaubertM","Net",0.91,539.45,1.81,109.35,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample.
-
-Dry weight+tin is after it was in the furnace for ~5 seconds -BH"
 "D08106","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-8.00,,7.00,0,4,"Day","09:01:16",296,"Low","DaubertM","Net",0.91,406.92,1.37,82.48,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08107","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-8.00,,7.00,0,4,"Day","09:08:00",301,"Low","DaubertM","Net",0.90,403.61,1.34,81.81,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08108","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-3.50,,7.00,0,4,"Day","09:57:11",312,"Low","DaubertM","Net",0.88,261.23,0.84,52.95,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08109","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-3.50,,7.00,0,4,"Day","10:04:00",305,"Low","DaubertM","Net",0.88,257.33,0.84,52.16,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample.
-
-small portion lost due to wind -KH"
 "D08110","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,0.00,,7.00,0,4,"Day","10:42:39",299,"Low","DaubertM","Net",0.82,179.50,0.60,36.38,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08111","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,0.00,,7.00,0,4,"Day","10:48:55",296,"Low","DaubertM","Net",0.82,178.24,0.60,36.13,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08112","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-12.90,,7.00,0,4,"Day","15:13:09",300,"Low","DaubertM","Net",0.91,512.26,1.71,103.84,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08113","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-12.90,,7.00,0,4,"Day","15:19:20",300,"Low","DaubertM","Net",0.89,536.20,1.79,108.69,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08114","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-8.00,,7.00,0,4,"Day","16:00:17",303,"Low","DaubertM","Net",0.92,423.27,1.40,85.80,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08115","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-8.00,,7.00,0,4,"Day","16:07:28",300,"Low","DaubertM","Net",0.95,445.44,1.48,90.29,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08116","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-3.50,,7.00,0,4,"Day","16:36:45",255,"Low","DaubertM","Net",0.87,272.77,1.07,55.29,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08117","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,-3.50,,7.00,0,4,"Day","16:44:09",301,"Low","DaubertM","Net",0.85,248.23,0.82,50.32,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample.
-
-Dry weight+tin is after it was in the furnace for ~5 seconds-KH"
 "D08118","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,0.00,,7.00,0,4,"Day","17:01:45",311,"Low","DaubertM","Net",0.83,188.22,0.61,38.15,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08119","LF20180809","GrandCanyon","CRLeesFerry","08/11/2018",,0.00,,7.00,0,4,"Day","17:08:10",335,"Low","DaubertM","Net",0.83,193.28,0.58,39.18,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08120","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-12.90,,7.00,0,4,"Crepuscular","04:58:30",296,"Low","GoodenoughD","Net",0.94,546.63,1.85,110.80,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08121","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-12.90,,7.00,0,4,"Crepuscular","05:04:21",331,"Low","GoodenoughD","Net",0.93,559.20,1.69,113.35,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample.
-
-small portion lost due to wind-KH"
 "D08122","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-8.00,,7.00,0,4,"Crepuscular","05:30:40",302,"Low","GoodenoughD","Net",0.90,399.49,1.32,80.98,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08123","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-8.00,,7.00,0,4,"Crepuscular","05:37:07",311,"Low","GoodenoughD","Net",0.91,424.86,1.37,86.12,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08124","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-3.50,,7.00,0,4,"Crepuscular","06:09:58",294,"Low","GoodenoughD","Net",0.88,253.77,0.86,51.44,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08125","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-3.50,,7.00,0,4,"Crepuscular","06:16:55",302,"Low","GoodenoughD","Net",0.88,279.09,0.92,56.57,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08126","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,0.00,,7.00,0,4,"Crepuscular","06:53:40",307,"Low","GoodenoughD","Net",0.86,187.04,0.61,37.91,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08127","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,0.00,,7.00,0,4,"Crepuscular","07:00:15",297,"Low","GoodenoughD","Net",0.86,174.98,0.59,35.47,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08128","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-12.90,,7.00,0,4,"Day","07:53:25",300,"Low","GoodenoughD","Net",0.92,545.99,1.82,110.67,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08129","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-12.90,,7.00,0,4,"Day","07:59:40",298,"Low","GoodenoughD","Net",0.91,527.94,1.77,107.01,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08130","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-8.00,,7.00,0,4,"Day","08:56:00",301,"Low","GoodenoughD","Net",0.94,447.29,1.49,90.67,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08131","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-8.00,,7.00,0,4,"Day","09:02:12",300,"Low","GoodenoughD","Net",0.93,505.29,1.68,102.42,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08132","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-3.50,,7.00,0,4,"Day","09:59:15",300,"Low","GoodenoughD","Net",0.88,248.96,0.83,50.46,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08133","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-3.50,,7.00,0,4,"Day","10:05:45",296,"Low","GoodenoughD","Net",0.87,229.78,0.78,46.58,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08134","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,0.00,,7.00,0,4,"Day","10:56:55",295,"Low","GoodenoughD","Net",0.83,165.35,0.56,33.52,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08135","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,0.00,,7.00,0,4,"Day","10:48:40",305,"Low","GoodenoughD","Net",0.83,179.34,0.59,36.35,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08136","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-12.90,,7.00,0,4,"Day","15:07:01",300,"Low","GoodenoughD","Net",0.91,475.27,1.58,96.34,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08137","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-12.90,,7.00,0,4,"Day","15:12:55",302,"Low","GoodenoughD","Net",0.96,448.88,1.49,90.99,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08138","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-8.00,,7.00,0,4,"Day","15:59:56",299,"Low","GoodenoughD","Net",0.90,410.06,1.37,83.12,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08139","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-8.00,,7.00,0,4,"Day","15:53:30",300,"Low","GoodenoughD","Net",0.92,378.78,1.26,76.78,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08140","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-3.50,,7.00,0,4,"Day","16:26:46",297,"Low","GoodenoughD","Net",0.89,225.10,0.76,45.63,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08141","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,-3.50,,7.00,0,4,"Day","16:33:10",309,"Low","GoodenoughD","Net",0.89,223.19,0.72,45.24,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08142","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,0.00,,7.00,0,4,"Day","16:55:56",308,"Low","GoodenoughD","Net",0.86,130.68,0.42,26.49,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08143","LF20180809","GrandCanyon","CRLeesFerry","08/12/2018",,0.00,,7.00,0,4,"Day","17:02:25",293,"Low","GoodenoughD","Net",0.85,130.65,0.45,26.48,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08144","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-12.90,,7.00,0,4,"Crepuscular","04:57:09",298,"Low","GoodenoughD","Net",0.90,511.42,1.72,103.66,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08145","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-12.90,,7.00,0,4,"Crepuscular","05:04:00",300,"Low","GoodenoughD","Net",0.90,510.13,1.70,103.40,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08146","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-8.00,,7.00,0,4,"Crepuscular","05:36:57",294,"Low","GoodenoughD","Net",0.92,450.06,1.53,91.23,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08147","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-8.00,,7.00,0,4,"Crepuscular","05:43:12",304,"Low","GoodenoughD","Net",0.94,460.50,1.51,93.34,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08148","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-3.50,,7.00,0,4,"Crepuscular","06:20:09",330,"Low","GoodenoughD","Net",0.90,271.77,0.82,55.09,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08149","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-3.50,,7.00,0,4,"Crepuscular","06:26:43",297,"Low","GoodenoughD","Net",0.88,235.75,0.79,47.79,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08150","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,0.00,,7.00,0,4,"Crepuscular","06:55:42",292,"Low","GoodenoughD","Net",0.81,156.37,0.54,31.70,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08151","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,0.00,,7.00,0,4,"Crepuscular","07:10:09",298,"Low","GoodenoughD","Net",0.83,149.62,0.50,30.33,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08152","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-12.90,,7.00,0,4,"Day","07:57:28",300,"Low","GoodenoughD","Net",0.94,607.27,2.02,123.09,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08153","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-12.90,,7.00,0,4,"Day","08:03:48",300,"Low","GoodenoughD","Net",0.91,592.23,1.97,120.05,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08154","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-8.00,,7.00,0,4,"Day","08:56:15",300,"Low","GoodenoughD","Net",0.93,558.87,1.86,113.28,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08155","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-8.00,,7.00,0,4,"Day","09:02:41",300,"Low","GoodenoughD","Net",0.93,557.18,1.86,112.94,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08156","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-3.50,,7.00,0,4,"Day","09:55:55",300,"Low","GoodenoughD","Net",0.87,287.29,0.96,58.23,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08157","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-3.50,,7.00,0,4,"Day","10:02:05",300,"Low","GoodenoughD","Net",0.88,317.55,1.06,64.37,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08158","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,0.00,,7.00,0,4,"Day","10:57:11",307,"Low","GoodenoughD","Net",0.84,223.49,0.73,45.30,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08159","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,0.00,,7.00,0,4,"Day","11:03:15",298,"Low","GoodenoughD","Net",0.83,217.81,0.73,44.15,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08160","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-12.90,,7.00,0,4,"Day","14:51:28",301,"Low","GoodenoughD","Net",0.92,628.57,2.09,127.41,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08161","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-12.90,,7.00,0,4,"Day","15:11:06",298,"Low","GoodenoughD","Net",0.95,596.75,2.00,120.96,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
 "D08162","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-8.00,,7.00,0,4,"Day","15:36:35",298,"Low","GoodenoughD","Net",0.92,536.41,1.80,108.73,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08163","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-8.00,,7.00,0,4,"Day","15:43:23",299,"Low","GoodenoughD","Net",1.00,581.69,1.95,117.91,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample. Algae on bomb flowmeter."
 "D08164","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-3.50,,7.00,0,4,"Day","16:09:35",289,"Low","GoodenoughD","Net",0.91,366.11,1.27,74.21,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08165","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-3.50,,7.00,0,4,"Day","16:21:41",296,"Low","GoodenoughD","Net",0.96,368.26,1.24,74.65,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample. Algae on bomb flowmeter."
 "D08166","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,0.00,,7.00,0,4,"Day","16:57:55",297,"Low","GoodenoughD","Net",0.87,271.80,0.92,55.09,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08167","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,0.00,,7.00,0,4,"Day","17:04:12",298,"Low","GoodenoughD","Net",0.86,256.63,0.86,52.02,0,0,"GoodenoughD","CorneliusJ","08/20/2018",0.00,0,,"FordM","Organic Matter sample."
