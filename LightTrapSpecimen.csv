@@ -1,4 +1,4 @@
-"SpecimenID","SampleID","SpeciesID","CountRaw","Notes","SampleKept","SpeciesID_OLD","Reference","PartTotal","PartPicked","CountEstimated"
+"SpecimenID","SampleID","SpeciesID","Count","Notes","SampleKept","SpeciesID_OLD","Reference","PartTotal","PartPicked","CountEstimated"
 122,1,"CHIA",16,,0,"CHIB",0,1,1,16.00
 124,2,"CHIA",57,,0,"CHIB",0,1,1,57.00
 126,3,"CHIA",3,,0,"CHIB",0,1,1,3.00
