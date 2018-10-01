@@ -5134,3 +5134,12 @@ DO NOT REMOVE SAMPLE, process as normal"
 "D08162","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-8.00,,7.00,0,4,"Day","15:36:35",298,"Low","GoodenoughD","Net",0.92,536.41,1.80,108.73,0,0,"GoodenoughD",,"",0.00,0,,,
 "D08164","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,-3.50,,7.00,0,4,"Day","16:09:35",289,"Low","GoodenoughD","Net",0.91,366.11,1.27,74.21,0,0,"GoodenoughD",,"",0.00,0,,,
 "D08166","LF20180809","GrandCanyon","CRLeesFerry","08/13/2018",,0.00,,7.00,0,4,"Day","16:57:55",297,"Low","GoodenoughD","Net",0.87,271.80,0.92,55.09,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08168","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,0.00,,7.00,0,4,"Day","11:02:07",335,"Low","DaubertM","Net",0.83,182.79,0.55,37.05,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08169","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,0.00,,7.00,0,6,"Day","11:09:35",273,"Low","DaubertM","Net",0.86,178.72,0.65,36.23,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08170","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,0.00,,7.00,0,4,"Day","11:19:20",289,"Low","DaubertM","Bomb",0.78,214.53,0.74,43.49,1,0,"GoodenoughD",,"",0.00,0,,,"Organic Matter sample. Net flowmeter was only half full with water during deployment."
+"D08171","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,-3.50,,7.00,0,4,"Day","11:57:12",345,"Low","DaubertM","Net",0.86,289.79,0.84,58.74,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08172","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,-3.50,,7.00,0,6,"Day","12:04:36",280,"Low","DaubertM","Net",0.88,295.39,1.05,59.88,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08173","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,-3.50,,7.00,0,4,"Day","12:11:20",277,"Low","DaubertM","Net",0.87,287.67,1.04,58.31,0,0,"GoodenoughD",,"",0.00,0,,,"Organic Matter sample."
+"D08174","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,-8.00,,7.00,0,4,"Day","12:47:11",290,"Low","DaubertM","Net",0.91,466.42,1.61,94.54,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08175","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,-8.00,,7.00,0,6,"Day","12:53:55",247,"Low","DaubertM","Net",0.97,495.69,2.01,100.48,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08176","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,-8.00,,7.00,0,4,"Day","13:01:23",212,"Low","DaubertM","Net",0.90,434.84,2.05,88.14,0,0,"GoodenoughD",,"",0.00,0,,,"Organic Matter sample."
