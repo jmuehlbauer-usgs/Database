@@ -2584,10 +2584,10 @@
 "L00319","LEPA",1,
 "L00319","ORTH",1,
 "L00319","THYS",1,
-"L00320","CHIA",17934,"Mites present."
+"L00320","CHIA",17934,"Mites present. High count verified (JC)."
 "L00320","COLE",50,
 "L00320","COLL",1,
-"L00320","DIPT",9651,
+"L00320","DIPT",9651,"High count verified (JC)."
 "L00320","HEMA",24,
 "L00320","HYMA",26,
 "L00320","LEPA",43,
@@ -17147,7 +17147,7 @@
 "L02533","LEPA",9,
 "L02533","SIMA",2,
 "L02533","STAA",1,
-"L02534","CHIA",16945,"Mites present."
+"L02534","CHIA",16945,"Mites present. High count verified (JC)."
 "L02534","COLE",23,
 "L02534","DIPT",330,
 "L02534","HEMA",13,
@@ -19084,7 +19084,7 @@
 "L02753","HOPP",9,"Originally ID'd as Cicadellidae."
 "L02753","HYDA",26,
 "L02753","HYOC",8,"7 male, 1 female"
-"L02753","ISSP",1,"Perlodidae Isoperla sp. Female."
+"L02753","ISPR",1,"Perlodidae Isoperla sp. Female."
 "L02753","LEPA",35,
 "L02753","NEUR",1,"Originally ID'd as Myrmeleontidae."
 "L02753","SIMA",7,
@@ -19630,7 +19630,7 @@
 "L02823","DIPT",43,
 "L02823","FORM",3,
 "L02823","HEMA",13,
-"L02823","HYDA",15102,
+"L02823","HYDA",15102,"High count verified (JC)."
 "L02823","HYLI",3,
 "L02823","HYMA",11,
 "L02823","HYOC",8,"7 male, 1 female"
@@ -20711,12 +20711,12 @@
 "L02969","DIPT",8,"Originally ID'd as Phoridae, Sphaeroceridae."
 "L02969","EPAL_F",31,"split in separate vial from males"
 "L02969","EPAL_M",197,
-"L02969","HOPP",0,"Originally ID'd as Cicadellidae."
-"L02969","HYDA",1358,
+"L02969","FUNG",4,
+"L02969","HYDA",1358,"High count verified. (JC)"
 "L02969","HYOC",6,
 "L02969","LEPA",13,
 "L02969","NESP",1,
-"L02969","OEAV",1,"?"
+"L02969","OEAV",32,
 "L02969","OESP",1,
 "L02969","RAPH",1,"in vial w/ aquatic dips"
 "L02969","SMSI",69,
@@ -29035,8 +29035,7 @@
 "L04406","COLE",3,
 "L04406","CULA",2,
 "L04406","HESP",1,"1f"
-"L04406","HOPP",0,"Originally ID'd as Cicadellidae."
-"L04406","HYCA",207,"153m, 54f"
+"L04406","HYCA",153,"153m"
 "L04406","HYDA",699,
 "L04406","HYOC",32,"27m, 5f"
 "L04406","HYOS",11,"0m,11f"
@@ -29045,7 +29044,7 @@
 "L04406","NOTO",1,
 "L04406","OEAV",21,
 "L04406","OESP",2,"1m,1f potentially O. disjuncta which would be new record for WY"
-"L04406","POCI",55,
+"L04406","POCI",52,
 "L04406","POFL",181,
 "L04406","TIPA",10,
 "L04406","TRAE",1,"1m"
@@ -29423,7 +29422,7 @@
 "L04442","EPAL_M",1,
 "L04442","HEMA",2,
 "L04442","HYDA",198,
-"L04442","HYMA",0,
+"L04442","HYMA",1,
 "L04442","HYOC",26,"16m,10f"
 "L04442","HYOS",22,"22m,0f"
 "L04442","LEPA",1,
@@ -29440,7 +29439,7 @@
 "L04443","THYS",1,
 "L04446","CHIA",32,"Mites absent."
 "L04446","DIPT",25,
-"L04446","HEMA",0,
+"L04446","HEMA",2,
 "L04446","HYDA",100,
 "L04446","HYOC",17,"11m,6f"
 "L04446","HYOS",21,"21m,0f"
@@ -30040,7 +30039,7 @@
 "L04577","MUSC",6,
 "L04577","OEAV",3,
 "L04577","POLA",1,
-"L04577","SIMA",0,
+"L04577","SIMA",1,
 "L04577","TRAB",28,
 "L04577","TRAS",22,
 "L04578","CERA",38,
@@ -30388,7 +30387,7 @@
 "L04629","POHA",2,"2m, 0f"
 "L04629","SIMA",6,
 "L04629","SMSI",8,"0m, 8f"
-"L04629","THYS",0,"p"
+"L04629","THYS",1,"Recorded only as ""present."" Not a true count."
 "L04629","TRAS",1,"1m,0f"
 "L04637","CASP",1,"1m"
 "L04637","CHIA",242,"Mites present."
@@ -30768,7 +30767,7 @@
 "L04738","HYOS",15,"14m,1f"
 "L04738","MECO",1,"envelope"
 "L04738","POHA",4,"3m,1f"
-"L04738","THYS",0,"p"
+"L04738","THYS",1,"Recorded only as ""present."" Not a true count."
 "L04741","CERA",1,"Vial A"
 "L04741","CHIA",18,"Mites absent."
 "L04741","DIPT",10,"Vial A"
@@ -30857,7 +30856,7 @@
 "L04751","HEMA",1,
 "L04751","HYDA",1,
 "L04751","STAA",4,
-"L04751","THYS",0,"P"
+"L04751","THYS",1,"Recorded only as ""present."" Not a true count."
 "L04754","ACEN",1,"0m,1f"
 "L04754","CERA",24,
 "L04754","CHIA",152,"Mites absent."
@@ -32551,7 +32550,6 @@
 "L05121","EMPA",1,
 "L05121","ENOC",1,"Written on datasheet:  Enochrus?"
 "L05121","FUNG",2,
-"L05121","HESP",0,"written on data sheet with no count"
 "L05121","HOPP",1,"Originally ID'd as Cicadellidae."
 "L05121","HYDA",38,
 "L05121","HYMA",1,
@@ -35676,7 +35674,7 @@
 "L05646","LEPA",4,
 "L05646","MUSC",1,
 "L05648","CERA",4,
-"L05648","CHIA",11348,
+"L05648","CHIA",11348,"High count verified (JC)."
 "L05648","CISP",1,
 "L05648","COLE",2,
 "L05648","DIPT",1,"Originally ID'd as Phoridae."
@@ -35836,7 +35834,7 @@
 "L05683","SMSI",2,"0m,1f"
 "L05683","STAA",3,
 "L05683","TAMA",3,
-"L05683","THYS",0,"p"
+"L05683","THYS",1,"Recorded only as ""present."" Not a true count."
 "L05683","TIPA",1,
 "L05684","CASP",1,
 "L05684","CERA",31,
@@ -36010,7 +36008,7 @@
 "L05735","POHA",2,"2m,0f"
 "L05735","RHCO",1,"0m,1f"
 "L05735","SIMA",5,
-"L05735","THYS",0,"p"
+"L05735","THYS",1,"Recorded only as ""present."" Not a true count."
 "L05735","TRSP",1,
 "L05736","CHIA",75,
 "L05736","HYDA",1,
@@ -36502,10 +36500,10 @@
 "L06187","FUNG",1,"Originally ID'd as Sciaridae."
 "L06188","CHIA",1,
 "L06189","LEPA",1,
-"L06189","THYS",0,"p"
+"L06189","THYS",1,"Recorded only as ""present."" Not a true count."
 "L06190","CERA",1,
 "L06190","CHIA",4,
-"L06190","THYS",0,"p"
+"L06190","THYS",1,"Recorded only as ""present."" Not a true count."
 "L06192","CERA",22,
 "L06192","CHIA",36,"Mites absent."
 "L06192","COLE",7,
@@ -40023,7 +40021,7 @@
 "L06864","SIMA",23,
 "L06864","SMSI",32,
 "L06864","STAA",3,
-"L06864","THYS",0,"P"
+"L06864","THYS",1,"Recorded only as ""present."" Not a true count."
 "L06864","TIPA",6,
 "L06865","CERA",42,
 "L06865","CHEN",72,
@@ -40789,7 +40787,7 @@
 "L07096","POHA",3,"3m,0f"
 "L07096","SIMA",13,
 "L07096","SMSI",271,"155m,116f"
-"L07096","THYS",0,"p"
+"L07096","THYS",1,"Recorded only as ""present."" Not a true count."
 "L07096","TRAS",17,
 "L07109","CERA",1,
 "L07109","CHIA",19,
@@ -40980,7 +40978,7 @@
 "L07180","POHA",1,"0m,1f"
 "L07180","SIMA",45,
 "L07180","SMSI",233,
-"L07180","THYS",0,"p"
+"L07180","THYS",1,"Recorded only as ""present."" Not a true count."
 "L07180","TIPA",1,
 "L07186","CHIA",2,"Mites absent."
 "L07186","COLE",2,"1 pinned"
@@ -41019,7 +41017,7 @@
 "L07190","POHA",1,"1m,0f"
 "L07190","SIMA",7,
 "L07190","SMSI",11,
-"L07190","THYS",0,"p"
+"L07190","THYS",1,"Recorded only as ""present."" Not a true count."
 "L07190","TRAS",3,
 "L07190","TRSP",3,
 "L07192","CERA",1,
@@ -41179,7 +41177,7 @@
 "L07285","HYOC",13,"6m, 7f"
 "L07285","LEPA",7,
 "L07285","POHA",7,"6m,1f"
-"L07285","THYS",0,"p"
+"L07285","THYS",1,"Recorded only as ""present."" Not a true count."
 "L07285","TIPA",1,
 "L07286","CERA",6,
 "L07286","CHAN",2,"1m,1f"
@@ -41201,7 +41199,7 @@
 "L07288","COLE",2,
 "L07288","HYDA",2,
 "L07288","HYMA",1,
-"L07288","THYS",0,"p"
+"L07288","THYS",1,"Recorded only as ""present."" Not a true count."
 "L07290","CHIA",14,
 "L07290","LEPA",1,
 "L07291","NOBU",0,
@@ -42806,7 +42804,7 @@
 "L07653","SIMA",6,
 "L07653","SMSI",6,
 "L07653","STAA",9,
-"L07653","THYS",0,"P"
+"L07653","THYS",1,"Recorded only as ""present."" Not a true count."
 "L07654","CERA",8,
 "L07654","CHIA",101,
 "L07654","COLE",4,
@@ -42887,7 +42885,7 @@
 "L07659","LEPA",1,
 "L07659","POCI",1,"1m"
 "L07659","POHA",2,"1m,1f"
-"L07659","THYS",0,"p"
+"L07659","THYS",1,"Recorded only as ""present."" Not a true count."
 "L07659","TIPA",5,
 "L07664","CERA",2,
 "L07664","CHIA",51,
@@ -43172,7 +43170,7 @@
 "L07697","CHIA",823,
 "L07697","COLE",5,
 "L07697","DIPT",10,
-"L07697","HOPP",0,"Originally ID'd as Cicadellidae."
+"L07697","HOPP",3,"Originally ID'd as Cicadellidae."
 "L07697","HYDA",282,
 "L07697","HYMA",8,
 "L07697","LEPA",31,
@@ -44106,7 +44104,7 @@
 "L07840","COLE",6,
 "L07840","EMPA",2,
 "L07840","FUNG",48,
-"L07840","HEMA",0,
+"L07840","HEMA",1,
 "L07840","HYDA",30,
 "L07840","HYMA",4,
 "L07840","LEPA",8,
@@ -44482,7 +44480,7 @@
 "L07886","POHA",3,"2m,1f"
 "L07886","RHCO",1,"0m,1f"
 "L07886","RHIT",2,"2m,0f"
-"L07886","THYS",0,"p"
+"L07886","THYS",1,"Recorded only as ""present."" Not a true count."
 "L07891","BROC",4,"1m, 3f"
 "L07891","CERA",6,
 "L07891","CHIA",798,"Mites absent."
@@ -44888,7 +44886,7 @@
 "L07949","HYDA",113,
 "L07949","HYMA",59,
 "L07949","LEPA",37,
-"L07949","MCYA",1,
+"L07949","MCYA",1,"Species verified (JC)."
 "L07949","MUSC",7,
 "L07949","SPID",1,
 "L07949","TERM",1,
