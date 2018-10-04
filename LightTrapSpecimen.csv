@@ -28149,7 +28149,7 @@
 "L04297","MUSC",40,
 "L04297","NESP",36,"27M,9F"
 "L04297","OPST",1,
-"L04297","PETR",0,
+"L04297","PETR",2,
 "L04297","SIMA",17,
 "L04297","SMSI",424,
 "L04297","STAA",18,
@@ -29029,7 +29029,7 @@
 "L04405","POFL",98,"1m,97f"
 "L04405","SPID",1,
 "L04405","TRIA",11,
-"L04406","CHAN",21,"6m, 15f"
+"L04406","CHAN",16,"5m, 11f"
 "L04406","CHEN",2,
 "L04406","CHIA",80,"Mites absent."
 "L04406","COLE",3,
@@ -29051,8 +29051,7 @@
 "L04406","TRAS",5,"5m"
 "L04407","ANAB",1,"1m"
 "L04407","CAAM",27,"J. Webb confirmed"
-"L04407","CAES",6,
-"L04407","CHAN",40,"D. Ruiter confirmed"
+"L04407","CHAN",38,"D. Ruiter confirmed"
 "L04407","CHIA",373,"Mites absent."
 "L04407","COLE",1,
 "L04407","CULA",2,
@@ -29068,13 +29067,12 @@
 "L04407","LEPA",115,"Originally ID'd as Sphingidae (some)."
 "L04407","LEPH",4,
 "L04407","NELA",1,"1m"
-"L04407","NESP",7,
+"L04407","NESP",11,
 "L04407","NOTO",1,
 "L04407","OEAV",451,"140 preserved in vial, the rest in a wax envelope"
 "L04407","OESP",1,
 "L04407","POCI",179,"80 in vial and 108 in envelope"
 "L04407","POFL",259,
-"L04407","TICK",0,"no tick"
 "L04407","TIPA",11,
 "L04408","CASP",9,
 "L04408","CHIA",149,
@@ -29328,7 +29326,6 @@
 "L04435","STAA",42,
 "L04436","CERA",53,
 "L04436","CHIA",242,"Mites absent."
-"L04436","COLE",0,"Originally ID'd as Chrysomelidae."
 "L04436","DIPT",15,"Originally ID'd as Bombyliidae, Phoridae (some)."
 "L04436","EPAL_F",3,"3f, bv"
 "L04436","FUNG",3,"Originally ID'd as Sciaridae."
@@ -34220,8 +34217,7 @@
 "L05382","LEPA",10,
 "L05382","STAA",37,
 "L05382","THYS",7,
-"L05383","CERA",0,"p"
-"L05383","CHIA",614,
+"L05383","CHIA",614,"Mites present (probably)"
 "L05383","CISP",3,
 "L05383","COLE",1,
 "L05383","DIPT",104,"Vial A"
@@ -35859,7 +35855,7 @@
 "L05684","SMSI",27,
 "L05684","TIPA",3,
 "L05685","CHIA",8,"Mites absent."
-"L05685","COLE",0,
+"L05685","COLE",3,
 "L05685","DIPT",2,
 "L05685","HOPP",10,"Originally ID'd as Cicadellidae."
 "L05685","HYCO",9,"8m,1f pair in copula"
@@ -44508,10 +44504,11 @@
 "L07893","BRAM",83,"25m,58f"
 "L07893","BROC",107,"0m,107f. ID questionable as no males present."
 "L07893","CERA",9,
-"L07893","CHIA",12386,"Mites absent."
+"L07893","CHIA",12386,"Mites absent. High count verified (JC)."
 "L07893","COLE",2,
 "L07893","DIPT",9,
 "L07893","FUNG",1,"Originally ID'd as Sciaridae."
+"L07893","HOPP",2,"Originally ID'd as Cicadelidae"
 "L07893","HYDA",52,
 "L07893","HYOS",3,"3m,0f"
 "L07893","LEPA",1,
@@ -46397,7 +46394,6 @@
 "L08250","SIMA",36,
 "L08252","CHIA",68,"Mites absent."
 "L08252","SIMA",1,
-"L08252","TIPA",0,
 "L08253","ANAB",3,"SPECIES NOT CONFIRMED, mailed to DR"
 "L08253","CHIA",28,"Mites absent."
 "L08253","HEMA",3,"Originally ID's as Aphidae."
@@ -49867,7 +49863,6 @@
 "L08811","CERA",1,
 "L08811","CHIA",5,
 "L08811","COLE",26,
-"L08811","DIPT",0,"Originally ID'd as Asilidae. Written on datasheet with no count."
 "L08811","HEMA",2,
 "L08811","HOPP",15,"Originally ID'd as Cicadellidae."
 "L08811","HYDA",1,
@@ -54038,7 +54033,6 @@
 "L09814","CERA",5,
 "L09814","CHIA",296,
 "L09814","COLE",6,
-"L09814","DIPT",0,"Originally ID'd as Phoridae. Written on datasheet with no count."
 "L09814","FUNG",45,
 "L09814","HEMA",2,
 "L09814","HYDA",589,
@@ -55416,7 +55410,6 @@
 "L10002","CHIA",754,
 "L10002","CISP",120,
 "L10002","COLE",1,
-"L10002","CULA",0,"CULA was written on datasheet with no count"
 "L10002","DIPT",1,"Originally ID'd as Phoridae."
 "L10002","EMPA",1,
 "L10002","FUNG",5,
