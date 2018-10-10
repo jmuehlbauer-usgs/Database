@@ -5148,7 +5148,7 @@ DO NOT REMOVE SAMPLE, process as normal"
 "D08179","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,-11.00,,7.00,0,4,"Day","13:31:42",253,"Low","DaubertM","Net",0.95,187.28,0.74,37.96,0,0,"GoodenoughD",,"",0.00,0,,,"Organic Matter sample."
 "D08180","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,-12.90,,7.00,0,4,"Day","14:01:20",260,"Low","DaubertM","Net",0.91,554.46,2.13,112.39,0,0,"GoodenoughD",,"",0.00,0,,,
 "D08181","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,-13.40,,7.00,0,4,"Day","14:26:04",294,"Low","DaubertM","Net",0.87,165.62,0.56,33.57,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08182","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,-15.50,,7.00,0,4,"Day","14:41:07",294,"Low","DaubertM","Net",0.90,711.83,2.42,144.29,1,0,"GoodenoughD",,"",0.00,0,,,
+"D08182","LF20180913","GrandCanyon","CRLeesFerry","09/13/2018",,-15.50,,7.00,0,4,"Day","14:41:07",294,"Low","DaubertM","Net",0.90,711.83,2.42,144.29,1,0,"GoodenoughD",,"",0.00,0,,,"High flowmeter clicks verified (DG)."
 "D08199","GC20180915","GrandCanyon","CRGrandCanyon","09/15/2018",,1.90,,7.00,0,4,"Day","10:06:35",295,"Low","GoodenoughD","Net",0.99,243.66,0.83,49.39,0,0,"GoodenoughD",,"",0.00,0,,,
 "D08200","GC20180915","GrandCanyon","CRGrandCanyon","09/15/2018",,3.30,,7.00,0,4,"Day","10:51:40",150,"Medium","GoodenoughD","Net",0.87,190.59,1.27,38.63,0,0,"GoodenoughD",,"",0.00,0,,,
 "D08201","GC20180915","GrandCanyon","CRGrandCanyon","09/15/2018",,6.10,,7.00,0,4,"Day","12:26:30",210,"Medium","GoodenoughD","Net",0.79,303.06,1.44,61.43,0,0,"GoodenoughD",,"",0.00,0,,,
