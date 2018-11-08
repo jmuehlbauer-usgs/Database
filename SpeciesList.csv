@@ -302,3 +302,5 @@
 515,"LIPR","Trichoptera: Limnephilidae: Limnephilus productus (Adult)",1,0,0,0,0,0,0,0,,,"Animalia","Arthropoda","Insecta","Trichoptera","Integripalpia","Limnephiloidea","Limnephilidae","Limnephilinae","Limnephilus","productus","Aquatic","Adult","Shredder",
 516,"OESO","Trichoptera: Leptoceridae: Oecetis sordida (Adult)",1,0,0,0,0,0,0,0,0.01,2.90,"Animalia","Arthropoda","Insecta","Trichoptera","Integripalpia","Leptoceroidea","Leptoceridae","Leptocerinae","Oecetis","sordida","Aquatic","Adult","Predator","Length-mass regression values from Sabo et al. 2002, Table 2, for Trichoptera."
 517,"OEIN","Trichoptera: Leptoceridae: Oecetis inconspicua (Adult)",1,0,0,0,0,0,0,0,0.01,2.90,"Animalia","Arthropoda","Insecta","Trichoptera","Integripalpia","Leptoceroidea","Leptoceridae","Leptocerinae","Oecetis","inconspicua","Aquatic","Adult","Predator","Length-mass regression values from Sabo et al. 2002, Table 2, for Trichoptera."
+518,"CIAE","Insecta",1,0,0,0,0,0,0,0,,,"Animalia","Arthropoda","Insecta",,,,,,,,,,,
+519,"HYPH","Insecta",1,0,0,0,0,0,0,0,,,"Animalia","Arthropoda","Insecta",,,,,,,,,,,
