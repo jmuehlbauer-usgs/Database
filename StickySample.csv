@@ -11112,7 +11112,7 @@
 "S11845","LF20171115","GrandCanyon","CRLeesFerry","11/15/2017",1.00,-15.00,"RB","DS",,0,0,,"GoodenoughD","11/30/2017",0.08,0,,,
 "S11846","LF20171115","GrandCanyon","CRLeesFerry","11/15/2017",1.00,-15.00,"LB","US",,0,0,,"GoodenoughD","11/30/2017",0.05,1,,,
 "S11847","LF20171115","GrandCanyon","CRLeesFerry","11/15/2017",1.00,-15.00,"LB","DS",,0,0,,"GoodenoughD","11/30/2017",0.05,0,,,
-"S11848","LF20171115","GrandCanyon","CRLeesFerry","11/15/2017",1.00,-12.90,"RB","US",,0,0,,"GoodenoughD","11/30/2201",0.10,0,,,
+"S11848","LF20171115","GrandCanyon","CRLeesFerry","11/15/2017",1.00,-12.90,"RB","US",,0,0,,"GoodenoughD","11/30/2017",0.10,0,,,
 "S11849","LF20171115","GrandCanyon","CRLeesFerry","11/15/2017",1.00,-12.90,"RB","DS",,0,0,,"GoodenoughD","11/30/2017",0.10,0,,,
 "S11850","LF20171115","GrandCanyon","CRLeesFerry","11/15/2017",1.00,-12.90,"LB","US",,0,0,,"GoodenoughD","11/30/2017",0.05,0,,,
 "S11851","LF20171115","GrandCanyon","CRLeesFerry","11/15/2017",1.00,-12.90,"LB","DS",,0,0,,"GoodenoughD","11/30/2017",0.08,0,,,
@@ -12088,6 +12088,62 @@
 "S12947","LF20180913","GrandCanyon","CRGrandCanyon","09/13/2018",1.00,5.90,"RB","DS",,0,0,,"GoodenoughD","10/09/2018",0.12,0,,,
 "S12948","LF20180913","GrandCanyon","CRGrandCanyon","09/13/2018",1.00,5.90,"LB","US",,0,0,,"GoodenoughD","10/09/2018",0.08,0,,,
 "S12949","LF20180913","GrandCanyon","CRGrandCanyon","09/13/2018",1.00,5.90,"LB","DS",,0,0,,"GoodenoughD","10/09/2018",0.08,0,,,
+"S12972","GC20181006","GrandCanyon","CRGrandCanyon","10/08/2018",1.00,63.67,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12973","GC20181006","GrandCanyon","CRGrandCanyon","10/08/2018",1.00,63.67,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12974","GC20181006","GrandCanyon","CRGrandCanyon","10/08/2018",1.00,63.72,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12975","GC20181006","GrandCanyon","CRGrandCanyon","10/08/2018",1.00,63.72,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12976","GC20181006","GrandCanyon","CRGrandCanyon","10/09/2018",1.00,63.67,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12977","GC20181006","GrandCanyon","CRGrandCanyon","10/09/2018",1.00,63.67,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12978","GC20181006","GrandCanyon","CRGrandCanyon","10/09/2018",1.00,63.72,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12979","GC20181006","GrandCanyon","CRGrandCanyon","10/09/2018",1.00,63.72,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12980","GC20181006","GrandCanyon","CRGrandCanyon","10/10/2018",1.00,63.67,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12981","GC20181006","GrandCanyon","CRGrandCanyon","10/10/2018",1.00,63.67,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12982","GC20181006","GrandCanyon","CRGrandCanyon","10/10/2018",1.00,63.72,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12983","GC20181006","GrandCanyon","CRGrandCanyon","10/10/2018",1.00,63.72,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12984","GC20181006","GrandCanyon","CRGrandCanyon","10/11/2018",1.00,63.67,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12985","GC20181006","GrandCanyon","CRGrandCanyon","10/11/2018",1.00,63.67,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12986","GC20181006","GrandCanyon","CRGrandCanyon","10/11/2018",1.00,63.72,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12987","GC20181006","GrandCanyon","CRGrandCanyon","10/11/2018",1.00,63.72,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12988","GC20181006","GrandCanyon","CRGrandCanyon","10/12/2018",1.00,63.67,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12989","GC20181006","GrandCanyon","CRGrandCanyon","10/12/2018",1.00,63.67,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12990","GC20181006","GrandCanyon","CRGrandCanyon","10/12/2018",1.00,63.72,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12991","GC20181006","GrandCanyon","CRGrandCanyon","10/12/2018",1.00,63.72,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12992","GC20181006","GrandCanyon","CRGrandCanyon","10/13/2018",1.00,63.67,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12993","GC20181006","GrandCanyon","CRGrandCanyon","10/13/2018",1.00,63.67,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12994","GC20181006","GrandCanyon","CRGrandCanyon","10/13/2018",1.00,63.72,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12995","GC20181006","GrandCanyon","CRGrandCanyon","10/13/2018",1.00,63.72,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12996","GC20181006","GrandCanyon","CRGrandCanyon","10/14/2018",1.00,63.67,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12997","GC20181006","GrandCanyon","CRGrandCanyon","10/14/2018",1.00,63.67,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S12998","GC20181006","GrandCanyon","CRGrandCanyon","10/14/2018",1.00,63.72,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S12999","GC20181006","GrandCanyon","CRGrandCanyon","10/14/2018",1.00,63.72,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13000","GC20181006","GrandCanyon","CRGrandCanyon","10/18/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp."
+"S13001","GC20181006","GrandCanyon","CRGrandCanyon","10/18/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp."
+"S13002","GC20181006","GrandCanyon","CRGrandCanyon","10/18/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp. "
+"S13003","GC20181006","GrandCanyon","CRGrandCanyon","10/18/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp. "
+"S13004","GC20181006","GrandCanyon","CRGrandCanyon","10/19/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13005","GC20181006","GrandCanyon","CRGrandCanyon","10/19/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13006","GC20181006","GrandCanyon","CRGrandCanyon","10/19/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13007","GC20181006","GrandCanyon","CRGrandCanyon","10/19/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13008","GC20181006","GrandCanyon","CRGrandCanyon","10/20/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13009","GC20181006","GrandCanyon","CRGrandCanyon","10/20/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13010","GC20181006","GrandCanyon","CRGrandCanyon","10/20/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13011","GC20181006","GrandCanyon","CRGrandCanyon","10/20/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13012","GC20181006","GrandCanyon","CRGrandCanyon","10/21/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13013","GC20181006","GrandCanyon","CRGrandCanyon","10/21/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13014","GC20181006","GrandCanyon","CRGrandCanyon","10/21/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13015","GC20181006","GrandCanyon","CRGrandCanyon","10/21/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13016","GC20181006","GrandCanyon","CRGrandCanyon","10/22/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13017","GC20181006","GrandCanyon","CRGrandCanyon","10/22/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13018","GC20181006","GrandCanyon","CRGrandCanyon","10/22/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13019","GC20181006","GrandCanyon","CRGrandCanyon","10/22/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13020","GC20181006","GrandCanyon","CRGrandCanyon","10/23/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13021","GC20181006","GrandCanyon","CRGrandCanyon","10/23/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13022","GC20181006","GrandCanyon","CRGrandCanyon","10/23/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13023","GC20181006","GrandCanyon","CRGrandCanyon","10/23/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13024","GC20181006","GrandCanyon","CRGrandCanyon","10/24/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13025","GC20181006","GrandCanyon","CRGrandCanyon","10/24/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Upstream of camp."
+"S13026","GC20181006","GrandCanyon","CRGrandCanyon","10/24/2018",1.00,212.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
+"S13027","GC20181006","GrandCanyon","CRGrandCanyon","10/24/2018",1.00,212.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD","Downstream of camp. "
 "S13032","LF20181018","GrandCanyon","CRLeesFerry","10/18/2018",1.00,-15.00,"RB","US",,0,0,,"GoodenoughD","",0.00,0,,,
 "S13033","LF20181018","GrandCanyon","CRLeesFerry","10/18/2018",1.00,-15.00,"RB","DS",,0,0,,"GoodenoughD","",0.00,0,,,
 "S13034","LF20181018","GrandCanyon","CRLeesFerry","10/18/2018",1.00,-15.00,"LB","US",,0,0,,"GoodenoughD","",0.00,0,,,
@@ -12148,6 +12204,126 @@
 "S13089","LF20181018","GrandCanyon","CRGrandCanyon","10/18/2018",1.00,5.90,"RB","DS",,0,0,,"GoodenoughD","",0.00,0,,,
 "S13090","LF20181018","GrandCanyon","CRGrandCanyon","10/18/2018",1.00,5.90,"LB","US",,0,0,,"GoodenoughD","",0.00,0,,,
 "S13091","LF20181018","GrandCanyon","CRGrandCanyon","10/18/2018",1.00,5.90,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13112","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-15.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13113","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-15.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13114","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-15.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13115","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-15.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13116","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-12.90,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13117","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-12.90,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13118","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-12.90,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13119","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-12.90,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13120","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-12.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13121","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-12.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13122","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-12.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13123","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-12.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13124","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-11.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13125","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-11.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13126","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-11.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13127","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-11.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13128","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-10.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13129","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-10.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13130","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-10.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13131","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-10.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13132","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-8.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13133","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-8.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13134","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-8.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13135","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-8.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13136","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-6.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13137","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-6.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13138","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-6.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13139","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-6.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13140","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-3.50,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13141","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-3.50,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13142","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-3.50,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13143","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-3.50,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13144","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-2.10,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13145","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-2.10,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13146","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-2.10,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13147","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-2.10,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13148","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-1.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13149","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-1.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13150","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-1.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13151","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,-1.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13152","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,0.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13153","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,0.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13154","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,0.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13155","LF20181114","GrandCanyon","CRLeesFerry","11/14/2018",1.00,0.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13156","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,1.30,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13157","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,1.30,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13158","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,1.30,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13159","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,1.30,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13160","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,3.30,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13161","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,3.30,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13162","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,3.30,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13163","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,3.30,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13164","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,4.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13165","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,4.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13166","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,4.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13167","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,4.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13168","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,5.90,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13169","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,5.90,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13170","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,5.90,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13171","LF20181114","GrandCanyon","CRGrandCanyon","11/14/2018",1.00,5.90,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13172","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-15.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13173","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-15.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13174","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-15.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13175","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-15.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13176","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-12.90,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13177","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-12.90,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13178","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-12.90,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13179","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-12.90,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13180","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-12.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13181","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-12.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13182","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-12.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13183","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-12.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13184","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-11.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13185","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-11.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13186","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-11.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13187","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-11.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13188","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-10.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13189","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-10.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13190","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-10.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13191","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-10.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13192","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-8.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13193","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-8.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13194","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-8.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13195","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-8.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13196","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-6.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13197","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-6.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13198","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-6.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13199","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-6.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13200","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-3.50,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13201","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-3.50,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13202","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-3.50,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13203","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-3.50,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13204","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-2.10,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13205","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-2.10,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13206","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-2.10,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13207","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-2.10,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13208","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-1.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13209","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-1.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13210","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-1.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13211","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,-1.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13212","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,0.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13213","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,0.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13214","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,0.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13215","LF20181213","GrandCanyon","CRLeesFerry","12/13/2018",1.00,0.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13216","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,1.30,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13217","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,1.30,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13218","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,1.30,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13219","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,1.30,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13220","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,3.30,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13221","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,3.30,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13222","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,3.30,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13223","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,3.30,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13224","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,4.00,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13225","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,4.00,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13226","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,4.00,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13227","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,4.00,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13228","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,5.90,"RB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13229","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,5.90,"RB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13230","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,5.90,"LB","US","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
+"S13231","LF20181213","GrandCanyon","CRGrandCanyon","12/13/2018",1.00,5.90,"LB","DS","GoodenoughD",0,0,"GoodenoughD","GoodenoughD","",0.00,0,,"GoodenoughD",
 "S13232","GC20130622","GrandCanyon","North","06/22/2013",1.00,,"LB","Land",,1,1,,,"",0.00,0,,,"Barcode retroactively assigned on 2019-02-08 by JDM. Trap lost."
 "S13233","GC20130622","GrandCanyon","North","06/22/2013",1.00,,"LB","DS",,1,1,,,"",0.00,0,,,"Barcode retroactively assigned on 2019-02-08 by JDM. Trap lost."
 "S13234","GC20130622","GrandCanyon","Kanab","06/30/2013",1.00,,"RB","Water",,1,1,,,"",0.00,0,,,"Barcode retroactively assigned on 2019-02-08 by JDM. Trap blew away. Lost."
