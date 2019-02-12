@@ -2595,7 +2595,7 @@
 "D03364","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016","6",-3.50,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"MuehlbauerJ",,"",0.00,0,,,"Lost bomb. No sample. "
 "D03365","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016","7",-4.90,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"MuehlbauerJ",,"",0.00,0,,,"Lost bomb. No sample. "
 "D03366","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016","8",-8.00,,,0,4,"Day","",,,"QuigleyT","Net",,,,,1,1,"MuehlbauerJ",,"",0.00,0,,,"Lost bomb. No sample. "
-"D03367","LF20160920","GrandCanyon","CRGrandCanyon","09/20/2016","9",-11.00,11.00,8.00,0,4,"Day","13:42:30",3.00,,"QuigleyT","Net",1.16,163.90,54.63,33.22,0,0,,"IngramA","",1.30,0,,,
+"D03367","LF20160920","GrandCanyon","CRLeesFerry","09/20/2016","9",-11.00,11.00,8.00,0,4,"Day","13:42:30",3.00,,"QuigleyT","Net",1.16,163.90,54.63,33.22,1,0,,"IngramA","",1.30,0,,,
 "D03368","LF20161103","GrandCanyon","CRGrandCanyon","11/03/2016","1",6.00,,7.00,0,4,"Day","14:50:40",4.17,,,"Net",0.66,274.76,65.89,55.69,1,0,,"QuigleyT","",2.25,0,,,"Flowmeter readings and therefore low filtration efficiency verified (2017-06-27 JDM). "
 "D03369","LF20161103","GrandCanyon","CRGrandCanyon","11/03/2016","2",3.30,,7.00,0,4,"Day","15:11:35",3.00,,,"Net",0.88,238.01,79.34,48.24,0,0,,"QuigleyT","",1.62,0,,,
 "D03370","LF20161103","GrandCanyon","CRGrandCanyon","11/03/2016","3",1.60,,5.00,0,4,"Day","15:37:00",4.08,,,"Net",0.85,191.10,46.84,38.74,0,0,,"QuigleyT","",2.27,0,,,
