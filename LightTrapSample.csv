@@ -4759,6 +4759,7 @@ JC - No habitat noted."
 "L05049","UpperBasin","GRFGD","09/08/2015",219.50,"RB","RiverGuideDINO","NoRain",0,"Rock","20:04",1.00,,0,0,0,,"MetcalfeA",,4.00,0,,,"Coll: AJ / Nick","Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L05052","UpperBasin","GRFGD","09/09/2015",212.00,"LB","RiverGuideDINO","NoRain",0,"Sand","19:57",0.38,,0,1,1,,"IngramA",,0.18,0,,,"Coll: AJ / Nick. Light may have been on all day, light kept going out and we didn't restart it b/c it wasn't a steady light.","+5 anm processing check. Weather originally recorded as 'Clear' (2018-09-27 JDM)."
 "L05054","GrandCanyon","CRGrandCanyon","10/31/2018",230.64,"LB","PrescottGCS","NoRain",0,"Sand","17:53",1.00,"Rechargeable",1,0,0,"DaubertM","DaubertM",11/29/2018 0:00:00,0.07,0,,"FordM",,
+"L05057","GrandCanyon","CRGrandCanyon","03/14/2019",3.34,"LB","GoodenoughD","NoRain",1,"Sand","18:51",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L05058","UpperBasin","GRFGD","08/11/2017",228.00,,"RiverGuideDINO","NoRain",0,"Vegetation","20:15",1.00,"Night1AA",0,0,0,"MetcalfeA",,,0.00,0,,"GiardinaM","Coll: Sherpa San","Habitat originally recorded as 'Grasses-Forbes' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM). 
 BDH: river side not recorded on datasheet"
 "L05059","UpperBasin","GRFGD","08/12/2017",0.00,,"RiverGuideDINO",,,,"",,"Night2AA",0,1,1,"MetcalfeA",,,0.00,0,,"GiardinaM",,
@@ -5780,6 +5781,7 @@ No habitat type recorded on datasheet (2018-10-03 CS)."
 "L06557","GrandCanyon","BrightAngel","07/13/2016",1000.00,"LB","KendellF","NoRain",0,"Vegetation","19:30",1.00,,0,0,0,,,,0.00,0,,,,"River mile is actually meters up tributary from confluence. Habitat originally recorded as 'Grasses-Forbes' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM)."
 "L06558","GrandCanyon","BrightAngel","07/27/2016",1000.00,"LB","BollensK","NoRain",0,"Vegetation","19:20",0.83,,0,0,0,,,,0.00,0,,,,"River mile is actually meters up tributary from confluence. Habitat originally recorded as 'Grasses-Forbes' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM)."
 "L06559","GrandCanyon","BrightAngel","08/05/2016",1000.00,"LB","KendellF","NoRain",0,"Vegetation","19:30",1.00,,0,0,0,,,,0.00,0,,,,"River mile is actually meters up tributary from confluence. Habitat originally recorded as 'Grasses-Forbes' (2018-09-27 JDM). Weather originally recorded as 'Cloudy' (2018-09-27 JDM)."
+"L06560","GrandCanyon","CRGrandCanyon","07/19/2018",226.00,"LB","PrivateBoater","NoRain",1,"Sand","20:30",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"Habitat Type: Sand/Rock. Notes: ""Shortly after flash flood. Diamond Creek still running.""",
 "L06563","GrandCanyon","CRGrandCanyon","05/02/2016",16.65,"LB","SchragerT","NoRain",1,"Vegetation","19:50",1.00,,0,0,0,,"FordM",12/11/2017 0:00:00,0.43,0,,"GiardinaM",,"Habitat originally recorded as 'Trees-Shrubs' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L06564","GrandCanyon","CRGrandCanyon","05/03/2016",34.02,"LB","SchragerT","NoRain",1,"Vegetation","21:10",1.00,,0,0,0,,"DaubertM",12/6/2017 0:00:00,0.40,0,,"GiardinaM",,"Habitat originally recorded as 'Trees-Shrubs' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L06565","GrandCanyon","CRGrandCanyon","05/04/2016",34.02,"LB","SchragerT","NoRain",1,"Vegetation","04:15",1.00,,0,1,1,,"FordM",12/11/2017 0:00:00,0.08,0,,"GiardinaM",,"MD-(sunrise collection). Habitat originally recorded as 'Trees-Shrubs' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM)."
@@ -5909,7 +5911,7 @@ River Side is missing on datasheet (2018-10-03 CS)."
 "L06692","GrandCanyon","CRGrandCanyon","04/21/2016",47.67,"RB","RoussisO","NoRain",1,"Sand","19:09",1.13,,0,0,0,,"FordM",12/1/2017 0:00:00,0.13,0,,"GiardinaM","Wind picked up 1/2 way through collection. Definitely a lot stronger up wind the last half an hour.","Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L06693","GrandCanyon","CRGrandCanyon","04/20/2016",32.79,"LB","RoussisO","NoRain",0,"Sand","19:01",1.20,,0,0,0,,"FordM",1/17/2018 0:00:00,0.38,0,,"GiardinaM","really calm night at little red wall.","Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L06694","GrandCanyon","CRGrandCanyon","04/19/2016",18.49,"LB","RoussisO","NoRain",1,"Rock","19:06",0.92,,0,0,0,,"DaubertM",12/6/2017 0:00:00,0.08,0,,"GiardinaM",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
-"L06699","GrandCanyon","CRGrandCanyon","05/25/2018",137.70,"LB","ArmstrongL","NoRain",0,"Sand","19:39",1.00,"Rechargeable",0,0,0,"DaubertM",,,0.00,0,,,,""
+"L06699","GrandCanyon","CRGrandCanyon","05/25/2018",137.70,"LB","ArmstrongL","NoRain",0,"Sand","19:39",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",12/7/2018 0:00:00,0.00,0,,,,""
 "L06700","GrandCanyon","CRGrandCanyon","05/24/2018",125.40,"LB","ArmstrongL","NoRain",1,"Sand","19:30",1.00,"Rechargeable",0,0,0,"DaubertM","HendrixB",2/26/2019 0:00:00,0.55,0,,"GiardinaM",,""
 "L06701","GrandCanyon","CRGrandCanyon","05/20/2018",86.60,"LB","ArmstrongL","NoRain",0,"Sand","19:42",1.00,"Rechargeable",0,0,0,"DaubertM","HendrixB",10/23/2018 0:00:00,0.53,0,,"FordM",,""
 "L06702","GrandCanyon","CRGrandCanyon","05/21/2018",96.50,"LB","ArmstrongL","NoRain",0,"Sand","19:38",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",11/29/2018 0:00:00,0.22,0,,"FordM",,""
@@ -6397,12 +6399,16 @@ Habitat type missing on datasheet (2018-10-03 CS)."
 "L07464","GrandCanyon","CRLeesFerry","02/13/2019",-6.00,"LB","GoodenoughD","NoRain",0,"Vegetation","18:20",1.00,"Rechargeable",0,0,0,"DaubertM",,,0.00,0,,,,
 "L07465","GrandCanyon","CRLeesFerry","02/13/2019",-3.50,"RB","GoodenoughD","NoRain",0,"Sand","18:20",1.00,"Rechargeable",0,0,0,"DaubertM",,,0.00,0,,,,
 "L07466","GrandCanyon","CRGrandCanyon","02/13/2019",1.30,"LB","GoodenoughD","NoRain",0,"Rock","18:20",1.00,"Rechargeable",0,0,0,"DaubertM",,,0.00,0,,,,
-"L07467","GrandCanyon","CRGrandCanyon","02/13/2019",3.34,"LB","GoodenoughD","NoRain",1,"Vegetation","18:20",1.00,"Rechargeable",0,0,0,"DaubertM",,,0.00,0,,,,
+"L07467","GrandCanyon","CRGrandCanyon","02/13/2019",3.34,"LB","GoodenoughD","NoRain",1,"Vegetation","18:20",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L07468","GrandCanyon","CRLeesFerry","12/13/2018",-12.00,"RB","GoodenoughD","NoRain",0,"Vegetation","17:30",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",12/21/2018 0:00:00,0.03,0,,"GiardinaM",,
 "L07469","GrandCanyon","CRLeesFerry","12/13/2018",-6.00,"LB","GoodenoughD","NoRain",0,"Vegetation","17:30",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",12/21/2018 0:00:00,0.02,0,,"GiardinaM",,
 "L07470","GrandCanyon","CRGrandCanyon","12/13/2018",1.30,"LB","GoodenoughD","NoRain",0,"Rock","17:30",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",12/21/2018 0:00:00,0.07,0,,"GiardinaM",,
 "L07471","GrandCanyon","CRGrandCanyon","12/13/2018",3.34,"LB","GoodenoughD","NoRain",0,"Vegetation","17:30",1.00,"Rechargeable",0,0,0,"DaubertM","SzydloC",2/26/2019 0:00:00,0.02,0,,"FordM",,
 "L07472","GrandCanyon","CRLeesFerry","12/13/2018",-3.50,"RB","GoodenoughD","NoRain",0,"Sand","17:30",1.00,"Rechargeable",0,0,0,"DaubertM","HendrixB",1/29/2019 0:00:00,0.03,0,,"GiardinaM",,
+"L07474","GrandCanyon","CRGrandCanyon","03/07/2019",274.60,"LB","GCY","NoRain",0,"Sand","18:45",0.92,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"Bosque school Bennett, Sean, Enrique, Parker. Hope your not bugged by this pun.",
+"L07476","GrandCanyon","CRGrandCanyon","03/05/2019",238.69,"LB","GCY","NoRain",0,"Rock","18:29",0.98,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"Wind increased during deployment",
+"L07477","GrandCanyon","CRGrandCanyon","03/14/2019",1.30,"LB","GoodenoughD","NoRain",1,"Rock","18:51",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L07478","GrandCanyon","CRGrandCanyon","03/06/2019",248.70,"RB","GCY","Rain",1,"Sand","18:58",0.55,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,,
 "L07480","GrandCanyon","CRGrandCanyon","08/28/2016",109.02,"RB","JerniganS","NoRain",0,"Sand","19:14",1.02,,0,0,0,,,,0.00,0,,,,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L07481","GrandCanyon","CRGrandCanyon","09/02/2016",198.96,"RB","JerniganS","NoRain",0,,"19:17",1.03,,0,0,0,,,,0.00,0,,,,"MD-(habitat type not noted). Weather originally recorded as 'Clear' (2018-09-27 JDM)."
 "L07483","GrandCanyon","CRGrandCanyon","08/30/2016",137.71,"LB","JerniganS","NoRain",0,"Sand","19:20",1.05,,0,0,0,,,,0.00,0,,,,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
@@ -7728,6 +7734,7 @@ BDH: river side not recorded on datasheet"
 "L09198","GrandCanyon","CRGrandCanyon","05/06/2017",137.72,"LB","JerniganS","NoRain",1,"Sand","19:34",1.05,,1,0,0,,"HendrixB",8/9/2018 0:00:00,1.10,0,,"GiardinaM",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L09199","GrandCanyon","CRGrandCanyon","05/07/2017",151.90,"RB","JerniganS","NoRain",1,"Rock","19:37",1.00,,1,0,0,,"HendrixB",8/28/2018 0:00:00,0.13,0,,"GiardinaM",,"Weather originally recorded as 'Cloudy' (2018-09-27 JDM). "
 "L09200","GrandCanyon","CRGrandCanyon","05/04/2017",120.34,"LB","JerniganS","NoRain",0,"Sand","19:37",1.03,,1,0,0,,"GoodenoughD",12/21/2017 0:00:00,0.98,0,,"GiardinaM",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
+"L09205","GrandCanyon","CRLeesFerry","03/14/2019",-12.00,"RB","GoodenoughD","NoRain",1,"Vegetation","18:51",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L09206","UpperBasin","CRCataract","11/15/2018",203.10,"LB","PrescottGCS","NoRain",0,"Sand","17:25",1.33,"Rechargeable",1,0,0,"MetcalfeA",,,0.00,0,,,,
 "L09211","UpperBasin","GRFGD","08/26/2017",241.00,"RB","NaumannT","NoRain",0,"Sand","20:23",1.00,"Night1AA",0,0,0,"MetcalfeA","MetcalfeA",7/31/2018 0:00:00,9.48,0,,"MetcalfeA","lodore","Weather originally recorded as 'Clear' (2018-09-27 JDM). Not a typo, seriously 20k HYDA."
 "L09235","UpperBasin","GRFGD","06/25/2017",231.50,"RB","RiverGuideDINO","NoRain",1,"Vegetation","20:45",1.00,"Night2AA",0,0,0,"MetcalfeA","MetcalfeA",8/20/2018 0:00:00,0.37,0,,"MetcalfeA","Coll: Elizabth Draft","Habitat originally recorded as 'Grasses-Forbes' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM). "
@@ -7927,6 +7934,18 @@ BDH: river side not recorded on datasheet"
 "L09488","UpperBasin","CRCataract","06/29/2017",209.70,,"JensenA","NoRain",0,"Sand","20:45",1.00,"Rechargeable",0,0,0,"MetcalfeA",,,0.00,0,,"GiardinaM",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). 
 BDH: river side not recorded on datasheet"
 "l09505","UpperBasin","GRDesoGray","06/08/2018",47.00,"RB","JensenA","NoRain",0,"Rock","20:45",1.00,"Rechargeable",0,0,0,"MetcalfeA",,,0.00,0,,,"Air temp 24.1°C",
+"L09506","GrandCanyon","CRGrandCanyon","06/16/2018",21.00,"RB","JensenA","NoRain",1,"Sand","20:00",1.08,"Night1AA",0,0,0,"SzydloC",,,0.00,0,,,"Weather: Cloudy  
+Wind Direction: UP Canyon
+Air Temp: 24.7 C",
+"L09508","GrandCanyon","CRGrandCanyon","07/14/2018",56.50,"RB","JensenA","NoRain",1,"Sand","19:30",1.00,"Night2AA",0,0,0,"SzydloC",,,0.00,0,,,"Weather: Cloudy
+Wind Direction: UP Canyon
+Air Temp: 28 C",
+"L09509","GrandCanyon","CRGrandCanyon","07/16/2018",127.00,"RB","JensenA","NoRain",1,"Sand","19:30",1.00,"Night3AA",0,0,0,"SzydloC",,,0.00,0,,,"Weather: Cloudy
+Wind Direction: DOWN Canyon
+Air Temp: 24.4 C",
+"L09510","GrandCanyon","CRGrandCanyon","07/18/2018",199.00,"RB","JensenA","NoRain",1,"Sand","19:40",1.00,"Night4AA",0,0,0,"SzydloC",,,0.00,0,,,"Weather: Cloudy
+Wind Direction: UP Canyon
+Air Temp: 35.0 C",
 "L09516","GrandCanyon","CRLeesFerry","04/06/2017",-12.00,"RB","QuigleyT",,0,,"19:00",1.00,"Rechargeable",0,1,0,"DaubertM",,,0.00,0,,"FordM",,"MD- Nothing was noted other than date, river mile, collector and open and close time. TK scored wind as zero based on other samples from this date."
 "L09517","GrandCanyon","CRLeesFerry","06/01/2017",-3.50,"RB","QuigleyT","Rain",2,"Vegetation","20:15",1.00,"Rechargeable",0,0,0,"DaubertM","FordM",6/25/2018 0:00:00,0.22,0,,"GiardinaM",,"MD- temp not noted. Habitat originally recorded as 'Grasses-Forbes' (2018-09-27 JDM)."
 "L09518","GrandCanyon","CRLeesFerry","06/01/2017",-6.00,"LB","QuigleyT","NoRain",1,"Vegetation","20:15",1.00,"Rechargeable",0,0,0,"DaubertM","FordM",6/25/2018 0:00:00,0.13,0,,"GiardinaM",,"MD- temp not notedHabitat originally recorded as 'Trees-Shrubs' (2018-09-27 JDM). Weather originally recorded as 'Cloudy' (2018-09-27 JDM). "
@@ -8589,6 +8608,8 @@ Maggie-bugs",""
 "L10244","UpperBasin","SJSandIsland","07/22/2018",23.10,"LB","GCY","NoRain",0,"Sand","19:54",1.00,"Rechargeable",1,0,0,"MetcalfeA",,,0.00,0,,,,
 "L10245","UpperBasin","SJSandIsland","07/23/2018",24.00,"LB","GCY","NoRain",0,"Sand","21:30",1.03,"Rechargeable",0,0,0,"MetcalfeA",,,0.00,0,,,,
 "L10247","UpperBasin","SJSandIsland","07/27/2018",19.40,"LB","GCY","NoRain",1,"Sand","21:20",1.00,"Rechargeable",0,0,0,"MetcalfeA",,,0.00,0,,,,
+"L10248","GrandCanyon","CRLeesFerry","03/14/2019",-3.50,"RB","GoodenoughD","NoRain",1,"Sand","18:51",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L10249","GrandCanyon","CRLeesFerry","03/14/2019",-6.00,"LB","GoodenoughD","NoRain",1,"Sand","18:51",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L10250","GrandCanyon","CRGrandCanyon","07/25/2018",205.00,"LB","GCY","NoRain",0,"Sand","21:08",1.00,"Rechargeable",0,1,0,"MetcalfeA",,,0.00,0,,,,
 "L10252","GrandCanyon","CRGrandCanyon","07/24/2018",21.60,"RB","GCY","NoRain",2,"Sand","21:01",1.00,"Rechargeable",0,0,0,"MetcalfeA",,,0.00,0,,,,
 "L10253","UpperBasin","SJSandIsland","07/22/2018",39.00,"LB","GCY","NoRain",0,"Vegetation","20:56",0.90,"Rechargeable",0,0,0,"MetcalfeA",,,0.00,0,,,,
@@ -8602,7 +8623,7 @@ Maggie-bugs",""
 "L10261","GrandCanyon","CRGrandCanyon","05/08/2018",52.08,"RB","WilliamsK","NoRain",0,"Sand","19:20",1.08,"Rechargeable",0,0,0,"DaubertM","DaubertM",12/21/2018 0:00:00,0.50,0,,"GiardinaM",,""
 "L10262","GrandCanyon","CRGrandCanyon","05/09/2018",52.09,"RB","WilliamsK","NoRain",0,"Sand","19:18",0.98,"Rechargeable",0,0,0,"DaubertM","DaubertM",2/12/2019 0:00:00,0.23,0,,"GiardinaM",,""
 "L10263","GrandCanyon","CRGrandCanyon","05/10/2018",65.83,"RB","WilliamsK","NoRain",2,"Sand","19:27",0.97,"Rechargeable",0,0,0,"DaubertM","HendrixB",11/17/2018 0:00:00,1.43,0,,"FordM",,""
-"L10264","GrandCanyon","CRGrandCanyon","05/11/2018",77.13,"LB","WilliamsK","NoRain",2,"Sand","19:17",1.03,"Rechargeable",0,0,0,"DaubertM","ScolloJ",2/28/2019 0:00:00,0.27,0,,"FordM",,""
+"L10264","GrandCanyon","CRGrandCanyon","05/11/2018",77.13,"LB","WilliamsK","NoRain",2,"Sand","19:17",1.03,"Rechargeable",0,0,0,"DaubertM","SzydloC",2/28/2019 0:00:00,0.27,0,,"FordM",,""
 "L10265","GrandCanyon","CRGrandCanyon","05/12/2018",98.68,"RB","WilliamsK","NoRain",1,"Sand","19:25",0.98,"Rechargeable",0,0,0,"DaubertM","GoodenoughD",3/5/2019 0:00:00,0.15,0,,"FordM",,""
 "L10266","GrandCanyon","CRGrandCanyon","05/13/2018",119.06,"RB","WilliamsK","NoRain",1,"Sand","19:28",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",3/1/2019 0:00:00,0.12,0,,"FordM",,"MD-close time not noted. Can assume. Kelly is an efficient and reliable collector."
 "L10267","GrandCanyon","CRGrandCanyon","05/14/2018",132.50,"RB","WilliamsK","NoRain",1,"Sand","19:30",0.85,"Rechargeable",0,0,0,"DaubertM","HendrixB",3/14/2019 0:00:00,0.07,0,,"FordM",,""
@@ -9271,6 +9292,29 @@ BDH: river side not recorded on datasheet"
 "L11041","GrandCanyon","CRGrandCanyon","10/02/2018",93.80,"LB","BestardM","NoRain",0,"Sand","18:18",1.07,"Rechargeable",0,1,0,"DaubertM","DaubertM",11/28/2018 0:00:00,0.05,0,,"FordM","In the middle of hurricane Rosie. Sporadic constant rain.",
 "L11042","GrandCanyon","CRGrandCanyon","10/03/2018",120.00,"LB","BestardM","NoRain",0,"Vegetation","18:19",1.00,"Rechargeable",0,0,0,"DaubertM","HendrixB",11/26/2018 0:00:00,0.08,0,,"FordM",,
 "L11043","GrandCanyon","CRGrandCanyon","10/07/2018",171.60,"RB","BestardM","NoRain",1,"Vegetation","18:23",1.03,"Rechargeable",0,0,0,"DaubertM","DaubertM",11/28/2018 0:00:00,0.05,0,,"FordM",,
+"L11044","GrandCanyon","CRGrandCanyon","03/10/2019",225.95,"LB","GCY","NoRain",1,"Rock","18:56",0.75,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,,"Only 45 minute sample -CS"
+"L11045","GrandCanyon","CRGrandCanyon","03/11/2019",235.30,"LB","GCY","NoRain",1,"Rock","18:33",0.87,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11046","GrandCanyon","CRGrandCanyon","03/12/2019",250.00,"RB","GCY","Rain",0,"Sand","18:46",0.98,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11047","GrandCanyon","CRGrandCanyon","03/13/2019",274.00,"LB","GCY","NoRain",2,"Sand","19:00",1.03,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11078","GrandCanyon","CRGrandCanyon","03/04/2019",20.70,"RB","MetcalfeA","NoRain",0,"Rock","19:05",1.03,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11079","GrandCanyon","CRGrandCanyon","03/10/2019",65.10,"RB","PrivateBoater","NoRain",0,"Sand","19:02",1.02,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11080","GrandCanyon","CRGrandCanyon","03/13/2019",75.50,"LB","PrivateBoater","NoRain",0,"Sand","19:02",1.02,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11081","GrandCanyon","CRGrandCanyon","03/20/2019",152.10,"RB","MetcalfeA","Rain",1,"Rock","19:20",0.50,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,"""Red Flag""","River Mile listed as ""Ledges 152.1"""
+"L11082","GrandCanyon","CRGrandCanyon","03/22/2019",193.90,"RB","MetcalfeA","NoRain",0,"Sand","19:15",1.03,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11083","GrandCanyon","CRGrandCanyon","03/23/2019",226.20,"RB","MetcalfeA","NoRain",0,"Rock","19:22",1.13,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"There were CERA flying + biting before dusk, didn't see any in trap",
+"L11084","GrandCanyon","CRGrandCanyon","03/24/2019",240.00,"RB","MetcalfeA","NoRain",0,"Rock","19:17",1.02,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,"River Miles listed as ""Separation 240"""
+"L11094","GrandCanyon","CRGrandCanyon","03/25/2019",259.00,"RB","MetcalfeA","NoRain",0,"Sand","19:30",1.10,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,"River Mile listed as ""Above Burnt 259"""
+"L11095","GrandCanyon","CRGrandCanyon","03/18/2019",119.40,"RB","MetcalfeA","NoRain",0,"Sand","19:06",1.20,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"Field Processed 1 CHIR","River Mile listed as ""Big Dune 119.4"" Field processed."
+"L11096","GrandCanyon","CRGrandCanyon","03/17/2019",109.01,"RB","MetcalfeA","NoRain",0,"Sand","19:00",1.30,"Rechargeable",0,1,0,"SzydloC",,,0.00,0,,,,"River Mile listed as ""Bass 109"""
+"L11097","GrandCanyon","CRGrandCanyon","03/16/2019",109.01,"RB","MetcalfeA","NoRain",0,"Sand","18:41",1.07,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,"River Mile listed as ""Bass Camp 109.01"""
+"L11098","GrandCanyon","CRGrandCanyon","03/15/2019",93.80,"LB","MetcalfeA","NoRain",0,"Rock","18:55",1.02,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,"River Mile listed as ""Granite 93.8"""
+"L11099","GrandCanyon","CRGrandCanyon","03/11/2019",74.60,"RB","PrivateBoater","NoRain",1,"Sand","19:01",0.82,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11100","GrandCanyon","CRGrandCanyon","03/09/2019",65.10,"RB","PrivateBoater","NoRain",1,"Sand","19:18",1.10,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,,"River Mile is missing on datasheet -CS
+RM filled in (layover at Carbon w/next day) - AM 4/8"
+"L11101","GrandCanyon","CRGrandCanyon","03/08/2019",53.50,"RB","PrivateBoater","NoRain",1,"Sand","18:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11102","GrandCanyon","CRGrandCanyon","03/07/2019",53.50,"RB","PrivateBoater","NoRain",1,"Sand","18:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11103","GrandCanyon","CRGrandCanyon","03/06/2019",44.40,"LB","PrivateBoater","Rain",2,"Sand","18:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11104","GrandCanyon","CRGrandCanyon","03/05/2019",44.40,"LB","PrivateBoater","NoRain",0,"Sand","18:36",1.08,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "l11105","GrandCanyon","CRLeesFerry","11/14/2018",-6.00,"LB","GoodenoughD","NoRain",0,"Vegetation","17:45",1.00,"Rechargeable",0,0,0,"DaubertM","HendrixB",12/13/2018 0:00:00,0.05,0,,"GiardinaM",,
 "l11106","GrandCanyon","CRLeesFerry","11/14/2018",-3.50,"RB","GoodenoughD","NoRain",0,"Sand","17:45",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",12/11/2018 0:00:00,0.02,0,,"FordM",,
 "l11107","GrandCanyon","CRLeesFerry","11/14/2018",-12.00,"RB","GoodenoughD","NoRain",0,"Vegetation","17:45",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",12/11/2018 0:00:00,0.05,0,,"FordM",,
@@ -9304,7 +9348,7 @@ BDH: river side not recorded on datasheet"
 "L11216","GrandCanyon","CRGrandCanyon","09/06/2018",30.00,"RB","BestardM","NoRain",0,"Rock","18:58",1.20,"Rechargeable",0,0,0,"DaubertM","HendrixB",10/4/2018 0:00:00,1.17,0,,"FordM",,
 "L11217","GrandCanyon","CRGrandCanyon","09/07/2018",47.00,"LB","ProctorK","NoRain",0,"Sand","19:00",1.03,"Rechargeable",0,0,0,"DaubertM","HendrixB",10/4/2018 0:00:00,0.17,0,,"FordM",,
 "L11218","GrandCanyon","CRGrandCanyon","09/08/2018",74.00,"RB","ProctorK","NoRain",0,"Sand","18:50",,"Rechargeable",0,1,1,"DaubertM",,,0.00,0,,,,"Close time not noted."
-"L11219","GrandCanyon","CRGrandCanyon","09/09/2018",85.00,"LB","BestardM","NoRain",0,"Rock","18:54",1.02,"Rechargeable",0,0,0,"DaubertM",,,0.00,0,,,,
+"L11219","GrandCanyon","CRGrandCanyon","09/09/2018",85.00,"LB","BestardM","NoRain",0,"Rock","18:54",1.02,"Rechargeable",0,0,0,"DaubertM","DaubertM",10/5/2018 0:00:00,0.30,0,,,,
 "L11220","GrandCanyon","CRGrandCanyon","09/11/2018",124.00,"RB","ProctorK","NoRain",1,"Sand","18:51",1.15,"Rechargeable",0,0,0,"DaubertM","DaubertM",10/5/2018 0:00:00,0.08,0,,"FordM",,
 "L11221","GrandCanyon","CRGrandCanyon","09/12/2018",135.20,"LB","BestardM","NoRain",0,"Sand","18:50",1.17,"Rechargeable",0,0,0,"DaubertM","DaubertM",10/3/2018 0:00:00,0.57,0,,"FordM",,
 "L11222","GrandCanyon","CRGrandCanyon","09/14/2018",145.90,"LB","ProctorK","NoRain",0,"Sand","18:47",1.13,"Rechargeable",0,0,0,"DaubertM","HendrixB",10/3/2018 0:00:00,0.73,0,,"FordM",,
