@@ -40571,7 +40571,7 @@
 "L06864","STAA",3,
 "L06864","THYS",1,"Recorded only as ""present."" Not a true count."
 "L06864","TIPA",6,
-"L06864","TRRU",1,"0m,1f, D. Ruiter verified"
+"L06864","TRRU",1,"0m,1f, D. Ruiter verified. Originally ID'd as Heteroplectron (Calamoceratidae)."
 "L06865","CERA",42,
 "L06865","CHEN",72,
 "L06865","CHIA",493,"Mites absent."
@@ -46300,6 +46300,10 @@
 "L08060","SIMA",10,
 "L08060","STAA",1,
 "L08061","CHIA",18,
+"L08062","CHIA",13318,
+"L08062","HOPP",1,
+"L08062","HYDA",37,
+"L08062","LEPA",12,
 "L08063","BRAM",16,
 "L08063","CERA",1,
 "L08063","CHIA",124,"Mites present."
@@ -47115,7 +47119,7 @@
 "L08237","SIMA",139,
 "L08237","STAA",8,
 "L08237","TIPA",4,
-"L08237","TRRU",4,"D. Ruiter Ruiteri verified!!"
+"L08237","TRRU",4,"D. Ruiter Ruiteri verified."
 "L08245","CERA",4,
 "L08245","CHEN",8,"3m,5f"
 "L08245","CHIA",114,"Mites absent."
@@ -51614,7 +51618,7 @@
 "L09211","HYOC",78,"30m, 48f"
 "L09211","HYOS",3,"2m, 1f"
 "L09211","LEPA",25,"2 pinned"
-"L09211","MITE",0,"P"
+"L09211","MITE",0,"p"
 "L09211","NOTO",3,"pinned"
 "L09211","OPST",1,
 "L09211","PETR",311,"in envelope"
