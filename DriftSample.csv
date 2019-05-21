@@ -5196,12 +5196,12 @@ processing date for 500um sample 12/7/2018"
 "D08492","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,60.55,,10.00,0,6,"Day","06:50:00",5.00,"Low","KennedyT","Net",0.92,312.85,62.57,63.41,0,0,"GoodenoughD",,"",0.00,0,,,"Bug flow."
 "D08493","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,61.10,,10.00,0,6,"Day","07:08:00",5.00,"Low","KennedyT","Net",0.87,381.47,76.29,77.32,0,0,"GoodenoughD",,"",0.00,0,,,"Bug flow."
 "D08494","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,61.55,,10.00,0,6,"Day","07:39:00",5.00,"Low","KennedyT","Net",0.92,334.85,66.97,67.87,0,0,"GoodenoughD",,"",0.00,0,,,"Bug flow."
-"D08495","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,63.50,,10.00,0,6,"Day","15:02:00",5.00,"Low","KennedyT","Net",0.93,324.14,64.83,65.70,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08496","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,63.50,,10.00,0,6,"Day","15:17:00",5.00,"Low","KennedyT","Net",0.92,273.60,54.72,55.46,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08497","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,63.50,,10.00,0,6,"Day","15:25:00",5.00,"Low","KennedyT","Net",0.93,378.11,75.62,76.64,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08498","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,61.55,,10.00,0,6,"Day","16:34:00",5.00,"Low","KennedyT","Net",0.91,335.95,67.19,68.10,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08499","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,61.10,,10.00,0,6,"Day","16:52:00",5.00,"Low","KennedyT","Net",0.90,337.76,67.55,68.46,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08500","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,60.50,,10.00,0,6,"Day","17:12:00",5.00,"Low","KennedyT","Net",0.93,289.26,57.85,58.63,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08495","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,63.50,,10.00,0,6,"Day","15:02:00",5.00,"Low","KennedyT","Net",0.93,324.14,64.83,65.70,0,0,"GoodenoughD",,"",0.00,0,,,"Bug flow."
+"D08496","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,63.50,,10.00,0,6,"Day","15:17:00",5.00,"Low","KennedyT","Net",0.92,273.60,54.72,55.46,0,0,"GoodenoughD",,"",0.00,0,,,"Bug flow."
+"D08497","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,63.50,,10.00,0,6,"Day","15:25:00",5.00,"Low","KennedyT","Net",0.93,378.11,75.62,76.64,0,0,"GoodenoughD",,"",0.00,0,,,"Bug flow."
+"D08498","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,61.55,,10.00,0,6,"Day","16:34:00",5.00,"Low","KennedyT","Net",0.91,335.95,67.19,68.10,0,0,"GoodenoughD",,"",0.00,0,,,"Bug flow."
+"D08499","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,61.10,,10.00,0,6,"Day","16:52:00",5.00,"Low","KennedyT","Net",0.90,337.76,67.55,68.46,0,0,"GoodenoughD",,"",0.00,0,,,"Bug flow."
+"D08500","GC20190501","GrandCanyon","CRGrandCanyon","05/06/2019",,60.55,,10.00,0,6,"Day","17:12:00",5.00,"Low","KennedyT","Net",0.93,289.26,57.85,58.63,0,0,"GoodenoughD",,"",0.00,0,,,"Bug flow."
 "D08501","GC20190501","GrandCanyon","CRGrandCanyon","05/07/2019",,60.55,,10.00,0,6,"Day","07:01:00",5.00,"Low","KennedyT","Net",0.91,292.65,58.53,59.32,0,0,"GoodenoughD",,"",0.00,0,,,
 "D08502","GC20190501","GrandCanyon","CRGrandCanyon","05/07/2019",,61.10,,10.00,0,6,"Day","07:17:00",5.00,"Low","KennedyT","Net",0.88,376.92,75.38,76.40,0,0,"GoodenoughD",,"",0.00,0,,,
 "D08503","GC20190501","GrandCanyon","CRGrandCanyon","05/07/2019",,61.55,,10.00,0,6,"Day","07:33:00",5.00,"Low","KennedyT","Net",0.93,368.29,73.66,74.65,0,0,"GoodenoughD",,"",0.00,0,,,
@@ -5218,4 +5218,39 @@ processing date for 500um sample 12/7/2018"
 "D08514","GC20190501","GrandCanyon","CRGrandCanyon","05/12/2019",,215.90,,10.00,0,6,"Day","17:12:00",5.00,"Medium","KennedyT","Net",0.87,344.94,68.99,69.92,0,0,"GoodenoughD",,"",0.00,0,,,"High water."
 "D08515","GC20190501","GrandCanyon","CRGrandCanyon","05/12/2019",,214.90,,10.00,0,6,"Day","17:32:00",5.00,"Medium","KennedyT","Net",0.89,307.68,61.54,62.37,0,0,"GoodenoughD",,"",0.00,0,,,"High water."
 "D08516","GC20190501","GrandCanyon","CRGrandCanyon","05/13/2019",,213.80,,10.00,0,6,"Day","07:08:00",5.00,"Low","KennedyT","Net",0.87,254.18,50.84,51.52,0,0,"GoodenoughD",,"",0.00,0,,,
-"D08517","GC20190501","GrandCanyon","CRGrandCanyon","05/13/2019",,213.80,,10.00,0,6,"Day","",,"Low","KennedyT","Net",,,,,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08517","GC20190501","GrandCanyon","CRGrandCanyon","05/13/2019",,214.90,,10.00,0,6,"Day","07:37:00",5.00,"Low","KennedyT","Net",0.88,299.45,59.89,60.70,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08518","GC20190501","GrandCanyon","CRGrandCanyon","05/13/2019",,215.90,,10.00,0,6,"Day","07:54:00",5.00,"Low","KennedyT","Net",0.89,306.34,61.27,62.10,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08519","GC20190501","GrandCanyon","CRGrandCanyon","05/13/2019",,213.80,,10.00,0,6,"Day","16:42:00",5.00,"Medium","KennedyT","Net",0.87,241.97,48.39,49.05,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08520","GC20190501","GrandCanyon","CRGrandCanyon","05/13/2019",,214.90,,10.00,0,6,"Day","16:57:00",5.00,"Medium","KennedyT","Net",0.89,294.88,58.98,59.77,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08521","GC20190501","GrandCanyon","CRGrandCanyon","05/13/2019",,215.90,,10.00,0,6,"Day","17:15:00",5.00,"Medium","KennedyT","Net",0.91,321.70,64.34,65.21,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08522","GC20190501","GrandCanyon","CRGrandCanyon","05/14/2019",,213.80,,10.00,0,6,"Day","07:10:00",5.00,"High","KennedyT","Net",0.91,260.20,52.04,52.74,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08523","GC20190501","GrandCanyon","CRGrandCanyon","05/14/2019",,214.90,,10.00,0,6,"Day","07:25:00",5.00,"High","KennedyT","Net",0.88,265.75,53.15,53.87,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08524","GC20190501","GrandCanyon","CRGrandCanyon","05/14/2019",,215.90,,10.00,0,6,"Day","07:50:00",5.00,"High","KennedyT","Net",0.90,308.44,61.69,62.52,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08525","GC20190501","GrandCanyon","CRGrandCanyon","05/14/2019",,212.10,,10.00,0,6,"Day","16:32:00",5.00,"High","KennedyT","Net",0.92,315.05,63.01,63.86,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08526","GC20190501","GrandCanyon","CRGrandCanyon","05/14/2019",,212.40,,10.00,0,6,"Day","17:24:00",5.00,"High","KennedyT","Net",0.89,377.54,75.51,76.53,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08527","GC20190501","GrandCanyon","CRGrandCanyon","05/14/2019",,212.40,,10.00,0,6,"Day","17:40:00",5.00,"High","KennedyT","Net",0.89,390.70,78.14,79.19,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08528","GC20190501","GrandCanyon","CRGrandCanyon","05/14/2019",,213.80,,10.00,0,6,"Day","18:00:00",5.00,"High","KennedyT","Net",0.92,279.28,55.86,56.61,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08529","GC20190501","GrandCanyon","CRGrandCanyon","05/14/2019",,214.90,,10.00,0,6,"Day","18:16:00",5.00,"High","KennedyT","Net",0.94,293.53,58.71,59.50,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08530","GC20190501","GrandCanyon","CRGrandCanyon","05/14/2019",,215.90,,10.00,0,6,"Day","18:31:00",5.00,"High","KennedyT","Net",0.90,324.55,64.91,65.79,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08531","GC20190501","GrandCanyon","CRGrandCanyon","05/15/2019",,213.80,,10.00,0,6,"Day","07:14:00",5.00,"Medium","KennedyT","Net",0.93,267.90,53.58,54.30,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08532","GC20190501","GrandCanyon","CRGrandCanyon","05/15/2019",,214.90,,10.00,0,6,"Day","07:30:00",5.00,"Medium","KennedyT","Net",0.93,311.85,62.37,63.21,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08533","GC20190501","GrandCanyon","CRGrandCanyon","05/15/2019",,215.90,,10.00,0,6,"Day","07:48:00",5.00,"Medium","KennedyT","Net",0.91,327.96,65.59,66.48,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08534","GC20190501","GrandCanyon","CRGrandCanyon","05/15/2019",,212.40,,12.00,0,6,"Day","16:53:00",5.00,"Medium","KennedyT","Net",0.86,396.78,79.36,80.43,0,0,"GoodenoughD",,"",0.00,0,,,"""Shorty"" net was used (net length is shorter than standard)."
+"D08535","GC20190501","GrandCanyon","CRGrandCanyon","05/15/2019",,212.40,,12.00,0,6,"Day","07:08:00",5.00,"Medium","KennedyT","Net",0.87,382.87,76.57,77.61,0,0,"GoodenoughD",,"",0.00,0,,,"""Shorty"" net was used (net length is shorter than standard)."
+"D08536","GC20190501","GrandCanyon","CRGrandCanyon","05/15/2019",,212.40,,12.00,0,6,"Day","17:20:00",5.00,"Medium","KennedyT","Net",0.88,394.60,78.92,79.99,0,0,"GoodenoughD",,"",0.00,0,,,"""Shorty"" net was used (net length is shorter than standard)."
+"D08537","GC20190501","GrandCanyon","CRGrandCanyon","05/15/2019",,213.80,,10.00,0,6,"Day","17:40:00",5.00,"Medium","KennedyT","Net",0.88,279.25,55.85,56.60,0,0,"GoodenoughD",,"",0.00,0,,,"""Shorty"" net was used (net length is shorter than standard)."
+"D08538","GC20190501","GrandCanyon","CRGrandCanyon","05/15/2019",,214.90,,10.00,0,6,"Day","17:56:00",5.00,"Medium","KennedyT","Net",0.85,289.42,57.88,58.67,0,0,"GoodenoughD",,"",0.00,0,,,"""Shorty"" net was used (net length is shorter than standard)."
+"D08539","GC20190501","GrandCanyon","CRGrandCanyon","05/15/2019",,215.90,,10.00,0,6,"Day","18:15:00",5.00,"Medium","KennedyT","Net",0.90,347.76,69.55,70.49,0,0,"GoodenoughD",,"",0.00,0,,,"""Shorty"" net was used (net length is shorter than standard)."
+"D08540","LF20190515","GrandCanyon","CRGrandCanyon","05/15/2019",,6.00,,7.00,0,6,"Day","12:00:00",4.92,"Low","GoodenoughD","Net",0.95,588.01,119.51,119.19,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08541","LF20190515","GrandCanyon","CRGrandCanyon","05/15/2019",,3.34,,7.00,0,6,"Day","12:35:00",4.95,"Low","GoodenoughD","Net",0.99,515.46,104.13,104.48,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08542","LF20190515","GrandCanyon","CRGrandCanyon","05/15/2019",,1.90,,7.00,0,6,"Day","12:55:00",4.97,"Low","GoodenoughD","Net",0.89,240.22,48.33,48.69,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08543","LF20190515","GrandCanyon","CRLeesFerry","05/15/2019",,0.00,,7.00,0,6,"Day","13:20:00",4.95,"Low","GoodenoughD","Net",0.90,165.52,33.44,33.55,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08544","LF20190515","GrandCanyon","CRLeesFerry","05/15/2019",,0.00,,7.00,0,6,"Day","13:30:00",5.00,"Low","GoodenoughD","Net",0.85,170.49,34.10,34.56,0,0,"GoodenoughD",,"",0.00,0,,,"Organic Matter sample."
+"D08545","LF20190515","GrandCanyon","CRLeesFerry","05/15/2019",,-3.50,,7.00,0,6,"Day","14:05:00",5.00,"Low","GoodenoughD","Net",0.96,243.31,48.66,49.32,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08546","LF20190515","GrandCanyon","CRLeesFerry","05/15/2019",,-3.50,,7.00,0,6,"Day","14:20:00",5.03,"Low","GoodenoughD","Net",0.99,249.34,49.57,50.54,0,0,"GoodenoughD",,"",0.00,0,,,"Organic Matter sample."
+"D08547","LF20190515","GrandCanyon","CRLeesFerry","05/15/2019",,-8.00,,7.00,0,6,"Day","14:45:00",5.00,"Low","GoodenoughD","Net",0.99,513.12,102.62,104.01,0,0,"GoodenoughD",,"",0.00,0,,,
+"D08548","LF20190515","GrandCanyon","CRLeesFerry","05/15/2019",,-8.00,,7.00,0,6,"Day","15:00:00",5.00,"Low","GoodenoughD","Net",0.95,496.09,99.22,100.56,0,0,"GoodenoughD",,"",0.00,0,,,"Organic Matter sample."
+"D08549","LF20190515","GrandCanyon","CRLeesFerry","05/15/2019",,-11.00,,7.00,0,6,"Day","15:30:00",5.00,"Low","GoodenoughD","Net",1.09,269.97,53.99,54.72,0,0,"GoodenoughD",,"",0.00,0,,,"Algae on bomb flowmeter."
+"D08550","LF20190515","GrandCanyon","CRLeesFerry","05/15/2019",,-11.00,,7.00,0,6,"Day","15:45:00",4.98,"Low","GoodenoughD","Net",0.90,268.25,53.87,54.37,0,0,"GoodenoughD",,"",0.00,0,,,"Organic Matter sample."
+"D08551","LF20190515","GrandCanyon","CRLeesFerry","05/15/2019",,-12.90,,7.00,0,6,"Day","16:08:00",4.98,"Low","GoodenoughD","Net",1.00,598.04,120.09,121.22,0,0,"GoodenoughD",,"",0.00,0,,,"Net flowmeter went over 999999, numbers not correct but difference is accurate."
+"D08552","LF20190515","GrandCanyon","CRLeesFerry","05/15/2019",,-13.40,,7.00,0,6,"Day","16:27:00",5.00,"Low","GoodenoughD","Net",0.95,299.72,59.94,60.75,0,0,"GoodenoughD",,"",0.00,0,,,
