@@ -4574,6 +4574,7 @@ No river mile or river side recorded on datasheet (2018-10-03 CS)"
 "L04810","GrandCanyon","CRGrandCanyon","07/18/2018",69.30,"RB","GCY","NoRain",1,"Sand","20:39",1.00,"Rechargeable",1,0,0,"MetcalfeA",,,0.00,0,,,,
 "L04820","UpperBasin","YampaR","05/01/2017",2.00,"RB","NPSDINO","NoRain",0,"Sand","20:30",1.00,"Night1AA",0,0,0,"MetcalfeA","MetcalfeA",11/13/2018 0:00:00,0.05,0,,"MetcalfeA","Coll: Jesse Lanci","Weather originally recorded as 'Clear' (2018-09-27 JDM). Sample tossed."
 "L04821","UpperBasin","GRFGD","08/08/2017",211.50,"LB","RiverGuideDINO","NoRain",0,"Sand","10:20",1.03,"Night2AA",0,0,0,"MetcalfeA",,,0.00,0,,"GiardinaM","Coll: Nate Schafsteck between Island/Rainbow parks","Weather originally recorded as 'Cloudy' (2018-09-27 JDM). "
+"L04824","GrandCanyon","CRGrandCanyon","05/28/2019",221.57,"RB","CatlettJ","NoRain",1,"Sand","19:25",1.02,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L04825","GrandCanyon","CRGrandCanyon","04/19/2019",274.30,"LB","GCY","NoRain",0,"Sand","19:47",1.12,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L04826","GrandCanyon","CRGrandCanyon","04/18/2019",252.10,"LB","GCY","NoRain",0,"Sand","20:11",1.08,"Rechargeable",0,1,0,"SzydloC",,,0.00,0,,,,
 "L04827","GrandCanyon","CRGrandCanyon","04/17/2019",235.20,"LB","GCY","NoRain",0,"Sand","20:02",1.03,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
@@ -8871,6 +8872,7 @@ MF-river side added, Lava Canyon Camp"
 "L10451","GrandCanyon","CRGrandCanyon","09/02/2018",31.90,"RB","TarlowJ","NoRain",0,"Sand","18:56",1.00,"Rechargeable",0,0,0,"DaubertM","HendrixB",11/16/2018 0:00:00,0.45,0,,"FordM",,
 "L10452","GrandCanyon","CRGrandCanyon","05/03/2019",60.20,"LB","GCMRC","NoRain",0,"Sand","19:30",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L10453","GrandCanyon","CRGrandCanyon","05/05/2019",60.75,"RB","KennedyT","NoRain",1,"Rock","19:37",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L10454","GrandCanyon","CRGrandCanyon","05/15/2019",16.65,"LB","CatlettJ","NoRain",2,"Sand","19:54",1.07,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L10455","GrandCanyon","CRLeesFerry","08/13/2018",-12.00,"RB","DaubertM","NoRain",1,"Vegetation","19:40",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",8/15/2018 0:00:00,0.32,0,,"FordM",,"LF Drift Trip."
 "L10456","GrandCanyon","CRLeesFerry","08/13/2018",-3.50,"RB","DaubertM","NoRain",1,"Sand","19:40",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",8/15/2018 0:00:00,0.08,0,,"FordM",,"LF Drift Trip."
 "L10457","GrandCanyon","CRLeesFerry","08/12/2018",-12.00,"RB","GoodenoughD","NoRain",0,"Vegetation","19:40",1.00,"Rechargeable",0,0,0,"DaubertM",,,0.00,0,,,,"LF Drift Trip."
@@ -9127,6 +9129,7 @@ MF-river side added, Lava Canyon Camp"
 "L10725","GrandCanyon","CRGrandCanyon","09/07/2018",53.19,"RB","HarmonA","NoRain",0,"Rock","18:59",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",10/2/2018 0:00:00,0.17,0,,"FordM",,
 "L10726","GrandCanyon","CRGrandCanyon","06/25/2018",156.30,"RB","GCY","NoRain",0,"Rock","20:17",0.97,"Rechargeable",0,0,0,"DaubertM","DaubertM",1/30/2019 0:00:00,0.12,0,,"GiardinaM",,""
 "L10727","GrandCanyon","CRGrandCanyon","09/16/2018",34.10,"LB","JosephE","NoRain",,"Sand","18:43",1.03,"Rechargeable",1,0,0,"DaubertM","DaubertM",11/28/2018 0:00:00,0.12,0,,"FordM",,"Wind speed not noted (MD 10.29.2018)."
+"L10734","GrandCanyon","CRGrandCanyon","06/06/2019",243.20,"RB","GCY","NoRain",1,"Sand","20:02",,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,,"No close time - CS 6/11/2019"
 "L10735","GrandCanyon","CRGrandCanyon","06/16/2018",176.33,"LB","CatlettJ","NoRain",1,"Sand","19:50",1.05,"Rechargeable",1,0,0,"DaubertM","DaubertM",3/1/2019 0:00:00,1.25,0,,"FordM",,""
 "L10736","GrandCanyon","CRGrandCanyon","06/15/2018",158.24,"RB","CatlettJ","NoRain",1,"Rock","20:01",1.05,"Rechargeable",1,0,0,"DaubertM","GoodenoughD",2/8/2019 0:00:00,0.30,0,,"GiardinaM",,""
 "L10737","GrandCanyon","CRGrandCanyon","06/14/2018",137.69,"LB","CatlettJ","NoRain",1,"Sand","20:03",1.07,"Rechargeable",1,0,0,"DaubertM","DaubertM",12/11/2018 0:00:00,0.18,0,,"FordM",,""
@@ -9424,6 +9427,7 @@ RM filled in (layover at Carbon w/next day) - AM 4/8"
 "L11121","GrandCanyon","CRGrandCanyon","04/09/2019",137.10,"LB","GCC","NoRain",0,"Sand","19:32",1.80,"Rechargeable",1,1,1,"SzydloC",,,0.00,0,,,,
 "L11122","GrandCanyon","CRGrandCanyon","04/11/2019",189.00,"RB","GCC","NoRain",0,"Sand","21:10",1.50,"Rechargeable",1,1,1,"SzydloC",,,0.00,0,,,"Whitmore Wash.",
 "L11123","GrandCanyon","CRGrandCanyon","04/12/2019",209.00,"LB","GCC","NoRain",,"Sand","19:20",1.42,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"River mile listed as ""Granite Park"". Rained earlier.","Wind not recorded on datasheet- CS"
+"L11124","GrandCanyon","CRGrandCanyon","06/07/2019",176.30,"LB","KearsleyL","NoRain",0,"Vegetation","20:08",1.10,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11125","GrandCanyon","CRGrandCanyon","04/13/2019",243.00,"RB","GCC","NoRain",0,"Sand","19:45",,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,,"Close time was missing on datasheet. Lid was not screwed on tightly on this sample and 75% of sample had spilled out of bottle into bottom of ammo can. I threw away the rest of sample.  - CS (4/22/2019)"
 "L11127","GrandCanyon","CRGrandCanyon","04/07/2019",230.60,"LB","GCY","NoRain",0,"Sand","19:36",1.02,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11128","GrandCanyon","CRGrandCanyon","04/08/2019",248.70,"RB","GCY","NoRain",0,"Sand","19:01",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
@@ -9431,6 +9435,12 @@ RM filled in (layover at Carbon w/next day) - AM 4/8"
 "L11130","GrandCanyon","CRLeesFerry","04/12/2019",-11.30,"LB","GCY","NoRain",1,"Sand","19:26",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11131","GrandCanyon","CRLeesFerry","04/13/2019",-6.10,"RB","GCY","NoRain",0,"Vegetation","19:03",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11132","GrandCanyon","CRGrandCanyon","05/01/2019",,"LB","BestardM","NoRain",0,"Sand","19:24",1.07,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,,"No river mile on datasheet - CS 5/22/2019"
+"L11134","GrandCanyon","CRGrandCanyon","05/30/2019",20.70,"RB","PettyJ","NoRain",0,"Sand","19:55",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11135","GrandCanyon","CRGrandCanyon","05/31/2019",47.50,"RB","PettyJ","NoRain",1,"Sand","19:50",0.95,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,"Datasheet has close time listed as ""19:47"". I assume he meant 20:47"" - CS 6/11/2019"
+"L11136","GrandCanyon","CRGrandCanyon","06/02/2019",108.10,"RB","PettyJ","NoRain",0,"Vegetation","19:49",1.02,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11137","GrandCanyon","CRGrandCanyon","06/03/2019",137.60,"LB","PettyJ","NoRain",0,"Sand","19:50",1.03,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11138","GrandCanyon","CRGrandCanyon","06/04/2019",174.80,"RB","PettyJ","NoRain",0,"Sand","19:46",0.95,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11139","GrandCanyon","CRGrandCanyon","06/05/2019",220.00,"RB","PettyJ","NoRain",0,"Sand","19:53",0.97,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11182","GrandCanyon","CRGrandCanyon","10/14/2018",63.60,"RB","ByerleyE","NoRain",2,"Sand","16:39",3.10,"Rechargeable",0,1,1,"DaubertM",,,0.00,0,,,,"Duration time too long (MD 10.29.2018)."
 "L11183","GrandCanyon","CRGrandCanyon","10/12/2018",63.60,"RB","ByerleyE","NoRain",1,"Sand","18:25",1.03,"Rechargeable",1,0,0,"DaubertM","HendrixB",11/17/2018 0:00:00,0.23,0,,"FordM",,
 "L11184","GrandCanyon","CRGrandCanyon","10/10/2018",63.60,"RB","ByerleyE","NoRain",0,"Vegetation","18:36",0.97,"Rechargeable",0,0,0,"DaubertM","HendrixB",11/26/2018 0:00:00,0.23,0,,"FordM",,
@@ -9488,6 +9498,7 @@ RM filled in (layover at Carbon w/next day) - AM 4/8"
 "L11247","GrandCanyon","CRGrandCanyon","09/13/2018",3.30,"LB","DaubertM","NoRain",0,"Sand","19:00",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",9/24/2018 0:00:00,0.03,0,,"FordM",,""
 "L11248","GrandCanyon","CRGrandCanyon","09/13/2018",1.30,"RB","DaubertM","NoRain",0,"Sand","19:00",1.00,"Rechargeable",0,0,0,"DaubertM","DaubertM",9/24/2018 0:00:00,0.12,0,,"FordM",,""
 "L11249","GrandCanyon","CRGrandCanyon","10/03/2018",92.00,"RB","ProctorK","NoRain",1,"Sand","18:13",0.93,"Rechargeable",0,0,0,"DaubertM","DaubertM",10/30/2018 0:00:00,0.23,0,,"FordM",,
+"L11250","GrandCanyon","CRGrandCanyon","06/03/2019",65.80,"RB","KearsleyL","NoRain",0,"Vegetation","20:05",0.92,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11251","UpperBasin","SJSandIsland","04/05/2019",6.50,"LB","GCY","NoRain",0,"Sand","19:12",0.23,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,"bat data collected","Only 14 minute survey? Times are as recorded on datasheet - CS
 Sample tossed - AM June 2019"
 "L11252","GrandCanyon","CRGrandCanyon","05/05/2019",165.20,"RB","StalveyA","NoRain",0,"Rock","20:07",1.10,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
@@ -9507,16 +9518,20 @@ Sample tossed - AM June 2019"
 "L11375","GrandCanyon","CRLeesFerry","04/09/2019",-3.50,"RB","DaubertM","NoRain",2,"Vegetation","18:04",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11376","GrandCanyon","CRGrandCanyon","04/09/2019",1.29,"LB","DaubertM","NoRain",2,"Rock","18:04",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11377","GrandCanyon","CRGrandCanyon","04/09/2019",3.34,"LB","DaubertM","NoRain",2,"Sand","18:04",1.00,"Rechargeable",0,0,0,"DaubertM",,,0.00,0,,,"Timer broken, sample not collected.",
+"L11378","GrandCanyon","Havasu","06/03/2019",6.55,"LB","GoodenoughD","NoRain",0,"Vegetation","19:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"""In Front of FWS Camp""","River mile is actually km up tributary from confluence -CS 6/11/2019"
 "L11384","GrandCanyon","CRGrandCanyon","05/20/2019",230.00,"LB","GCY","NoRain",1,"Sand","19:15",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"Bush School (as collector).  ""I love rafting"".",
 "L11385","GrandCanyon","CRGrandCanyon","05/21/2019",243.00,"RB","GCY","NoRain",1,"Rock","18:42",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"'The Bush School""",
 "L11387","GrandCanyon","CRLeesFerry","05/20/2019",-11.30,"LB","GCY","NoRain",0,"Sand","19:35",1.08,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11388","GrandCanyon","CRLeesFerry","05/21/2019",-6.00,"RB","GCY","NoRain",2,"Vegetation","20:10",1.17,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11389","GrandCanyon","CRGrandCanyon","06/01/2019",22.10,"RB","KearsleyL","NoRain",0,"Rock","19:47",0.97,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"Tons of little insects - I figure they are midges. It was hard to get all the midges in the container without using up a huge amount of ethanol to squirt them into the corner. I probably didn't get about a dozen of them into the container.",
+"L11390","GrandCanyon","CRGrandCanyon","06/02/2019",50.00,"RB","KearsleyL","NoRain",0,"Vegetation","20:02",1.10,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"A crazy amount of big insects - maybe caddisflies? Consider including in your info packet actual size pictures of the 3-4 most common bugs we're most likely to collect so we can know what they are. I'm wondering with so many insects if there's enough ethanol to preserve them. There were hundreds of thousands of little bugs crawling around on the sand at camp. The size of a small ant but not an ant. Looked like a beetle. I took a photo of some with my macro lens if you want to check them out.",
 "L11391","GrandCanyon","CRLeesFerry","04/02/2019",-0.10,"RB","OliverM","NoRain",0,"Rock","19:32",1.10,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11392","GrandCanyon","CRGrandCanyon","04/08/2019",127.00,"RB","OliverM","NoRain",0,"Vegetation","19:12",1.05,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"New batteries in lamp! Much brighter.",
 "L11393","GrandCanyon","CRGrandCanyon","04/06/2019",89.40,"RB","OliverM","NoRain",2,"Sand","19:33",1.20,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Primary lamp not working. Wouldn't start reliably, stopped/started when jostled but couldn't get it to stay on. Switched to backup lamp. Should I be trying to hide the kit away when it's really windy? Seems like there weren’t any bugs last night partly because of the wind…Tucked kit into pocket at base of sand/rock/tamarisk root ledge by high water line.",
 "L11394","GrandCanyon","CRGrandCanyon","04/05/2019",61.10,"RB","OliverM","NoRain",2,"Sand","19:19",0.98,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Primary lamp reluctant to start. Seems faint.",
 "L11395","GrandCanyon","CRGrandCanyon","04/11/2019",209.10,"LB","OliverM","NoRain",0,"Vegetation","19:27",1.05,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Steep bank so trap is propped on broken sticks. Air underneath may attract bugs  that didn't get caught.",
 "L11396","GrandCanyon","CRGrandCanyon","04/12/2019",230.60,"LB","OliverM","NoRain",1,"Sand","19:16",1.02,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"Do you collect data below Diamond Creek? Hedging bets and getting mileage from scientists…they have USGS maps too and mine only go to 227. Fairly heavy rain prior to deployment. Ipad stopped recordings after I placed it…Not sure what went wrong, no bat data tonight.",
+"L11397","GrandCanyon","CRGrandCanyon","06/06/2019",137.70,"LB","KearsleyL","NoRain",1,,"20:10",1.05,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"There was a frog around the light tray when I came to end the session","Habitat blank on datasheet - CS 6/11/2019"
 "L11398","GrandCanyon","CRGrandCanyon","04/14/2019",270.10,"RB","OliverM","NoRain",2,"Rock","19:07",1.10,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Got the bat data working again! Yay! Microphone wasn't allowed in settings? I don't know…Anyways, last night! Lamp looked weak by end, should have replaced batteries.",
 "L11399","GrandCanyon","CRGrandCanyon","04/03/2019",5.90,"RB","OliverM","NoRain",1,"Vegetation","19:02",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Breezes picked up at times during deployment of trap…Could have edged to or above 10mph once or twice.",
 "L11400","GrandCanyon","CRGrandCanyon","04/13/2019",242.90,"RB","OliverM","NoRain",1,"Rock","19:20",1.22,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Bat kit didn't work again. Started the recording but it seemed to not keep the recordings? Will try to test tomorrow when I set it up. Turned iPad off and on again…",
@@ -9526,7 +9541,9 @@ Sample tossed - AM June 2019"
 "L11404","GrandCanyon","CRGrandCanyon","04/09/2019",165.00,"RB","OliverM","NoRain",1,"Vegetation","19:11",1.03,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Difficult to accurately ascertain current high water mark because of weekend flows and the vegetation/mud combo. May be too close to camp. Winds breezy and variable . Didn't rain but there were a few spitting drops.",
 "L11406","GrandCanyon","CRGrandCanyon","05/02/2019",127.00,"RB","StalveyA","NoRain",0,"Sand","19:59",1.12,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11407","GrandCanyon","CRGrandCanyon","05/01/2019",109.00,"RB","StalveyA","NoRain",,"Sand","20:10",1.17,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,"Wind speed is missing on datasheet. - CS 5/22/2019"
+"L11408","GrandCanyon","CRGrandCanyon","06/05/2019",120.80,"LB","KearsleyL","NoRain",0,"Rock","20:08",1.03,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"There were so many of the bigbugs I had to use two containers and scoop them out with my nands since they wouldn't pour in. About 20 of them fell in the sand and didn't make it into the container. I took a photo of the site. I put the bugs in two containers because they wouldn’t fit into just one. I labeled the second container",
 "L11409","GrandCanyon","CRGrandCanyon","05/04/2019",145.80,"LB","StalveyA","NoRain",,"Sand","19:52",1.38,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,"Wind speed is missing on datasheet -CS 5/22/2019"
+"L11410","GrandCanyon","CRGrandCanyon","06/04/2019",97.20,"LB","KearsleyL","NoRain",0,"Sand","20:00",1.05,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"I didn't figure we'd get many because we're at the tail end of Boucher rapid, but I guess they're here too.",
 "L11442","GrandCanyon","CRGrandCanyon","04/11/2019",225.80,"LB","GCY","NoRain",0,"Sand","19:20",1.00,"Rechargeable",1,0,0,"DaubertM",,,0.00,0,,,,
 "L11443","GrandCanyon","CRGrandCanyon","04/12/2019",229.20,"LB","GCY","NoRain",0,"Sand","19:30",1.08,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Rained one hour just before sampling. Attempted but no bats ID'd due to rain just before.",
 "L11444","GrandCanyon","CRGrandCanyon","04/13/2019",247.68,"LB","GCY","NoRain",0,"Sand","19:54",1.18,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
@@ -9538,6 +9555,18 @@ Sample tossed - AM June 2019"
 "L11458","GrandCanyon","CRLeesFerry","05/25/2019",-6.00,"RB","GCY","NoRain",0,"Vegetation","19:20",,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,,"close time missing on datasheet - CS 5/30/2019"
 "L11459","GrandCanyon","CRLeesFerry","05/23/2019",-11.40,"LB","GCY","NoRain",1,"Vegetation","19:52",1.42,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11460","GrandCanyon","CRLeesFerry","05/24/2019",-11.40,"LB","GCY","NoRain",0,"Sand","19:43",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11481","GrandCanyon","CRGrandCanyon","05/22/2019",107.03,"RB","CatlettJ","Rain",1,"Sand","19:27",0.43,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,"T-storm",
+"L11482","GrandCanyon","CRGrandCanyon","05/23/2019",120.63,"RB","CatlettJ","NoRain",1,"Sand","19:30",1.03,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11483","GrandCanyon","CRGrandCanyon","05/24/2019",137.15,"LB","CatlettJ","NoRain",1,"Sand","19:22",1.22,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11484","GrandCanyon","CRGrandCanyon","05/25/2019",158.27,"RB","CatlettJ","NoRain",1,"Rock","19:27",1.08,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11485","GrandCanyon","CRGrandCanyon","05/26/2019",180.18,"RB","CatlettJ","NoRain",1,"Sand","19:27",1.03,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11486","GrandCanyon","CRGrandCanyon","05/27/2019",189.97,"LB","CatlettJ","NoRain",1,"Sand","19:29",1.08,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,"River side was missing on datasheet. I looked up camp on map. -  CS 6/11/2019"
+"L11487","GrandCanyon","CRGrandCanyon","05/06/2019",29.51,"LB","CatlettJ","NoRain",,"Sand","19:45",1.08,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,"Wind Speed missing on datasheet - CS 6/11/2019"
+"L11488","GrandCanyon","CRGrandCanyon","05/17/2019",44.53,"LB","CatlettJ","NoRain",0,"Sand","19:50",0.95,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11489","GrandCanyon","CRGrandCanyon","05/08/2019",53.42,"RB","CatlettJ","NoRain",0,"Sand","19:45",1.12,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11490","GrandCanyon","CRGrandCanyon","05/19/2019",65.13,"RB","CatlettJ","NoRain",1,"Sand","19:45",1.13,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,,
+"L11491","GrandCanyon","CRGrandCanyon","05/20/2019",87.74,"LB","CatlettJ","NoRain",2,,"19:48",1.03,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,"Both river side and habitat data was missing. I added river side based on camp site location on map. - CS 6/11/2019"
+"L11492","GrandCanyon","CRGrandCanyon","05/21/2019",91.63,"LB","CatlettJ","NoRain",,"Sand","19:28",1.10,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,"River side and wind speed missing on datasheet. Added river side based on camp location on map. - CS 6/11/2019"
 "L11495","GrandCanyon","CRGrandCanyon","05/14/2019",214.50,"RB","SwindlehurstJ","NoRain",0,"Rock","19:40",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11496","GrandCanyon","CRGrandCanyon","05/13/2019",214.50,"RB","SwindlehurstJ","NoRain",0,"Rock","19:40",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11497","GrandCanyon","CRGrandCanyon","05/12/2019",214.50,"RB","SwindlehurstJ","NoRain",0,"Sand","19:40",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
@@ -9576,7 +9605,7 @@ Sample tossed - AM June 2019"
 "L11548","GrandCanyon","CRGrandCanyon","05/12/2019",215.00,"LB","KennedyT","NoRain",0,"Sand","19:40",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11549","GrandCanyon","CRGrandCanyon","05/14/2019",215.00,"LB","KennedyT","NoRain",0,"Sand","19:40",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11550","GrandCanyon","CRGrandCanyon","05/15/2019",215.00,"LB","KennedyT","NoRain",1,"Sand","19:40",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"Overcast skies and moderate wind all afternoon. Overcast at time of light trapping.",
-"L11554","GrandCanyon","CRGrandCanyon","05/26/2019",41.00,"RB","GCMRC","NoRain",1,"Sand","19:45",1.00,"Rechargeable",1,1,0,"SzydloC",,,0.00,0,,,"""Buck Farm""","Katie Laushman collector"
+"L11554","GrandCanyon","CRGrandCanyon","05/26/2019",41.00,"RB","GCMRC","NoRain",1,"Sand","19:45",1.00,"Rechargeable",1,1,0,"SzydloC",,,0.00,0,,,"""Buck Farm""  ""Some gusts of strong wind, cloudy evening, Hualapai trip!""","Katie Laushman collector"
 "L11556","GrandCanyon","CRGrandCanyon","05/13/2019",215.00,"LB","KennedyT","NoRain",0,"Sand","19:40",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11557","GrandCanyon","CRGrandCanyon","05/06/2019",60.75,"RB","KennedyT","NoRain",2,"Rock","19:30",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11558","GrandCanyon","CRGrandCanyon","05/05/2019",87.70,"LB","MorrisS","NoRain",0,"Sand","19:37",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
@@ -9590,7 +9619,7 @@ Sample tossed - AM June 2019"
 "L11570","GrandCanyon","CRLeesFerry","04/26/2019",-0.10,"RB","WilliamsK","NoRain",1,"Rock","19:21",0.98,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11571","GrandCanyon","CRGrandCanyon","04/27/2019",11.29,"RB","WilliamsK","NoRain",1,"Sand","19:18",1.03,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11572","GrandCanyon","CRGrandCanyon","04/28/2019",23.70,"LB","WilliamsK","NoRain",1,"Sand","19:18",1.03,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
-"L11573","GrandCanyon","CRGrandCanyon","04/29/2019",41.25,"RB","WilliamsK","NoRain",2,"Sand","19:20",0.75,"Rechargeable",1,1,1,"SzydloC",,,0.00,0,,,"Started gusting and then rain",
+"L11573","GrandCanyon","CRGrandCanyon","04/29/2019",41.25,"RB","WilliamsK","Rain",2,"Sand","19:20",0.75,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Started gusting and then rain",
 "L11574","GrandCanyon","CRGrandCanyon","04/30/2019",47.50,"RB","WilliamsK","NoRain",1,"Sand","19:28",1.33,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11575","GrandCanyon","CRGrandCanyon","05/01/2019",57.11,"RB","WilliamsK","NoRain",1,"Sand","19:20",1.17,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11576","GrandCanyon","CRGrandCanyon","05/02/2019",65.84,"RB","WilliamsK","NoRain",1,"Sand","19:24",1.15,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
@@ -9617,6 +9646,21 @@ Lamp seems to be a little touchy at the connection. Running fine for now. Bat ki
 "L11598","GrandCanyon","CRGrandCanyon","05/10/2019",85.00,"LB","OliverM","Rain",1,"Sand","19:35",0.98,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Shut bat kit down 20 min early b/c of rain- didn't think it should be out? Not raining hard, just persistently.",
 "L11599","GrandCanyon","CRGrandCanyon","05/11/2019",122.80,"RB","OliverM","NoRain",0,"Sand","20:12",0.12,"Rechargeable",1,1,1,"SzydloC",,,0.00,0,,,,"No explanation for collecting only a 7 min sample -CS 5/22/2019"
 "L11600","GrandCanyon","CRGrandCanyon","05/12/2019",122.80,"RB","OliverM","NoRain",0,"Sand","19:39",1.07,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11601","GrandCanyon","CRGrandCanyon","05/23/2019",0.14,"RB","RoussisO","NoRain",0,"Sand","19:34",1.10,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11602","GrandCanyon","CRGrandCanyon","05/24/2019",11.39,"RB","RoussisO","NoRain",0,"Sand","19:36",1.07,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11603","GrandCanyon","CRGrandCanyon","05/25/2019",26.54,"LB","RoussisO","NoRain",0,"Sand","19:35",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11604","GrandCanyon","CRGrandCanyon","05/26/2019",44.51,"LB","RoussisO","NoRain",1,"Sand","19:36",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Started out windy but clouds came in and its dark, ominous and still half way through bug collection",
+"L11605","GrandCanyon","CRGrandCanyon","05/27/2019",53.15,"RB","RoussisO","NoRain",0,"Sand","19:37",1.23,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11606","GrandCanyon","CRGrandCanyon","05/28/2019",68.31,"RB","RoussisO","NoRain",1,"Sand","19:37",1.38,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Bat data got turned off then turned on again before being off for good. Sort of confusing.",
+"L11607","GrandCanyon","CRGrandCanyon","05/29/2019",87.73,"LB","RoussisO","NoRain",0,"Sand","19:38",1.02,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11608","GrandCanyon","CRGrandCanyon","05/30/2019",93.79,"LB","RoussisO","NoRain",0,"Sand","19:39",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11609","GrandCanyon","CRGrandCanyon","05/31/2019",119.78,"RB","RoussisO","NoRain",0,"Sand","19:39",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11610","GrandCanyon","CRGrandCanyon","06/01/2019",132.49,"RB","RoussisO","NoRain",1,"Sand","19:40",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11611","GrandCanyon","CRGrandCanyon","06/02/2019",144.76,"RB","RoussisO","NoRain",1,"Sand","19:41",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11612","GrandCanyon","CRGrandCanyon","06/03/2019",165.09,"RB","RoussisO","NoRain",1,"Sand","19:41",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11613","GrandCanyon","CRGrandCanyon","06/04/2019",182.97,"RB","RoussisO","NoRain",1,"Sand","19:44",1.08,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11614","GrandCanyon","CRGrandCanyon","06/05/2019",199.45,"RB","RoussisO","NoRain",1,"Sand","19:42",1.80,"Rechargeable",1,1,1,"SzydloC",,,0.00,0,,,,"19:42 open and 21:30 close are correct - CS 6/11/2019"
+"L11615","GrandCanyon","CRGrandCanyon","06/06/2019",219.97,"RB","RoussisO","NoRain",1,"Sand","19:43",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11616","GrandCanyon","CRLeesFerry","05/03/2019",-0.14,"RB","RoussisO","NoRain",0,"Rock","19:17",1.35,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11617","GrandCanyon","CRGrandCanyon","05/04/2019",14.17,"LB","RoussisO","NoRain",0,"Rock","19:18",1.08,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11618","GrandCanyon","CRGrandCanyon","05/05/2019",20.72,"RB","RoussisO","NoRain",2,"Sand","19:19",1.12,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
@@ -9645,6 +9689,8 @@ Lamp seems to be a little touchy at the connection. Running fine for now. Bat ki
 "L11651","GrandCanyon","CRGrandCanyon","05/03/2019",61.76,"LB","GCMRC","NoRain",0,"Sand","19:30",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11652","GrandCanyon","CRGrandCanyon","05/04/2019",61.76,"LB","GCMRC","NoRain",0,"Sand","19:30",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11653","GrandCanyon","CRGrandCanyon","05/07/2019",60.75,"RB","KennedyT","NoRain",1,"Rock","19:30",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"High winds + clouds for much of the day. Dark overcast skies during light deployment. Rain this afternoon. Not a good day for light trapping.",
+"L11672","GrandCanyon","CRGrandCanyon","05/13/2019",16.70,"LB","ChapmanK","NoRain",1,"Sand","19:30",1.03,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11673","GrandCanyon","CRGrandCanyon","05/14/2019",30.80,"RB","ChapmanK","NoRain",0,"Sand","19:36",1.10,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11714","GrandCanyon","CRGrandCanyon","05/18/2019",20.20,"LB","GCMRC","NoRain",1,"Sand","19:10",1.08,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11715","GrandCanyon","CRGrandCanyon","05/19/2019",47.20,"LB","GCMRC","NoRain",0,"Sand","20:05",1.03,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11716","GrandCanyon","CRGrandCanyon","05/20/2019",63.70,"RB","GCMRC","NoRain",1,"Sand","20:01",1.07,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
@@ -9655,6 +9701,24 @@ Lamp seems to be a little touchy at the connection. Running fine for now. Bat ki
 "L11732","GrandCanyon","CRGrandCanyon","05/24/2019",167.14,"LB","GCMRC","NoRain",0,"Rock","20:04",1.35,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11733","GrandCanyon","CRGrandCanyon","05/23/2019",146.15,"LB","GCMRC","NoRain",0,"Rock","20:10",1.12,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11734","GrandCanyon","CRGrandCanyon","05/21/2019",98.67,"RB","GCMRC","NoRain",0,"Sand","20:15",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
+"L11735","GrandCanyon","Havasu","06/02/2019",6.55,"LB","GoodenoughD","NoRain",1,"Vegetation","19:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"""Used prop. glycol - not sure if we would be back to camp before dusk.   Only deployed 1, didn't have time to set up more""","River mile is actually km up tributary from confluence -CS 6/11/2019"
+"L11736","GrandCanyon","Havasu","06/03/2019",6.52,"LB","GoodenoughD","NoRain",0,"Rock","19:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"""DS of FWS Camp""","River mile is actually km up tributary from confluence -CS 6/11/2019"
+"L11737","GrandCanyon","Havasu","06/03/2019",6.60,"LB","GoodenoughD","NoRain",0,"Rock","19:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"U.S. of FWS Camp  US=upstream, DS = downstream","River mile is actually km up tributary from confluence -CS 6/11/2019"
+"L11738","GrandCanyon","Havasu","06/04/2019",6.55,"LB","GoodenoughD","NoRain",0,"Vegetation","19:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"In front of FWS Camp","River mile is actually km up tributary from confluence -CS 6/11/2019"
+"L11739","GrandCanyon","Havasu","06/04/2019",6.52,"LB","GoodenoughD","NoRain",0,"Rock","19:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"DS of FWS camp","River mile is actually km up tributary from confluence -CS 6/11/2019"
+"L11740","GrandCanyon","Havasu","06/05/2019",6.52,"LB","GoodenoughD","NoRain",0,"Rock","19:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"DS of FWS camp",
+"L11741","GrandCanyon","Havasu","06/05/2019",6.60,"LB","GoodenoughD","NoRain",0,"Rock","19:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"US of FWS camp","River mile is actually km up tributary from confluence -CS 6/11/2019"
+"L11746","GrandCanyon","Havasu","06/05/2019",6.55,"LB","GoodenoughD","NoRain",0,"Vegetation","19:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"In front of FWS camp","River mile is actually km up tributary from confluence -CS 6/11/2019"
+"L11747","GrandCanyon","Havasu","06/04/2019",6.60,"LB","GoodenoughD","NoRain",0,"Rock","19:50",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"U.S. of FWS Camp","River mile is actually km up tributary from confluence -CS 6/11/2019"
 "L11753","GrandCanyon","CRGrandCanyon","05/20/2019",212.00,"RB","PerkinsM","NoRain",1,"Sand","20:08",1.20,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11754","GrandCanyon","CRGrandCanyon","05/19/2019",212.00,"RB","PerkinsM","NoRain",0,"Rock","20:20",1.00,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,,
 "L11755","GrandCanyon","CRGrandCanyon","05/16/2019",212.00,"RB","PerkinsM","NoRain",1,"Sand","20:10",1.00,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11788","GrandCanyon","CRGrandCanyon","06/05/2019",230.60,"LB","GCY","NoRain",0,"Sand","20:05",,"Rechargeable",1,1,1,"SzydloC",,,0.00,0,,,,"No close time, but can get info off the GCY bat pad - CS 6/11/2019"
+"L11842","GrandCanyon","CRGrandCanyon","05/15/2019",47.50,"RB","ChapmanK","NoRain",1,"Sand","19:42",1.18,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"""I think it (bat pad) stopped early though :(""",
+"L11843","GrandCanyon","CRGrandCanyon","05/17/2019",87.30,"LB","ChapmanK","NoRain",1,"Sand","19:35",1.02,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
+"L11844","GrandCanyon","CRGrandCanyon","05/18/2019",96.50,"LB","ChapmanK","NoRain",0,"Sand","19:55",1.03,"Rechargeable",0,0,0,"SzydloC",,,0.00,0,,,"Bat pad battery dead :(",
+"L11845","GrandCanyon","CRGrandCanyon","05/19/2019",120.60,"RB","ChapmanK","NoRain",1,"Sand","19:45",1.02,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Stormy","Rain was circled ""No"", notes said ""stormy"" - CS 6/11/2019"
+"L11846","GrandCanyon","CRGrandCanyon","05/20/2019",137.70,"LB","ChapmanK","NoRain",1,"Sand","19:31",1.13,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Stormy","Rain was circled ""No"", notes said ""stormy"" - CS 6/11/2019"
+"L11847","GrandCanyon","CRGrandCanyon","05/21/2019",165.20,"RB","ChapmanK","Rain",2,"Sand","20:02",0.92,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"Stormy",
+"L11848","GrandCanyon","CRGrandCanyon","05/23/2019",209.10,"LB","ChapmanK","NoRain",0,"Sand","19:32",1.12,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"""First calm day after getting walloped by storms. Still stormy when collected, cleared into 1st clear night since (approximately) 5 days ago""","Rain was circled ""No"", notes said ""stormy"" - CS 6/11/2019"
+"L11849","GrandCanyon","CRGrandCanyon","05/24/2019",243.00,"RB","ChapmanK","NoRain",0,"Sand","19:58",1.02,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
