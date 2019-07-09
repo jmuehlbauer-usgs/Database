@@ -9261,6 +9261,7 @@ No barcode on datasheet, there was a sample with barcode L10798 in batch that di
 "L10853","GrandCanyon","LittleCR","06/29/2018",,"RB","GCMRC","NoRain",1,"Sand","19:15",,"Rechargeable",0,1,1,"DaubertM",,,0.00,0,,,,"Close time and river mile not noted."
 "L10854","GrandCanyon","CRGrandCanyon","08/24/2018",63.70,"RB","JordanN","NoRain",0,"Sand","19:41",1.00,"Rechargeable",1,0,0,"DaubertM","HendrixB",11/26/2018 0:00:00,0.32,0,,"FordM",,
 "L10855","GrandCanyon","CRGrandCanyon","08/26/2018",119.80,"RB","JordanN","NoRain",0,"Sand","19:32",1.00,"Rechargeable",1,0,0,"DaubertM","DaubertM",10/11/2018 0:00:00,0.10,0,,"FordM",,
+"L10856","UpperBasin","SJSandIsland","06/27/2019",0.00,"RB","GCY","NoRain",0,"Sand","20:00",1.00,"Rechargeable",1,0,0,"MetcalfeA",,,0.00,0,,,"No bat pad ID",
 "L10857","UpperBasin","SJSandIsland","04/06/2019",,"LB","GCY","NoRain",0,"Sand","19:20",1.00,"Rechargeable",0,1,1,"SzydloC",,,0.00,0,,,,"No river mile - CS
 Sample tossed- AM June 2019"
 "L10858","GrandCanyon","CRLeesFerry","10/22/2018",-9.00,"RB","GCY","NoRain",0,"Rock","18:00",1.08,"Rechargeable",0,0,0,"DaubertM","DaubertM",12/6/2018 0:00:00,0.05,0,,"FordM","Vegetation habitat type also circled.",
@@ -9964,3 +9965,10 @@ Coll: Austin, Macey, Antonia","SAMPLES MISSING (02 July 2019)"
 "L11848","GrandCanyon","CRGrandCanyon","05/23/2019",209.10,"LB","ChapmanK","NoRain",0,"Sand","19:32",1.12,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,"""First calm day after getting walloped by storms. Still stormy when collected, cleared into 1st clear night since (approximately) 5 days ago""","Rain was circled ""No"", notes said ""stormy"" - CS 6/11/2019"
 "L11849","GrandCanyon","CRGrandCanyon","05/24/2019",243.00,"RB","ChapmanK","NoRain",0,"Sand","19:58",1.02,"Rechargeable",1,0,0,"SzydloC",,,0.00,0,,,,
 "L11853","UpperBasin","SJSandIsland","06/14/2019",5.70,"RB","GCY","NoRain",0,"Sand","19:51",0.98,"Rechargeable",0,0,0,"MetcalfeA",,,0.00,0,,,"AZ time",
+"L12042","UpperBasin","SJSandIsland","06/30/2019",20.50,"LB","GCY","NoRain",0,"Vegetation","20:00",,"Rechargeable",0,1,1,"MetcalfeA",,,0.00,0,,,"No close time recorded","Sample tossed"
+"L12043","UpperBasin","SJSandIsland","06/29/2019",13.50,"RB","GCY","NoRain",1,"Sand","20:00",1.00,"Rechargeable",1,0,0,"MetcalfeA",,,0.00,0,,,"No bat pad ID",
+"L12044","UpperBasin","SJSandIsland","06/28/2019",6.50,"LB","GCY","NoRain",0,"Vegetation","19:50",,"Rechargeable",0,1,1,"MetcalfeA",,,0.00,0,,,"No close time recorded","sample tossed"
+"L12045","UpperBasin","SJSandIsland","06/30/2019",76.00,"LB","GCY","NoRain",1,"Sand","20:30",1.00,"Rechargeable",0,0,0,"MetcalfeA",,,0.00,0,,,,
+"L12046","UpperBasin","SJSandIsland","06/29/2019",67.00,"RB","GCY","NoRain",0,"Sand","20:13",0.98,"Rechargeable",0,1,0,"MetcalfeA",,,0.00,0,,,"Orginal close time was recorded as 20:12",
+"L12047","UpperBasin","SJSandIsland","06/28/2019",48.60,"RB","GCY","NoRain",1,"Sand","20:15",1.02,"Rechargeable",0,0,0,"MetcalfeA",,,0.00,0,,,"Both sand and veg recorded as habitat",
+"L12048","UpperBasin","SJSandIsland","06/27/2019",37.70,"RB","GCY","NoRain",0,"Sand","20:25",1.00,"Rechargeable",0,0,0,"MetcalfeA",,,0.00,0,,,"Both and sand and veg recorded as habitat. Collectors: A. Cates, B. Taylor, Hannah, T.G., C. Lipsky",
