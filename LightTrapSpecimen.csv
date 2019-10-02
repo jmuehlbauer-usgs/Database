@@ -30058,6 +30058,34 @@
 "L04567","LEPA",2,"1 pinned, 1 tossed"
 "L04567","POHA",1,"1m,0f"
 "L04567","STAA",1,
+"L04568","HYDA",2,
+"L04568","HYOC",29,"18m, 11f"
+"L04568","HYOS",11,"7m, 4f"
+"L04568","TIPA",1,
+"L04568","TRAS",1,
+"L04570","CASP",3,
+"L04570","CERA",10,
+"L04570","CHEN",45,"39m, 6f"
+"L04570","CHIA",435,"150 bv, remainder tossed"
+"L04570","ELLA",4,
+"L04570","FORM",1,
+"L04570","FUNG",1,"Sciaridae"
+"L04570","HESP",45,"0m, 45f, many eggs (saved in vial)"
+"L04570","HEXA",1,"0m, 1f"
+"L04570","HYDA",4784,"200 bv, remainder tossed"
+"L04570","HYMA",3,
+"L04570","HYOC",447,"267m, 180f; 20m+20f reference vial and remainder in envelope"
+"L04570","HYOS",652,"533m, 119f; 20m+20f reference vial and remainder in envelope"
+"L04570","LEPA",13,
+"L04570","MUSC",1,
+"L04570","OEAV",75,
+"L04570","PETR",75,
+"L04570","POHA",28,"23m, 5f"
+"L04570","RHCO",1,"1m, 0f"
+"L04570","SIMA",9,
+"L04570","SMSI",247,
+"L04570","STAA",1,
+"L04570","THYS",1,
 "L04571","CERA",94,"50 in BV, remainder tossed"
 "L04571","CHEP",3,"0m, 3f"
 "L04571","CHIA",1555,"200 in BV, remainder tossed"
@@ -46417,6 +46445,27 @@
 "L08072","TIPA",1,
 "L08072","TRAB",1,"1m,0f"
 "L08072","TRAS",1,
+"L08078","CERA",2,
+"L08078","CHEP",1,"0m, 1f"
+"L08078","CHIA",309,"100 bv, remainder tossed"
+"L08078","ELLA",1,"0m, 1f"
+"L08078","FORM",39,
+"L08078","FUNG",1,"Sciaridae"
+"L08078","HBIO",1,"1m, 0f unverified"
+"L08078","HEMA",4,
+"L08078","HESP",2,"0m, 2f"
+"L08078","HYDA",1665,"350 BV, remainder tossed"
+"L08078","HYOC",21,"13m, 8f"
+"L08078","HYOS",9,"3m, 6f"
+"L08078","LEPA",2,
+"L08078","MUSC",1,
+"L08078","NEUR",2,"Coniopterygidae"
+"L08078","PETR",12,
+"L08078","POHA",2,"2m, 0f"
+"L08078","SIMA",2,
+"L08078","SMSI",3,
+"L08078","STAA",4,
+"L08078","TRAS",1,"1m, 0f"
 "L08079","CHIA",61,
 "L08079","FUNG",2,
 "L08079","HYDA",14,
@@ -51408,6 +51457,33 @@
 "L09139","RHCO",1,"0m,1f, in BV"
 "L09139","SMSI",49,
 "L09139","STAA",117,
+"L09140","CASP",10,
+"L09140","CERA",48,
+"L09140","CHEN",56,"46m, 20f"
+"L09140","CHIA",2254,"150 in BV, remainder tossed"
+"L09140","COLE",1,"Pinned"
+"L09140","CORI",2,"Pinned"
+"L09140","DIPT",1,"Pinned"
+"L09140","FUNG",36,"Sciaridae"
+"L09140","HBIO",1,"1m, 0f, sent to Ruiter for verification"
+"L09140","HEMA",26,
+"L09140","HESP",3,"0m, 3f"
+"L09140","HEXL",1,
+"L09140","HYMA",3,
+"L09140","HYOC",220,"116m, 104f, in envelope"
+"L09140","HYOS",152,"136m, 16f, in envelope"
+"L09140","LEPA",7,
+"L09140","MUSC",7,
+"L09140","OEAV",36,
+"L09140","OESO",1,"0m, 1f"
+"L09140","PETR",92,"Reference vial"
+"L09140","POHA",6,"5m, 1f"
+"L09140","RHBR",1,"1m, 0f"
+"L09140","RHCO",7,"5m, 2f"
+"L09140","SIMA",10,
+"L09140","SMSI",2,"2m, 0f"
+"L09140","STAA",19,
+"L09140","TIPA",1,
 "L09143","CERA",2,
 "L09143","CHAN",1,"1m,0f"
 "L09143","CHEN",9,"2m, 7f"
@@ -51763,6 +51839,24 @@
 "L09240","RHCO",1,"0m, 1f"
 "L09240","STAA",16,
 "L09240","TRAS",2,"2m, 0f"
+"L09242","CARA",2,
+"L09242","CASP",1,
+"L09242","CERA",16,
+"L09242","CHIA",338,
+"L09242","CORI",1,"Pinned"
+"L09242","CULA",4,
+"L09242","EMPA",2,
+"L09242","FORM",1,"Pinned"
+"L09242","FUNG",9,"Sciaridae"
+"L09242","HEMA",6,
+"L09242","HYDA",163,
+"L09242","HYOS",128,"80m, 48f"
+"L09242","LEPA",11,"3 pinned, remainder tossed"
+"L09242","MUSC",16,
+"L09242","RHCO",9,"7m, 2f"
+"L09242","SIMA",7,
+"L09242","STAA",2,
+"L09242","THYS",1,
 "L09245","CERA",3,
 "L09245","CHIA",266,
 "L09245","EMPA",1,
@@ -51903,6 +51997,20 @@
 "L09282","STAA",1,
 "L09282","TRAS",2,"2m,0f"
 "L09283","NOBU",0,
+"L09284","CERA",4,
+"L09284","CHEN",3,"3m, 0f"
+"L09284","CHIA",95,
+"L09284","COLE",1,
+"L09284","ELLA",1,"0m, 1f"
+"L09284","HEMA",2,
+"L09284","HYDA",18,
+"L09284","HYMA",1,
+"L09284","HYOC",72,"49m, 23 f"
+"L09284","HYOS",14,"7m, 7f"
+"L09284","LEPA",5,"3 pinned, 1 bv, 1 tossed"
+"L09284","MUSC",11,
+"L09284","POCI",2,"2m, 0f"
+"L09284","POHA",3,"1m, 2f"
 "L09298","BRAT",2,"Phoridae"
 "L09298","CERA",384,
 "L09298","CHEN",47,"33m, 14f"
