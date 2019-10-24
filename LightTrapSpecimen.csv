@@ -30666,6 +30666,19 @@
 "L04679","HYDA",2,
 "L04679","HYOS",2,"0m, 2f"
 "L04679","TIPA",2,
+"L04683","ACEN",1,"0m, 1f"
+"L04683","CHEN",12,
+"L04683","CHIA",83,
+"L04683","HYDA",4,
+"L04683","HYDS",1,"Chaetarthia sp? Needs verification"
+"L04683","HYOC",16,"16m, 0f"
+"L04683","MUSC",1,
+"L04683","OEAV",7,
+"L04683","PETR",1,
+"L04683","SIMA",1,
+"L04683","SMSI",12,
+"L04683","TIPA",1,
+"L04683","TRSP",2,
 "L04687","CHEN",10,
 "L04687","CHIA",65,"Mites absent."
 "L04687","COLE",1,
@@ -36793,6 +36806,16 @@
 "L06177","HYDA",1878,
 "L06177","HYOC",4,"1m,3f"
 "L06177","POHA",1,"1m,0f"
+"L06184","CERA",2,
+"L06184","CHIA",34,
+"L06184","HEMA",1,
+"L06184","HYDA",2,
+"L06184","HYOS",113,"96m, 17f (envelope)"
+"L06184","LEPA",3,
+"L06184","MUSC",2,
+"L06184","POHA",1,"0m, 1f"
+"L06184","RHCO",4,"2m, 2f"
+"L06184","SIMA",2,
 "L06186","LEPA",1,
 "L06187","CHIA",1,
 "L06187","FUNG",1,"Originally ID'd as Sciaridae."
@@ -38092,6 +38115,11 @@
 "L06387","CERA",1,
 "L06387","CHIA",2,
 "L06387","FUNG",1,"Sciaridae"
+"L06388","CHIA",100,
+"L06388","FUNG",1,"Sciaridae"
+"L06388","HYDA",4,
+"L06388","LEPA",1,
+"L06388","POCI",1,"1m, 0f"
 "L06392","DIPT",1,
 "L06392","HOPP",1,
 "L06393","CARA",1,
@@ -41052,6 +41080,9 @@
 "L06906","STAA",2,
 "L06906","THYS",4,
 "L06906","TIPA",1,
+"L06925","CHIA",31,
+"L06925","FUNG",1,"sciaridae"
+"L06925","LEPA",1,
 "L06933","CERA",2,
 "L06933","CHIA",314,"Mites absent."
 "L06933","COLE",7,
@@ -41202,6 +41233,16 @@
 "L07032","OEAV",28,"1 m in D. Ruiter collection (originally misidentified as Triaenodes)"
 "L07032","SMSI",140,"15m,125f"
 "L07032","TRAS",1,"1m,0f"
+"L07046","CHIA",37,
+"L07046","CULA",1,
+"L07046","HEMA",2,
+"L07046","HYDA",6,
+"L07046","HYOC",1,"0m, 1f"
+"L07046","HYOS",169,"167m, 2f; f in BV"
+"L07046","LEPA",15,
+"L07046","MUSC",1,
+"L07046","SIMA",3,
+"L07046","TIPA",1,
 "L07055","CHIA",95,
 "L07056","CHIA",73,
 "L07056","COLE",1,
@@ -41644,6 +41685,7 @@
 "L07131","NEUR",1,"Pinned (Myrmeleontidae)"
 "L07131","STAA",1,
 "L07136","CHIA",3,
+"L07161","CHIA",7,
 "L07162","CERA",2,
 "L07162","CHIA",266,
 "L07162","FUNG",1,
@@ -42324,6 +42366,7 @@
 "L07367","MUSC",11,
 "L07367","STAA",11,
 "L07367","TIPA",2,
+"L07414","SIMA",1,
 "L07417","CERA",6,
 "L07417","CHIA",587,
 "L07417","CHSP",1,"1M"
@@ -43741,6 +43784,8 @@
 "L07659","POHA",2,"1m,1f"
 "L07659","THYS",1,"Recorded only as ""present."" Not a true count."
 "L07659","TIPA",5,
+"L07661","CHIA",25,
+"L07661","FUNG",1,"sciaridae"
 "L07664","CERA",2,
 "L07664","CHIA",51,
 "L07664","COLE",3,
@@ -48018,6 +48063,27 @@
 "L08390","TRAS",1,"in BV"
 "L08391","CHIA",10,
 "L08391","HYDA",2,
+"L08393","CARA",2,
+"L08393","CASP",1,
+"L08393","CERA",11,
+"L08393","CHAN",1,"1m, 0f"
+"L08393","CHIA",384,
+"L08393","COLE",1,"Salpingidae"
+"L08393","DIPT",1,"Bomblidae"
+"L08393","HEMA",3,
+"L08393","HYDA",23,
+"L08393","HYDS",3,"1 Chaetharthria sp, 2Sphaeridiinae"
+"L08393","HYMA",2,
+"L08393","HYOC",720,"422m, 298f"
+"L08393","HYOS",797,"751m, 46f"
+"L08393","LEPA",5,
+"L08393","MUSC",5,
+"L08393","OEAV",4,"2 spp"
+"L08393","POHA",1,"0m, 1f"
+"L08393","RHCO",4,"2m, 2f"
+"L08393","SIMA",4,
+"L08393","THYS",2,
+"L08393","TIPA",1,
 "L08395","ANTH",10,"Needs verification"
 "L08395","BAET",1,"0m,1f"
 "L08395","CASP",5,
@@ -51269,6 +51335,7 @@
 "L08850","MUSC",3,
 "L08851","CHIA",1,
 "L08851","LEPA",1,
+"L08854","CHIA",3,
 "L08855","CERA",2,
 "L08855","CHIA",23,
 "L08855","FUNG",4,
@@ -51552,6 +51619,24 @@
 "L09140","SMSI",2,"2m, 0f"
 "L09140","STAA",19,
 "L09140","TIPA",1,
+"L09142","CERA",5,
+"L09142","CHIA",278,"100 bv, remainder tossed"
+"L09142","DIPT",1,"Phoridae"
+"L09142","FORM",7,
+"L09142","HEMA",1,
+"L09142","HEPT",1,"Heptagenia sp."
+"L09142","HESP",30,"0m, 30f"
+"L09142","HYDA",1339,"350 bv, remainder tossed"
+"L09142","HYOC",730,"644m, 86f"
+"L09142","HYOS",25,"17m, 8f"
+"L09142","HYSP",1,"0m, 1f sent to D. Ruiter for verification"
+"L09142","LEPA",2,
+"L09142","OEAV",514,"env"
+"L09142","OESP",2," sent to D. Ruiter for verification"
+"L09142","PETR",13,
+"L09142","POHA",1,"1m, 0f"
+"L09142","SIMA",1,
+"L09142","TRAS",2,
 "L09143","CERA",2,
 "L09143","CHAN",1,"1m,0f"
 "L09143","CHEN",9,"2m, 7f"
@@ -51887,6 +51972,20 @@
 "L09235","HYDA",4,
 "L09235","HYOS",33,"12m, 11f"
 "L09235","TIPA",1,
+"L09236","CASP",1,
+"L09236","CERA",2,
+"L09236","CHEN",1,"1m, 0f"
+"L09236","CHIA",105,
+"L09236","FORM",6,
+"L09236","HEMA",3,
+"L09236","HYDA",13,
+"L09236","HYDS",1,"Sphaeridium?"
+"L09236","HYOC",283,"168m, 115f; (25m + 25 f in bv, remainder in env)"
+"L09236","HYOS",178,"175m, 3f; (50m + 3 f in bv, remainder in env)"
+"L09236","MUSC",1,
+"L09236","POHA",2,"2m, 0f"
+"L09236","STAA",3,
+"L09236","TIPA",1,
 "L09237","CASP",9,
 "L09237","CERA",15,
 "L09237","CHIA",654,"400 in vial, remainder tossed"
@@ -51907,6 +52006,14 @@
 "L09237","STAA",1,
 "L09237","TIPA",1,
 "L09237","TRAS",4,"4m, 0f"
+"L09239","CERA",1,
+"L09239","CHIA",9,
+"L09239","HEMA",4,
+"L09239","HYDA",40,
+"L09239","HYOC",5,"3m, 2f"
+"L09239","MUSC",10,
+"L09239","NEMT",2,"Cecidomyiidae"
+"L09239","STAA",3,
 "L09240","CHEP",1,"0m, 1f"
 "L09240","CHIA",215,
 "L09240","COLE",1,
@@ -51929,6 +52036,15 @@
 "L09240","RHCO",1,"0m, 1f"
 "L09240","STAA",16,
 "L09240","TRAS",2,"2m, 0f"
+"L09241","CHIA",615,
+"L09241","COLE",1,"Scarabaeidae"
+"L09241","FORM",1,
+"L09241","HYDA",18,
+"L09241","HYMA",1,
+"L09241","HYOS",7,"3m, 4f"
+"L09241","LEPA",1,
+"L09241","RHCO",1,"1m, 0f"
+"L09241","STAA",1,
 "L09242","CARA",2,
 "L09242","CASP",1,
 "L09242","CERA",16,
@@ -52031,6 +52147,29 @@
 "L09263","OPST",1,
 "L09263","STAA",6,
 "L09263","THYS",1,
+"L09265","CARA",1,
+"L09265","CASP",11,
+"L09265","CERA",57,
+"L09265","CHEN",13,"4m, 9f"
+"L09265","CHIA",3138,"300 bv, remainder tossed"
+"L09265","DIPT",5,"Phoridae"
+"L09265","EMPA",1,
+"L09265","FUNG",22,
+"L09265","HEMA",14,
+"L09265","HYDA",4168,"500 bv, remainder tossed"
+"L09265","HYMA",1,
+"L09265","HYOC",89,"27m, 62f"
+"L09265","HYOS",35,"23m, 12f; 1m aberrant, in separate vial"
+"L09265","LEPA",20,
+"L09265","MUSC",3,
+"L09265","PETR",3,
+"L09265","POHA",19,"9m, 10f"
+"L09265","RHCO",1,"1m, 0f"
+"L09265","SIMA",6,
+"L09265","SPHA",1,
+"L09265","STAA",8,
+"L09265","TIPA",3,
+"L09265","TRAS",4,"4m, 0f"
 "L09266","CERA",9,
 "L09266","CHIA",199,
 "L09266","COLE",1,"envelope"
@@ -52073,6 +52212,34 @@
 "L09268","POHA",8,"4m,4f"
 "L09268","SIMA",1,
 "L09268","TRAS",1,"1m,0f"
+"L09272","CARA",1,
+"L09272","CHEN",9,"6m, 3f"
+"L09272","CHIA",142,
+"L09272","CORI",1,
+"L09272","FORM",7,
+"L09272","FUNG",1,"Sciaridae"
+"L09272","HEMA",2,
+"L09272","HYDA",2,
+"L09272","HYDS",1,"Chaetarthria sp."
+"L09272","HYMA",1,
+"L09272","HYOC",3,"2m, 1f"
+"L09272","HYOS",13,"13m, 0f"
+"L09272","LEPA",5,
+"L09272","STAA",3,
+"L09272","THYS",1,
+"L09273","CARA",4,
+"L09273","CERA",3,
+"L09273","CHEN",1,"1m, 0f"
+"L09273","CHIA",82,
+"L09273","COLE",2,"1 Salpingidae, 1 Scarabaeidae"
+"L09273","DYTA",1,"Derovatellus sp."
+"L09273","HEMA",4,
+"L09273","HYDA",29,
+"L09273","HYOC",12,"6m, 6f"
+"L09273","HYOS",4,"0m, 4f"
+"L09273","LEPA",2,"pinned"
+"L09273","MUSC",1,
+"L09273","TRAE",1,"0m, 1f"
 "L09274","CERA",2,
 "L09274","CHEN",26,"24m,2f"
 "L09274","CHIA",60,
@@ -52080,6 +52247,22 @@
 "L09274","HYOC",14,"14m"
 "L09274","POHA",2,"1m,1f"
 "L09274","SIMA",1,
+"L09275","BRAM",1,"0m, 1f"
+"L09275","CERA",13,
+"L09275","CHIA",159,
+"L09275","COLE",1,"Scarabaeidae"
+"L09275","CULA",2,
+"L09275","DIPT",3,"Phoridae"
+"L09275","FORM",1,
+"L09275","FUNG",1,"Sciaridae"
+"L09275","HEMA",5,
+"L09275","HYDA",107,
+"L09275","HYMA",2,
+"L09275","HYOC",4,"3m, 1f"
+"L09275","HYOS",55,"43m, 12f"
+"L09275","LEPA",10,"1 Catacola sp. Pinned, remainder tossed"
+"L09275","MUSC",7,
+"L09275","TIPA",3,
 "L09282","CERA",7,
 "L09282","CHEP",1,"0m,1f"
 "L09282","CHIA",245,"100 in BV, remainder tossed"
