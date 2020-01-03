@@ -9532,7 +9532,7 @@ BDH: river side not recorded on datasheet"
 "L11092","GrandCanyon","CRGrandCanyon",65.10,"RB","05/11/2019","TarlowJ","NoRain",0,"Sand","19:23",1,"Rechargeable",1,0,0,"SzydloC",,,,0,,,,
 "L11093","GrandCanyon","CRGrandCanyon",35.00,"LB","05/09/2019","TarlowJ","NoRain",0,"Sand","19:23",1,"Rechargeable",1,0,0,"SzydloC","SzydloC","10/07/2019",0.1,0,,"GiardinaM",,
 "L11094","GrandCanyon","CRGrandCanyon",259.00,"RB","03/25/2019","MetcalfeA","NoRain",0,"Sand","19:30",1.1,"Rechargeable",0,0,0,"SzydloC","FordM","11/05/2019",0.13,0,,"GiardinaM",,"River Mile listed as ""Above Burnt 259"""
-"L11095","GrandCanyon","CRGrandCanyon",119.40,"RB","03/18/2019","MetcalfeA","NoRain",0,"Sand","19:06",1.2,"Rechargeable",0,0,0,"SzydloC",,,,0,,,"Field Processed 1 CHIR","River Mile listed as ""Big Dune 119.4"" Field processed."
+"L11095","GrandCanyon","CRGrandCanyon",119.40,"RB","03/18/2019","MetcalfeA","NoRain",0,"Sand","19:06",1.2,"Rechargeable",0,0,0,"SzydloC","MetcalfeA","03/18/2019",0.02,0,,"FordM","Field Processed 1 CHIR","River Mile listed as ""Big Dune 119.4"" Field processed."
 "L11096","GrandCanyon","CRGrandCanyon",109.01,"RB","03/17/2019","MetcalfeA","NoRain",0,"Sand","19:00",1.3,"Rechargeable",0,1,0,"SzydloC",,,,0,,,,"River Mile listed as ""Bass 109"""
 "L11097","GrandCanyon","CRGrandCanyon",109.01,"RB","03/16/2019","MetcalfeA","NoRain",0,"Sand","18:41",1.07,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,"River Mile listed as ""Bass Camp 109.01"""
 "L11098","GrandCanyon","CRGrandCanyon",93.80,"LB","03/15/2019","MetcalfeA","NoRain",0,"Rock","18:55",1.02,"Rechargeable",0,0,0,"SzydloC","SzydloC","12/02/2019",0.02,0,,"GiardinaM",,"River Mile listed as ""Granite 93.8"""
