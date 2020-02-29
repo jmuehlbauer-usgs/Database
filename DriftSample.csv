@@ -5329,7 +5329,7 @@ No processing time noted on datasheet - MG"
 "D08653","GC20190626","GrandCanyon","CRGrandCanyon",63.34,"07/02/2019","AtkinsonP",,,7.00,0,6,"Day","12:56:30",4.95,"Low","Net",0.8907,220.66,0.74,44.73,0,0,"GoodenoughD",,,,0,,,
 "D08654","GC20190626","GrandCanyon","CRGrandCanyon",63.34,"07/02/2019","AtkinsonP",,,7.00,0,6,"Day","12:38:20",5.08,"Low","Net",0.983,249.47,0.82,50.57,0,0,"GoodenoughD",,,,0,,,
 "D08655","GC20190626","GrandCanyon","CRGrandCanyon",19.25,"06/29/2019","AtkinsonP",,,7.00,0,6,"Day","11:39:27",5.02,"Low","Net",0.8155,293.83,0.98,59.56,0,0,"GoodenoughD",,,,0,,,
-"D08656","GC20190626","GrandCanyon","CRGrandCanyon",19.25,"06/29/2019","AtkinsonP",,,7.00,0,6,"Day","11:50:01",5.05,"Low","Net",0.8565,298.4,0.98,60.49,0,0,"GoodenoughD","NystedtM","05/24/2019",11.18,0,,"FordM",
+"D08656","GC20190626","GrandCanyon","CRGrandCanyon",19.25,"06/29/2019","AtkinsonP",,,7.00,0,6,"Day","11:50:01",5.05,"Low","Net",0.8565,298.4,0.98,60.49,0,0,"GoodenoughD",,,,0,,,
 "D08661","LF20190822","GrandCanyon","CRLeesFerry",-13.40,"08/22/2019","SzydloC",,,7.00,0,6,"Day","13:55:00",5,"Low","Net",0.8957,262.6,0.88,53.23,0,0,"GoodenoughD",,,,0,,,"Standard monthly samples that were not collected as part of the bug flow study."
 "D08662","LF20190822","GrandCanyon","CRLeesFerry",-11.00,"08/22/2019","SzydloC",,,7.00,0,6,"Day","14:20:00",5,"Low","Net",0.8968,105.45,0.35,21.37,0,0,"GoodenoughD",,,,0,,,"Standard monthly samples that were not collected as part of the bug flow study."
 "D08664","LF20190822","GrandCanyon","CRGrandCanyon",1.90,"08/22/2019","SzydloC",,,7.00,0,6,"Day","16:55:00",5,"Low","Net",0.9528,307.57,1.03,62.34,0,0,"GoodenoughD",,,,0,,,"Standard monthly samples that were not collected as part of the bug flow study."
@@ -5481,7 +5481,7 @@ No processing time noted on datasheet - MG"
 "D08869","LF20191114","GrandCanyon","CRLeesFerry",-8.00,"11/14/2019","GoodenoughD",,,7.00,0,6,"Day","14:12:00",5,"Low","Net",0.9195,447.51,1.49,90.71,0,0,"GoodenoughD","HanusK","11/26/2019",2.9,0,,"GiardinaM",
 "D08871","LF20191114","GrandCanyon","CRLeesFerry",-11.00,"11/14/2019","GoodenoughD",,,7.00,0,6,"Day","14:46:00",4.95,"Low","Net",0.8795,286.7,0.97,58.11,0,0,"GoodenoughD","GeigerM","11/22/2019",7,0,,"GiardinaM",
 "D08873","LF20191114","GrandCanyon","CRLeesFerry",-12.90,"11/14/2019","GoodenoughD",,,7.00,0,6,"Day","15:09:00",5,"Low","Net",0.9981,564.23,1.88,114.37,0,0,"GoodenoughD","GardnerT","11/21/2019",3.6,0,,"GiardinaM",
-"D08874","LF20191114","GrandCanyon","CRLeesFerry",-13.40,"11/14/2019","GoodenoughD",,,7.00,0,6,"Day","15:23:00",4.93,"Low","Net",0.9374,255.77,0.86,51.84,0,0,"GoodenoughD","GardnerT","11/22/2019",1.82,0,,"GiardinaM",
+"D08874","LF20191114","GrandCanyon","CRLeesFerry",-13.40,"11/14/2019","GoodenoughD",,,7.00,0,6,"Day","15:23:00",4.93,"Low","Net",0.9374,255.77,0.86,51.84,0,0,"GoodenoughD","GardnerT","11/22/2019",1.82,1,,"GiardinaM",
 "D08875","LF20200123","GrandCanyon","CRGrandCanyon",5.90,"01/23/2020","SzydloC",,,7.00,0,6,"Day","12:45:20",5.15,"Low","Net",0.9832,513.04,1.66,103.99,0,0,"GoodenoughD",,,,0,,,
 "D08876","LF20200123","GrandCanyon","CRGrandCanyon",3.34,"01/23/2020","SzydloC",,,7.00,0,6,"Day","13:06:48",5.07,"Low","Net",0.9905,626.69,2.06,127.03,0,0,"GoodenoughD",,,,0,,,
 "D08877","LF20200123","GrandCanyon","CRGrandCanyon",1.90,"01/23/2020","SzydloC",,,7.00,0,6,"Day","13:35:00",5.07,"Low","Net",0.935,301.63,0.99,61.14,0,0,"GoodenoughD",,,,0,,,
