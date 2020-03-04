@@ -3630,7 +3630,7 @@ CS processing time: 22min"
 "L03601","UpperBasin","SJSandIsland",21.00,"RB","06/15/2019","GCY","NoRain",0,"Rock","20:12",1.03,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
 "L03602","UpperBasin","SJSandIsland",0.00,"RB","06/12/2019","GCY","NoRain",0,"Vegetation","19:47",1.02,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","03/02/2020",0.15,0,,"MetcalfeA",,
 "L03603","UpperBasin","SJSandIsland",8.60,"RB","06/13/2019","GCY","NoRain",0,"Sand","20:05",0.87,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","03/02/2020",0.6,0,,"MetcalfeA","Big Stick camp ""most of the bugs are moths""",
-"L03604","UpperBasin","SJSandIsland",21.00,"RB","06/14/2019","GCY","NoRain",,"Rock","19:46",1.1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"No wind or weather recorded",
+"L03604","UpperBasin","SJSandIsland",21.00,"RB","06/14/2019","GCY","NoRain",,"Rock","19:46",1.1,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","03/02/2020",0.35,0,,"MetcalfeA","No wind or weather recorded","Sample kept"
 "L03605","UpperBasin","SJSandIsland",61.20,"RB","06/17/2019","GCY","Rain",1,"Rock","20:30",1,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","03/02/2020",0.05,0,,"MetcalfeA","Sand and rock selected for habitat, light sprinkles",
 "L03606","UpperBasin","SJSandIsland",,"RB","06/17/2019","GCY","NoRain",0,"Sand","07:35",,"Rechargeable",0,1,1,"MetcalfeA","MetcalfeA",,,0,,"MetcalfeA","No RM, No close time","Sample tossed"
 "L03607","UpperBasin","SJSandIsland",6.30,"RB","08/03/2019","GCY","NoRain",2,"Vegetation","19:41",1,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,"Collectors: Holland, Ricey, Ella, Violet. AZ time.",
@@ -4598,7 +4598,7 @@ BDH: river side not recorded on datasheet. Sampled tossed."
 "L04737","UpperBasin","GRFGD",217.70,"LB","06/17/2016","GCY","NoRain",0,,"21:05",1,,0,1,0,,"HendrixB","12/09/2016",0.75,0,,,,"anm checked + 4 m (incl). Weather originally recorded as 'Clear' (2018-09-27 JDM). Habitat type missing on datasheet (2018-10-03 CS)."
 "L04738","UpperBasin","YampaR",4.00,,"06/22/2016","SanS","NoRain",0,"Rock","21:10",1,,0,1,0,,"HendrixB","01/29/2017",1.08,0,,,,"+ 5 min check ANM (included). Weather originally recorded as 'Cloudy' (2018-09-27 JDM). River Side missing on datasheet (2018-10-03 CS)."
 "L04739","UpperBasin","SJSandIsland",48.60,"RB","07/16/2018","GCY","NoRain",2,"Rock","20:35",1.17,"Rechargeable",1,1,1,"MetcalfeA",,,,0,,,,"SAMPLE TOSSED. 11/18/19 ANM."
-"L04740","UpperBasin","SJSandIsland",59.00,"RB","07/17/2018","GCY","NoRain",,"Rock","20:32",1.03,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,"wind speed not recorded"
+"L04740","UpperBasin","SJSandIsland",59.00,"RB","07/17/2018","GCY","NoRain",,"Rock","20:32",1.03,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","02/27/2020",1.08,0,,"MetcalfeA",,"wind speed not recorded; Sample kept (verified - no midges)"
 "L04741","GrandCanyon","CRGrandCanyon",108.30,"LB","09/22/2015","PrivateBoater","NoRain",0,"Sand","18:32",1,,0,1,0,,"GarciaPenaD",,0.38,0,,,,"No close time. Assumed 1 hr and flagged strange (2018-05-30 TK). Weather originally recorded as 'Cloudy' (2018-09-27 JDM)."
 "L04742","UpperBasin","SJSandIsland",6.50,"LB","07/17/2015","GCY","NoRain",0,,"20:00",1,,0,0,0,,"KortenhoevenE","05/02/2017",0.65,0,,"GiardinaM",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). 
 Habitat type is missing on datasheet (2018-10-04 CS)."
@@ -4678,14 +4678,14 @@ No river mile or river side recorded on datasheet (2018-10-03 CS)"
 "L04833","UpperBasin","SJSandIsland",44.00,"LB","04/19/2017","HarrL","NoRain",1,"Rock","20:35",1.03,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","12/12/2019",0.15,0,,"MetcalfeA","Wind direction entered as ""Variable"".","Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L04834","UpperBasin","SJSandIsland",74.60,"LB","04/21/2017","HarrL","NoRain",1,"Sand","20:26",1,"Rechargeable",0,1,1,"MetcalfeA",,,,0,,"GiardinaM","*5th night same batteries","Weather originally recorded as 'Clear' (2018-09-27 JDM). Sample tossed b/c same batteries used >4 h."
 "L04835","UpperBasin","SJSandIsland",13.10,"LB","08/04/2018","BestardM","NoRain",0,"Sand","19:31",1.02,"Rechargeable",1,1,0,"MetcalfeA","MetcalfeA","08/04/2018",2.65,0,,"MetcalfeA","Camped at below Midway, no rm recorded",
-"L04836","UpperBasin","SJSandIsland",7.00,"LB","08/03/2018","BestardM","NoRain",0,"Sand","19:40",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Placed on wet sandbar",
+"L04836","UpperBasin","SJSandIsland",7.00,"LB","08/03/2018","BestardM","NoRain",0,"Sand","19:40",1,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","02/25/2020",0.42,0,,"MetcalfeA","Placed on wet sandbar","Sample kept"
 "L04837","UpperBasin","CRCataract",194.00,"RB","09/16/2015","HarrL","NoRain",1,"Sand","19:49",1,,0,1,0,,"MetcalfeA",,0.08,0,,,"Wind variable..""up, down, and sidways""","No close time reocrded, 1h assumedWeather originally recorded as 'Clear' (2018-09-27 JDM)."
 "L04838","UpperBasin","CRCataract",184.00,"LB","09/17/2015","HarrL","NoRain",0,"Sand","19:25",1.07,,0,0,0,,"MetcalfeA",,0.18,0,,,"5th night for batteries. Lake Powell.","Weather originally recorded as 'Clear' (2018-09-27 JDM). "
-"L04839","UpperBasin","SJSandIsland",8.50,"RB","07/15/2018","GCY","NoRain",0,"Sand","19:45",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
+"L04839","UpperBasin","SJSandIsland",8.50,"RB","07/15/2018","GCY","NoRain",0,"Sand","19:45",1,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","02/28/2020",4.03,0,,"MetcalfeA",,"Sample kept"
 "L04843","GrandCanyon","CRGrandCanyon",60.75,"RB","05/04/2019","KennedyT","NoRain",0,"Rock","19:30",1,"Rechargeable",0,0,0,"SzydloC","SzydloC","06/04/2019",0.48,0,,"FordM",,
 "L04844","UpperBasin","SJSandIsland",66.50,"RB","07/27/2018","GCY","NoRain",0,"Vegetation","17:35",,"Rechargeable",1,1,1,"MetcalfeA",,,,0,,,"No close time noted. Slickhorn B. All 3 habitat types are circled.",
-"L04845","UpperBasin","SJSandIsland",57.90,"RB","07/26/2018","GCY","NoRain",0,"Rock","19:50",1.08,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Upper Johns.",
-"L04846","UpperBasin","SJSandIsland",52.70,"RB","07/25/2018","GCY","NoRain",0,"Rock","19:30",1.08,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Ross rapid",
+"L04845","UpperBasin","SJSandIsland",57.90,"RB","07/26/2018","GCY","NoRain",0,"Rock","19:50",1.08,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","02/27/2020",1.07,0,,"MetcalfeA","Upper Johns.",
+"L04846","UpperBasin","SJSandIsland",52.70,"RB","07/25/2018","GCY","NoRain",0,"Rock","19:30",1.08,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/14/2020",,0,,"MetcalfeA","Ross rapid","Sample kept"
 "L04862","GrandCanyon","CRGrandCanyon",165.18,"RB","06/19/2017","CatlettJ","NoRain",0,"Sand","19:47",1.1,,1,0,0,"DaubertM","HendrixB","08/09/2018",0.48,0,,"GiardinaM",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L04863","GrandCanyon","CRGrandCanyon",132.47,"RB","06/17/2017","CatlettJ","NoRain",1,"Sand","20:01",1.05,,1,0,0,"DaubertM","HendrixB","08/08/2018",0.8,0,,"GiardinaM",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L04864","GrandCanyon","CRGrandCanyon",120.34,"LB","06/16/2017","CatlettJ","NoRain",0,"Sand","20:01",1.1,,1,0,0,"DaubertM","HendrixB","08/22/2018",1.72,0,,"GiardinaM",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
@@ -4709,7 +4709,7 @@ No river mile or river side recorded on datasheet (2018-10-03 CS)"
 "L04882","UpperBasin","CRCataract",212.50,"LB","06/06/2017","HarrL","NoRain",0,"Vegetation","21:05",1.02,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","12/03/2019",0.12,0,,"MetcalfeA",,"Habitat originally recorded as 'Trees-Shrubs' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L04883","UpperBasin","CRMoab",23.50,"RB","06/11/2017","HarrL","NoRain",1,"Vegetation","21:28",1.05,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","12/05/2019",0.17,0,,"MetcalfeA","5th night same batteries","Habitat originally recorded as 'Grasses-Forbes' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L04884","UpperBasin","CRMoab",11.20,"LB","06/12/2017","HarrL","NoRain",2,"Rock","21:06",1.05,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","12/05/2019",0.18,0,,"MetcalfeA",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
-"L04885","UpperBasin","SJSandIsland",37.70,"RB","07/23/2018","GCY","NoRain",0,"Sand","19:31",0.98,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
+"L04885","UpperBasin","SJSandIsland",37.70,"RB","07/23/2018","GCY","NoRain",0,"Sand","19:31",0.98,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/14/2020",1.05,0,,"MetcalfeA",,"Sample kept"
 "L04886","GrandCanyon","CRGrandCanyon",87.73,"LB","06/14/2017","CatlettJ","NoRain",1,"Sand","19:54",1.22,,1,0,0,"DaubertM","DaubertM","12/12/2017",0.08,0,,"GiardinaM",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L04887","GrandCanyon","CRGrandCanyon",76.28,"RB","06/13/2017","CatlettJ","NoRain",1,"Sand","20:01",1.1,,1,0,0,"DaubertM","HendrixB","08/06/2018",0.3,0,,"GiardinaM",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L04888","GrandCanyon","CRGrandCanyon",53.38,"RB","06/12/2017","CatlettJ","NoRain",2,"Sand","19:54",1.07,,1,0,0,"DaubertM","HendrixB","08/06/2018",0.67,0,,"GiardinaM",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
@@ -4859,10 +4859,10 @@ JC - No habitat noted."
 "L05035","UpperBasin","GRFGD",235.00,"RB","07/31/2016","RedmondK","NoRain",0,"Sand","20:45",1,,0,0,0,,,,,0,,,,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L05036","UpperBasin","GRFGD",230.40,"RB","09/01/2015","RiverGuide","NoRain",1,"Sand","20:30",0.83,,0,0,0,,"IngramA",,3.83,0,,,"Coll: Ben Lester.","5/5/16 + 20m anm processing checkWeather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L05037","UpperBasin","GRFGD",218.45,"RB","09/02/2015","RiverGuide","NoRain",0,,"20:25",1,,0,1,0,,"IngramA",,14,0,,,"Coll: Frank Preston. Jones Hole #3.","spilled reference vials post initial count, lost 4 mayflies (not identified past order), they might be mixed into the BV. ANM sample check 8/24/16 + 20 m. Weather originally recorded as 'Clear' (2018-09-27 JDM). Habitat type is missing on datasheet (2018-10-04 CS)."
-"L05038","UpperBasin","SJSandIsland",37.00,"RB","05/20/2018","GCY","NoRain",0,"Sand","19:35",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
-"L05039","UpperBasin","SJSandIsland",8.40,"LB","07/09/2018","GCY","NoRain",0,"Vegetation","19:37",1.05,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
-"L05040","UpperBasin","SJSandIsland",54.80,"LB","05/21/2018","GCY","NoRain",1,"Vegetation","19:05",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
-"L05041","UpperBasin","SJSandIsland",19.40,"LB","05/19/2018","GCY","NoRain",0,"Sand","19:48",1.03,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
+"L05038","UpperBasin","SJSandIsland",37.00,"RB","05/20/2018","GCY","NoRain",0,"Sand","19:35",1,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/14/2020",0.42,0,,"MetcalfeA",,"Sample kept"
+"L05039","UpperBasin","SJSandIsland",8.40,"LB","07/09/2018","GCY","NoRain",0,"Vegetation","19:37",1.05,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/27/2020",2.33,0,,"MetcalfeA",,"Sample kept"
+"L05040","UpperBasin","SJSandIsland",54.80,"LB","05/21/2018","GCY","NoRain",1,"Vegetation","19:05",1,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/14/2020",0.15,0,,"MetcalfeA",,"Sample kept"
+"L05041","UpperBasin","SJSandIsland",19.40,"LB","05/19/2018","GCY","NoRain",0,"Sand","19:48",1.03,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/14/2020",0.17,0,,"MetcalfeA",,"Sample kept"
 "L05042","UpperBasin","SJSandIsland",10.40,"LB","04/19/2018","GCY","NoRain",1,"Rock","19:38",1.02,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
 "L05043","UpperBasin","SJSandIsland",6.30,"RB","04/18/2018","GCY","NoRain",0,"Sand","19:15",1,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
 "L05044","GrandCanyon","CRGrandCanyon",68.30,"RB","04/06/2019","MorrisS","NoRain",0,"Sand","18:25",0.95,"Rechargeable",0,0,0,"SzydloC","HanusK","12/11/2019",0.17,0,,"GiardinaM",,
@@ -6226,7 +6226,7 @@ BDH: river side not recorded on datasheet"
 BDH: habitat type not recorded on datasheet"
 "L06951","UpperBasin","GRFGD",233.00,"LB","07/02/2017","RiverGuide","NoRain",0,"Vegetation","21:57",1.02,"Night2AA",0,0,0,"MetcalfeA","MetcalfeA","07/27/2018",0.85,0,,"MetcalfeA","Coll: Will Van Seiver and Roberto De Leon. Triplet.","Habitat originally recorded as 'Trees-Shrubs' (2018-09-27 JDM). Weather originally recorded as 'Cloudy' (2018-09-27 JDM). Long processing time b/c spent ~30m revieweing Empididae."
 "L06954","UpperBasin","SJSandIsland",19.40,"LB","07/11/2018","GCY","NoRain",1,"Vegetation","20:00",1.05,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"delayed start as a front moved through with strong winds. Set up in salm, but strong, intermittent gusts halfway through collection time.",
-"L06955","UpperBasin","SJSandIsland",13.00,"RB","07/10/2018","GCY","NoRain",1,"Rock","19:45",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
+"L06955","UpperBasin","SJSandIsland",13.00,"RB","07/10/2018","GCY","NoRain",1,"Rock","19:45",1,"Rechargeable",1,0,0,"MetcalfeA","FordM","02/28/2020",0.75,0,,"MetcalfeA",,"Sample kept"
 "L06956","UpperBasin","SJSandIsland",66.50,"RB","05/22/2018","GCY","NoRain",1,"Sand","19:45",1,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","02/28/2020",0.25,0,,"MetcalfeA","Slickhorn B",
 "L06957","UpperBasin","SJSandIsland",70.00,"RB","05/23/2018","GCY","NoRain",0,"Sand","19:38",1.03,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
 "L06958","UpperBasin","GRFGD",212.00,"LB","09/07/2016","NOLS","NoRain",0,"Sand","20:15",1,,0,0,0,,,,,0,,,,"RMCT ISLAND PARK NO CLOSE TIME RECORDED. Weather originally recorded as 'Clear' (2018-09-27 JDM)."
@@ -6260,8 +6260,8 @@ River Side missing on datasheet (2018-10-03 CS)."
 "L07031","UpperBasin","GRFGD",206.50,"RB","07/19/2016","NaumannT","NoRain",1,"Rock","21:01",1,,0,0,0,,,,,0,,,,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L07032","UpperBasin","GRFGD",222.70,"RB","07/18/2016","LanciJ","NoRain",0,"Sand","21:11",1,,0,0,0,,"HendrixB","12/28/2016",2.4,0,,,,"+ 20 min anm check (incl). Weather originally recorded as 'Clear' (2018-09-27 JDM)."
 "L07039","UpperBasin","GRFGD",228.00,"LB","07/29/2016","WilliamsP","NoRain",0,"Sand","21:00",1,,0,0,0,,,,,0,,,,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
-"L07043","UpperBasin","SJSandIsland",6.00,"RB","05/17/2018","GCY","NoRain",0,"Sand","19:45",1.03,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"River house",
-"L07044","UpperBasin","SJSandIsland",14.00,"RB","05/18/2018","GCY","NoRain",1,"Rock","19:19",1.02,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Midway",
+"L07043","UpperBasin","SJSandIsland",6.00,"RB","05/17/2018","GCY","NoRain",0,"Sand","19:45",1.03,"Rechargeable",1,0,0,"MetcalfeA","FordM","02/14/2020",0.25,0,,"MetcalfeA","River house","Sample kept"
+"L07044","UpperBasin","SJSandIsland",14.00,"RB","05/18/2018","GCY","NoRain",1,"Rock","19:19",1.02,"Rechargeable",1,0,0,"MetcalfeA","FordM","02/28/2020",0.25,0,,"MetcalfeA","Midway","Sample kept"
 "L07045","UpperBasin","YampaR",2.00,"RB","06/06/2017","EndersD","NoRain",0,"Sand","21:20",1.22,"Night1AA",0,0,0,"MetcalfeA","MetcalfeA","10/22/2019",0.27,0,,"MetcalfeA",,"Weather originally recorded as 'Cloudy' (2018-09-27 JDM). "
 "L07046","UpperBasin","GRFGD",218.00,"LB","06/07/2017","EndersD","NoRain",1,"Vegetation","21:30",1,"Night2AA",0,0,0,"MetcalfeA","MetcalfeA","06/07/2017",0.6,0,,"MetcalfeA",,"Habitat originally recorded as 'Grasses-Forbes' (2018-09-27 JDM). Weather originally recorded as 'Cloudy' (2018-09-27 JDM). "
 "L07047","UpperBasin","GRFGD",218.50,"RB","06/12/2017","RiverGuide","NoRain",0,"Sand","21:00",1,"Night3AA",0,0,0,"MetcalfeA",,,,0,,"GiardinaM","Coll: Ryan Tetman.","Weather originally recorded as 'Clear' (2018-09-27 JDM). "
@@ -6449,9 +6449,9 @@ River Mile and River Side are missing on datasheet (2018-10-03 CS)."
 "L07384","UpperBasin","SJSandIsland",6.00,"LB","04/06/2018","GCY","NoRain",0,"Sand","19:05",,"Rechargeable",1,1,1,"MetcalfeA",,,,0,,,,"No close time noted."
 "L07385","UpperBasin","SJSandIsland",8.50,"LB","04/07/2018","GCY","NoRain",2,"Sand","19:15",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
 "L07386","UpperBasin","SJSandIsland",20.00,"LB","04/08/2018","GCY","NoRain",1,"Sand","19:15",,"Rechargeable",1,1,1,"MetcalfeA",,,,0,,,,"No close time noted."
-"L07387","UpperBasin","SJSandIsland",0.00,"RB","06/14/2018","GCY","NoRain",0,"Sand","19:30",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
-"L07388","UpperBasin","SJSandIsland",20.60,"LB","06/16/2018","GCY","NoRain",1,"Sand","19:36",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
-"L07389","UpperBasin","SJSandIsland",0.00,"RB","08/02/2018","BestardM","NoRain",1,"Sand","20:30",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
+"L07387","UpperBasin","SJSandIsland",0.00,"RB","06/14/2018","GCY","NoRain",0,"Sand","19:30",1,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/14/2020",0.73,0,,"MetcalfeA",,"Sample kept"
+"L07388","UpperBasin","SJSandIsland",20.60,"LB","06/16/2018","GCY","NoRain",1,"Sand","19:36",1,"Rechargeable",1,0,0,"MetcalfeA","FordM","02/14/2020",0.38,0,,"MetcalfeA",,"Sample kept"
+"L07389","UpperBasin","SJSandIsland",0.00,"RB","08/02/2018","BestardM","NoRain",1,"Sand","20:30",1,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","03/02/2020",2.03,0,,"MetcalfeA",,"Sample kept"
 "L07390","UpperBasin","SJSandIsland",,"RB","08/05/2018","BestardM","NoRain",1,"Rock","19:30",1.02,"Rechargeable",1,1,1,"MetcalfeA",,,,0,,,"No rm recorded ""drainage below Dead Dog camp""",
 "L07391","UpperBasin","SJSandIsland",13.10,"RB","06/16/2018","GCY","NoRain",1,"Vegetation","19:40",1.08,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,"No rm recorded, ""Midway Camp""",
 "L07392","UpperBasin","SJSandIsland",6.80,"LB","06/15/2018","GCY","NoRain",1,"Vegetation","19:30",1,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","02/28/2020",3.33,0,,"MetcalfeA",,
@@ -6464,7 +6464,7 @@ River Mile and River Side are missing on datasheet (2018-10-03 CS)."
 "L07409","UpperBasin","SJSandIsland",4.80,"RB","04/28/2018","GCY","NoRain",1,"Sand","19:20",1.13,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
 "L07410","UpperBasin","SJSandIsland",63.80,,"04/29/2018","GCY","NoRain",1,"Sand","20:17",1,"Rechargeable",0,1,0,"MetcalfeA",,,,0,,,,"LATE SAMPLING (1 H LATER THAN OTHER SAMPLES ON TRIP) AND NO RIVER SIDE RECORDED"
 "L07411","UpperBasin","SJSandIsland",76.00,"LB","04/30/2018","GCY","NoRain",1,"Sand","19:44",1.02,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
-"L07412","UpperBasin","SJSandIsland",71.00,"LB","06/04/2018","GCY","NoRain",0,"Rock","19:50",1.08,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Both sand and rock circled for habitat",
+"L07412","UpperBasin","SJSandIsland",71.00,"LB","06/04/2018","GCY","NoRain",0,"Rock","19:50",1.08,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","02/21/2020",2.25,0,,"MetcalfeA","Both sand and rock circled for habitat","Sample kept"
 "L07413","UpperBasin","SJSandIsland",66.50,"RB","06/23/2017","GCY","NoRain",0,"Vegetation","20:17",1.05,,0,0,0,"DaubertM",,,,0,,"FordM",,"MD-Time is about an hour after true sunset. Habitat originally recorded as 'Trees-Shrubs' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM)."
 "L07414","UpperBasin","GRFGD",235.00,"RB","05/26/2017","RedmondK","Rain",0,"Sand","20:40",0.58,"Night4AA",0,1,1,"MetcalfeA","MetcalfeA","08/29/2019",0.08,0,,"MetcalfeA","POT1 Pulled early due to thunderstorm",
 "L07415","UpperBasin","SJSandIsland",37.70,"RB","05/09/2017","GCY","NoRain",2,"Vegetation","19:36",0.83,,0,0,0,"DaubertM",,,,0,,,,"Habitat originally recorded as 'Trees-Shrubs' (2018-09-27 JDM). Weather originally recorded as 'Cloudy' (2018-09-27 JDM). "
@@ -7759,7 +7759,7 @@ BDH: habitat type not recorded on datasheet"
 "L08914","UpperBasin","SJSandIsland",-4.50,"RB","09/12/2017","AklandM","NoRain",0,"Vegetation","20:18",0.87,"Rechargeable",0,1,0,"MetcalfeA","MetcalfeA","02/12/2020",1.17,0,,"MetcalfeA","Birthday sample. Double payment requested."," Apparently collected in 1989... ""Bluff Camp"" rm questioned. Emailed Akland on 2/13/2017 to check rm and date and found it is upstream of Sand Island. Habitat originally recorded as 'Trees-Shrubs' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM)."
 "L08915","UpperBasin","SJSandIsland",7.80,"RB","09/13/2017","AklandM","NoRain",0,"Sand","19:50",1,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","12/12/2019",2.25,0,,"MetcalfeA","""Lime Ridge Camp"" no rm recorded in field","Weather originally recorded as 'Cloudy' (2018-09-27 JDM). "
 "L08916","UpperBasin","CRCataract",209.20,"RB","10/26/2017","AklandM","NoRain",1,"Sand","19:22",1.03,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","12/02/2019",0.13,0,,"MetcalfeA","5th night same batteries","Weather originally recorded as 'Cloudy' (2018-09-27 JDM). "
-"L08917","UpperBasin","SJSandIsland",8.30,"LB","06/19/2018","GCY","NoRain",0,"Vegetation","20:00",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
+"L08917","UpperBasin","SJSandIsland",8.30,"LB","06/19/2018","GCY","NoRain",0,"Vegetation","20:00",1,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/25/2020",0.83,0,,"MetcalfeA",,"Sample kept"
 "L08923","UpperBasin","CRCataract",168.00,"RB","06/27/2017","AklandM","NoRain",2,"Sand","20:43",0.87,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","11/25/2019",0.58,0,,"MetcalfeA",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L08924","UpperBasin","CRCataract",190.50,"RB","06/26/2017","AklandM","NoRain",1,"Vegetation","20:40",0.97,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","12/03/2019",1.48,0,,"MetcalfeA",,"Habitat originally recorded as 'Trees-Shrubs' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L08925","UpperBasin","SJSandIsland",-11.00,"RB","07/10/2017","AklandM","NoRain",1,"Sand","20:43",1.03,"Rechargeable",0,1,1,"MetcalfeA","MetcalfeA","12/09/2019",5.5,0,,"MetcalfeA",,"Weather originally recorded as 'Cloudy' (2018-09-27 JDM). "
@@ -7772,7 +7772,7 @@ BDH: habitat type not recorded on datasheet"
 "L08932","UpperBasin","GRLabStill",66.60,"RB","05/26/2017","AklandM","NoRain",0,"Sand","20:35",1.08,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","11/25/2019",0.2,0,,"MetcalfeA",,"Weather originally recorded as 'Cloudy' (2018-09-27 JDM). "
 "L08933","UpperBasin","GRLabStill",25.20,"RB","05/28/2017","AklandM","NoRain",1,"Rock","20:41",1.03,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","10/30/2019",0.12,0,,"MetcalfeA",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L08934","UpperBasin","GRLabStill",1.00,"RB","05/30/2017","AklandM","NoRain",0,"Rock","20:35",1,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","11/25/2019",0.17,0,,"MetcalfeA",,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
-"L08935","UpperBasin","SJSandIsland",15.60,"RB","06/20/2018","GCY","NoRain",1,"Sand","19:55",1,"Rechargeable",1,1,0,"MetcalfeA",,,,0,,,,
+"L08935","UpperBasin","SJSandIsland",15.60,"RB","06/20/2018","GCY","NoRain",1,"Sand","19:55",1,"Rechargeable",1,1,0,"MetcalfeA","SzydloC","02/25/2020",3.35,0,,"MetcalfeA",,"Sample kept"
 "L08936","UpperBasin","GRLabStill",16.50,"RB","05/29/2017","AklandM","NoRain",,"Rock","21:10",1,"Rechargeable",0,0,0,"MetcalfeA","MetcalfeA","11/25/2019",0.15,0,,"MetcalfeA",,"Weather originally left blank. Changed to 'NoRain' on the assumption that rain would have warranted some comment (2018-09-27 JDM)."
 "L08938","UpperBasin","SJSandIsland",-11.40,"LB","08/01/2017","AklandM","NoRain",0,"Sand","20:30",1,"Rechargeable",0,1,0,"MetcalfeA","MetcalfeA","12/12/2019",0.97,0,,"MetcalfeA",,"Dates/locations backfilled and questionable: was on datasheet as 7/1 but e-mail conversation in Feb 2018 Mike said it was Aug 1, which fits with a series of samples. Weather originally recorded as 'Clear' (2018-09-27 JDM)."
 "L09104","GrandCanyon","CRGrandCanyon",3.34,"LB","04/05/2017","QuigleyT","NoRain",1,,"19:00",1,"Rechargeable",0,0,0,"DaubertM","HendrixB","09/10/2018",0.22,0,,"GiardinaM",,"MD- habitat and temp not noted. Weather originally recorded as 'Clear' (2018-09-27 JDM)."
@@ -8071,7 +8071,7 @@ BDH: river side not recorded on datasheet"
 "L09500","GrandCanyon","LittleCR",1.90,"RB","07/07/2019","GCMRC","NoRain",0,"Sand","19:51",1,"Rechargeable",0,0,0,"SzydloC","SzydloC","12/30/2019",0.22,0,,"GiardinaM",,
 "L09501","UpperBasin","SJSandIsland",8.50,"LB","08/04/2019","GCY","NoRain",1,"Sand","19:34",1,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,"Collectors: Holland, Riley, Ella, Violet, Gillian. AZ time. Chinle Camp.",
 "L09502","UpperBasin","SJSandIsland",75.80,"LB","05/10/2019","GCY","NoRain",1,"Sand","19:22",1.13,"Rechargeable",1,1,0,"MetcalfeA",,,,0,,,"Batteries changed at 8 pm",
-"L09503","UpperBasin","SJSandIsland",6.60,"LB","05/04/2019","GCY","NoRain",0,"Sand","19:16",0.92,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Bat pad GCY#2",
+"L09503","UpperBasin","SJSandIsland",6.60,"LB","05/04/2019","GCY","NoRain",0,"Sand","19:16",0.92,"Rechargeable",1,0,0,"MetcalfeA","FordM","03/02/2020",0.05,0,,"MetcalfeA","Bat pad GCY#2","Sample kept"
 "L09504","GrandCanyon","CRLeesFerry",-12.00,"RB","05/15/2019","GoodenoughD","NoRain",1,"Vegetation","19:35",1,"Rechargeable",0,0,0,"SzydloC","HanusK","01/07/2020",0.6,0,,"GiardinaM","Not enough lamps, only 4/5 worked, so Jeff had us skip the LT @ -6.",
 "l09505","UpperBasin","GRDesoGray",47.00,"RB","06/08/2018","JensenA","NoRain",0,"Rock","20:45",1,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,"Air temp 24.1°C",
 "L09506","GrandCanyon","CRGrandCanyon",21.00,"RB","06/16/2018","JensenA","NoRain",1,"Sand","20:00",1.08,"Night1AA",0,0,0,"SzydloC",,,,0,,,"Weather: Cloudy  
@@ -8088,7 +8088,7 @@ Wind Direction: UP Canyon
 Air Temp: 35.0 C",
 "L09511","GrandCanyon","CRGrandCanyon",168.50,"LB","04/22/2019","ChapmanK","NoRain",1,"Sand","19:20",1.08,"Rechargeable",0,0,0,"SzydloC","SzydloC","12/18/2019",0.1,0,,"GiardinaM","Sand surrounded by veg & rx",
 "L09512","GrandCanyon","CRGrandCanyon",63.70,"RB","05/02/2019","PerkinsM","NoRain",0,"Rock","19:40",1,"Rechargeable",1,0,0,"SzydloC","SzydloC","01/09/2020",0.5,0,,"FordM",,
-"L09513","UpperBasin","SJSandIsland",22.30,"RB","05/08/2019","GCY","Rain",0,"Sand","19:22",1.05,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Coll: Alpine 8 yellow,  light rain",
+"L09513","UpperBasin","SJSandIsland",22.30,"RB","05/08/2019","GCY","Rain",0,"Sand","19:22",1.05,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","03/02/2020",0.05,0,,"MetcalfeA","Coll: Alpine 8 yellow,  light rain","Sample kept"
 "L09514","GrandCanyon","CRGrandCanyon",123.56,"RB","04/21/2019","RoussisO","Rain",2,"Sand","19:06",1.2,"Rechargeable",1,0,0,"SzydloC","SzydloC","01/03/2020",0.07,0,,"GiardinaM","20 minutes into data collection a storm hit us. I closed up the bat pad so it would not get wet. Left bug collection up while I secured camp and got my mega mid up. Bug collecting went on a little long because of this.",
 "L09516","GrandCanyon","CRLeesFerry",-12.00,"RB","04/06/2017","QuigleyT",,0,,"19:00",1,"Rechargeable",0,1,0,"DaubertM",,,,0,,"FordM",,"MD- Nothing was noted other than date, river mile, collector and open and close time. TK scored wind as zero based on other samples from this date."
 "L09517","GrandCanyon","CRLeesFerry",-3.50,"RB","06/01/2017","QuigleyT","Rain",2,"Vegetation","20:15",1,"Rechargeable",0,0,0,"DaubertM","FordM","06/25/2018",0.22,0,,"GiardinaM",,"MD- temp not noted. Habitat originally recorded as 'Grasses-Forbes' (2018-09-27 JDM)."
@@ -8769,9 +8769,9 @@ Maggie-bugs",
 "L10239","UpperBasin","SJSandIsland",6.80,"LB","06/26/2018","GCY","NoRain",0,"Sand","19:49",0.98,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
 "L10240","UpperBasin","SJSandIsland",0.00,"RB","06/25/2018","GCY","NoRain",0,"Sand","20:28",0.97,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
 "L10241","UpperBasin","SJSandIsland",23.20,"LB","07/17/2018","GCY","NoRain",0,"Rock","20:08",1,"Rechargeable",1,1,0,"MetcalfeA",,,,0,,,"Close time not recorded, 1 h assumed",
-"L10242","UpperBasin","SJSandIsland",0.00,"RB","07/19/2018","GCY","NoRain",0,"Vegetation","19:40",1.03,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Didn't add note to bat pad",
+"L10242","UpperBasin","SJSandIsland",0.00,"RB","07/19/2018","GCY","NoRain",0,"Vegetation","19:40",1.03,"Rechargeable",1,0,0,"MetcalfeA","FordM","02/25/2020",2.57,0,,"MetcalfeA","Didn't add note to bat pad","Sample kept"
 "L10243","UpperBasin","SJSandIsland",6.30,"RB","07/20/2018","GCY","NoRain",0,"Sand","19:54",1,"Rechargeable",1,1,0,"MetcalfeA",,,,0,,,"Batteries low, changed out after session. Note was not added to bat pad.",
-"L10244","UpperBasin","SJSandIsland",23.10,"LB","07/22/2018","GCY","NoRain",0,"Sand","19:54",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
+"L10244","UpperBasin","SJSandIsland",23.10,"LB","07/22/2018","GCY","NoRain",0,"Sand","19:54",1,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/21/2020",2.92,0,,"MetcalfeA",,"Sample kept"
 "L10245","UpperBasin","SJSandIsland",24.00,"LB","07/23/2018","GCY","NoRain",0,"Sand","21:30",1.03,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
 "L10246","GrandCanyon","CRGrandCanyon",135.20,"LB","04/11/2019","MorrisS","NoRain",0,"Sand","19:31",0.97,"Rechargeable",0,0,0,"SzydloC","FordM","01/29/2020",0.07,0,,"FordM",,
 "L10247","UpperBasin","SJSandIsland",19.40,"LB","07/27/2018","GCY","NoRain",1,"Sand","21:20",1,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
@@ -9197,21 +9197,21 @@ MF-river side added, Lava Canyon Camp"
 "L10690","GrandCanyon","CRGrandCanyon",50.10,"RB","04/12/2019","ChapmanK","NoRain",1,"Sand","19:18",1.17,"Rechargeable",0,0,0,"SzydloC","FordM","12/17/2019",0.1,0,,"GiardinaM",,
 "L10691","GrandCanyon","CRGrandCanyon",61.50,"RB","04/14/2019","ChapmanK","NoRain",1,"Sand","18:58",1.08,"Rechargeable",0,0,0,"SzydloC","SzydloC","01/03/2020",0.68,0,,"GiardinaM","Across LCR",
 "L10692","GrandCanyon","CRGrandCanyon",81.70,"LB","04/18/2019","ChapmanK","NoRain",0,"Sand","19:23",1.18,"Rechargeable",0,0,0,"SzydloC","GardnerT","01/31/2020",0.18,0,,"FordM","right next to rocks",
-"L10693","UpperBasin","SJSandIsland",52.70,"RB","06/29/2018","GCY","NoRain",0,"Rock","20:15",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
+"L10693","UpperBasin","SJSandIsland",52.70,"RB","06/29/2018","GCY","NoRain",0,"Rock","20:15",1,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/24/2020",0.47,0,,"MetcalfeA",,"Sample kept"
 "L10694","UpperBasin","SJSandIsland",15.60,"RB","07/14/2018","GCY","NoRain",2,"Sand","20:40",1,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","02/27/2020",0.18,0,,"MetcalfeA",,
 "L10695","UpperBasin","SJSandIsland",33.00,"RB","07/15/2018","GCY","NoRain",2,"Rock","20:47",1,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
-"L10696","UpperBasin","SJSandIsland",26.90,"RB","05/31/2018","GCY","NoRain",2,"Sand","19:37",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
-"L10697","UpperBasin","SJSandIsland",66.60,"RB","06/03/2018","GCY","NoRain",1,"Sand","19:56",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
-"L10698","UpperBasin","SJSandIsland",54.80,"LB","06/02/2018","GCY","NoRain",0,"Sand","19:51",0.98,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
-"L10699","UpperBasin","SJSandIsland",35.40,"LB","06/01/2018","GCY","NoRain",1,"Sand","19:46",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
+"L10696","UpperBasin","SJSandIsland",26.90,"RB","05/31/2018","GCY","NoRain",2,"Sand","19:37",1,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","02/25/2020",2.38,0,,"MetcalfeA",,"Sample kept"
+"L10697","UpperBasin","SJSandIsland",66.60,"RB","06/03/2018","GCY","NoRain",1,"Sand","19:56",1,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","02/24/2020",1.02,0,,"MetcalfeA",,"Sample kept"
+"L10698","UpperBasin","SJSandIsland",54.80,"LB","06/02/2018","GCY","NoRain",0,"Sand","19:51",0.98,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","02/25/2020",4.58,0,,"GoodenoughD",,"Sample kept"
+"L10699","UpperBasin","SJSandIsland",35.40,"LB","06/01/2018","GCY","NoRain",1,"Sand","19:46",1,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","02/27/2020",1.5,0,,"MetcalfeA",,
 "L10700","GrandCanyon","CRGrandCanyon",225.80,"LB","06/03/2018","GCY","NoRain",1,"Vegetation","19:25",1,"Rechargeable",0,0,0,"DaubertM","DaubertM","11/30/2018",0.25,0,,"FordM",,
 "L10701","GrandCanyon","CRGrandCanyon",235.25,"LB","06/04/2018","GCY","NoRain",1,"Rock","20:01",1,"Rechargeable",1,0,0,"DaubertM","HendrixB","02/28/2019",0.28,0,,"FordM",,
 "L10702","GrandCanyon","CRGrandCanyon",215.20,"LB","06/06/2018","GCY","NoRain",1,"Rock","19:56",0.08,"Rechargeable",1,1,1,"DaubertM",,,,0,,,,"Could not find datasheet to confirm short sample duration (2018-10-23 JDM)."
 "L10703","GrandCanyon","CRGrandCanyon",248.70,"RB","06/05/2018","GCY","NoRain",1,"Rock","19:55",0.35,"Rechargeable",0,1,1,"DaubertM",,,,0,,,,"Sample duration too short (MD 7/16/18)"
 "L10704","GrandCanyon","CRGrandCanyon",225.80,"LB","05/29/2018","GCY","NoRain",0,"Sand","19:15",1,"Rechargeable",0,0,0,"DaubertM","SzydloC","02/25/2019",0.32,0,,"GiardinaM",,
-"L10706","UpperBasin","SJSandIsland",0.00,"RB","07/08/2018","GCY","NoRain",2,"Rock","19:36",0.98,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
+"L10706","UpperBasin","SJSandIsland",0.00,"RB","07/08/2018","GCY","NoRain",2,"Rock","19:36",0.98,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/20/2020",2,0,,"MetcalfeA",,"Sample kept"
 "L10707","GrandCanyon","CRGrandCanyon",229.30,"LB","05/30/2018","GCY","NoRain",1,"Sand","19:25",1.25,"Rechargeable",0,0,0,"DaubertM","HendrixB","02/19/2019",0.55,0,,"GiardinaM",,
-"L10708","UpperBasin","SJSandIsland",27.00,"RB","06/27/2018","GCY","NoRain",0,"Sand","20:00",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Mexican Hat ramp",
+"L10708","UpperBasin","SJSandIsland",27.00,"RB","06/27/2018","GCY","NoRain",0,"Sand","20:00",1,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","02/20/2020",0.85,0,,"MetcalfeA","Mexican Hat ramp","Sample kept"
 "L10709","GrandCanyon","CRGrandCanyon",230.60,"LB","05/25/2018","GCY","NoRain",0,"Rock","20:00",1,"Rechargeable",1,0,0,"DaubertM","DaubertM","02/18/2019",0.63,0,,"GiardinaM",,
 "L10710","GrandCanyon","CRGrandCanyon",274.00,"LB","05/27/2018","GCY","NoRain",1,"Sand","19:43",1.15,"Rechargeable",1,0,0,"DaubertM","DaubertM","12/20/2018",0.23,0,,"GiardinaM",,
 "L10711","GrandCanyon","CRGrandCanyon",250.90,"LB","05/26/2018","GCY","NoRain",1,"Sand","19:41",1,"Rechargeable",1,0,0,"DaubertM","HendrixB","01/31/2019",0.47,0,,"GiardinaM",,
@@ -9286,7 +9286,7 @@ MF-river side added, Lava Canyon Camp"
 -MF"
 "L10796","UpperBasin","SJSandIsland",76.00,"LB","05/17/2019","GCY","NoRain",1,"Sand","20:34",1.02,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","03/02/2020",0.07,0,,"MetcalfeA","BatPad1 Coll: Cricket & Emily K",
 "L10797","GrandCanyon","CRGrandCanyon",16.67,"LB","06/04/2019","CatlettJ","NoRain",1,"Sand","19:36",1.08,"Rechargeable",1,0,0,"SzydloC","SzydloC","01/02/2020",0.2,0,,"GiardinaM",,
-"L10798","UpperBasin","SJSandIsland",15.40,"LB","05/12/2019","GCY","NoRain",1,"Sand","19:35",0.95,"Rechargeable",1,1,0,"MetcalfeA",,,,0,,,"Coll: Mia Ella, Old Yeller Camp
+"L10798","UpperBasin","SJSandIsland",15.40,"LB","05/12/2019","GCY","NoRain",1,"Sand","19:35",0.95,"Rechargeable",1,1,0,"MetcalfeA","GoodenoughD","03/02/2020",0.53,0,,"MetcalfeA","Coll: Mia Ella, Old Yeller Camp
 No barcode on datasheet, there was a sample with barcode L10798 in batch that did not have datasheet","Sample kept"
 "L10803","GrandCanyon","CRGrandCanyon",188.68,"RB","06/26/2018","HarmonA","NoRain",2,"Rock","20:00",1.22,"Rechargeable",0,0,0,"DaubertM","DaubertM","02/15/2019",0.33,0,,"GiardinaM",,
 "L10804","GrandCanyon","CRGrandCanyon",165.14,"RB","06/25/2018","HarmonA","NoRain",0,"Rock","20:07",1.07,"Rechargeable",0,0,0,"DaubertM","HendrixB","09/27/2018",0.55,0,,"FordM",,
@@ -9338,7 +9338,7 @@ No barcode on datasheet, there was a sample with barcode L10798 in batch that di
 "L10853","GrandCanyon","LittleCR",,"RB","06/29/2018","GCMRC","NoRain",1,"Sand","19:15",,"Rechargeable",0,1,1,"DaubertM",,,,0,,,,"Close time and river mile not noted."
 "L10854","GrandCanyon","CRGrandCanyon",63.70,"RB","08/24/2018","JordanN","NoRain",0,"Sand","19:41",1,"Rechargeable",1,0,0,"DaubertM","HendrixB","11/26/2018",0.32,0,,"FordM",,
 "L10855","GrandCanyon","CRGrandCanyon",119.80,"RB","08/26/2018","JordanN","NoRain",0,"Sand","19:32",1,"Rechargeable",1,0,0,"DaubertM","DaubertM","10/11/2018",0.1,0,,"FordM",,
-"L10856","UpperBasin","SJSandIsland",0.00,"RB","06/27/2019","GCY","NoRain",0,"Sand","20:00",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"No bat pad ID",
+"L10856","UpperBasin","SJSandIsland",0.00,"RB","06/27/2019","GCY","NoRain",0,"Sand","20:00",1,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","03/02/2020",0.27,0,,"MetcalfeA","No bat pad ID","Sample kept"
 "L10857","UpperBasin","SJSandIsland",,"LB","04/06/2019","GCY","NoRain",0,"Sand","19:20",1,"Rechargeable",0,1,1,"SzydloC",,,,0,,,,"No river mile - CS
 Sample tossed- AM June 2019"
 "L10858","GrandCanyon","CRLeesFerry",-9.00,"RB","10/22/2018","GCY","NoRain",0,"Rock","18:00",1.08,"Rechargeable",0,0,0,"DaubertM","DaubertM","12/06/2018",0.05,0,,"FordM","Vegetation habitat type also circled.",
@@ -9810,12 +9810,12 @@ CS processing time: 7min"
 "L11461","UpperBasin","SJSandIsland",5.00,"LB","05/02/2019","GCY","NoRain",0,"Vegetation","20:00",,"Rechargeable",0,1,1,"MetcalfeA","MetcalfeA",,,0,,"MetcalfeA","No close time","sample tossed"
 "L11462","UpperBasin","SJSandIsland",13.00,"RB","05/03/2019","GCY","NoRain",0,"Sand","20:00",,"Rechargeable",0,1,1,"MetcalfeA","MetcalfeA",,,0,,"MetcalfeA","No close time","sample tossed"
 "L11463","UpperBasin","SJSandIsland",37.50,"RB","05/05/2019","GCY","NoRain",0,"Sand","19:53",1,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,"Coll: DCS Montessori",
-"L11464","UpperBasin","SJSandIsland",49.60,"RB","05/06/2019","GCY","NoRain",1,"Vegetation","20:18",1.02,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Bat Pad Kit1",
+"L11464","UpperBasin","SJSandIsland",49.60,"RB","05/06/2019","GCY","NoRain",1,"Vegetation","20:18",1.02,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","03/02/2020",0.28,0,,"MetcalfeA","Bat Pad Kit1","Sample kept"
 "L11467","UpperBasin","SJSandIsland",76.00,"LB","05/08/2019","GCY","NoRain",1,"Vegetation","20:15",9.63,"Rechargeable",1,1,1,"MetcalfeA","MetcalfeA",,,0,,"MetcalfeA","Sample ran overnight? Bat Pad 1","Sample tossed"
 "L11468","UpperBasin","SJSandIsland",45.50,"RB","05/07/2019","GCY","NoRain",2,"Sand","20:05",,"Rechargeable",1,1,1,"MetcalfeA","MetcalfeA",,,0,,"MetcalfeA","No close time. Bat pad 1","Sample tossed"
 "L11469","UpperBasin","SJSandIsland",0.00,"RB","05/10/2019","GCY","NoRain",0,"Sand","19:30",1.13,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","03/02/2020",0.08,0,,"MetcalfeA","Rained day of, 1.5 hours before setting out light trap. Bat pad ?GCY",
 "L11470","UpperBasin","SJSandIsland",6.50,"LB","05/11/2019","GCY","NoRain",0,"Vegetation","19:45",1,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","03/02/2020",0.1,0,,"MetcalfeA","Bat pad GCY?",
-"L11471","UpperBasin","SJSandIsland",35.40,"LB","05/14/2019","GCY","Rain",0,"Sand","19:57",1.08,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Bat pad GCY.Light rain ""sprinkles.""",
+"L11471","UpperBasin","SJSandIsland",35.40,"LB","05/14/2019","GCY","Rain",0,"Sand","19:57",1.08,"Rechargeable",1,0,0,"MetcalfeA","FordM","03/02/2020",0.6,0,,"MetcalfeA","Bat pad GCY.Light rain ""sprinkles.""","Sample kept"
 "L11472","UpperBasin","SJSandIsland",54.80,"LB","05/15/2019","GCY","Rain",0,"Rock","19:45",1.15,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","03/02/2020",0.33,0,,"MetcalfeA","Bat pad GCY",
 "L11473","UpperBasin","SJSandIsland",66.50,"RB","05/16/2019","GCY",,1,"Sand","19:41",,"Rechargeable",1,1,1,"MetcalfeA","MetcalfeA",,,0,,"MetcalfeA","No close time no weather","Sample tossed"
 "L11474","UpperBasin","SJSandIsland",0.00,"RB","05/03/2019","GCY","NoRain",0,"Sand","19:28",0.83,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","03/02/2020",0.12,0,,"MetcalfeA","Batpad GCY#2",
@@ -9837,7 +9837,7 @@ CS processing time: 7min"
 "L11490","GrandCanyon","CRGrandCanyon",65.13,"RB","05/19/2019","CatlettJ","NoRain",1,"Sand","19:45",1.13,"Rechargeable",0,1,1,"SzydloC","SzydloC","01/14/2020",0.02,0,,"GiardinaM",,"I'm not sure why this sample is flag delete. I checked the original datasheet and all data look good. I am processing this sample - CS 1/14/2020"
 "L11491","GrandCanyon","CRGrandCanyon",87.74,"LB","05/20/2019","CatlettJ","NoRain",2,,"19:48",1.03,"Rechargeable",0,1,0,"SzydloC","StarbuckM","01/29/2020",0.1,0,,"FordM",,"Both river side and habitat data was missing. I added river side based on camp site location on map. - CS 6/11/2019"
 "L11492","GrandCanyon","CRGrandCanyon",91.63,"LB","05/21/2019","CatlettJ","NoRain",,"Sand","19:28",1.1,"Rechargeable",0,0,0,"SzydloC","SzydloC","12/06/2019",0.03,0,,"GiardinaM",,"River side and wind speed missing on datasheet. Added river side based on camp location on map. - CS 6/11/2019"
-"L11493","UpperBasin","SJSandIsland",9.90,"RB","05/05/2019","GCY","NoRain",0,"Sand","19:00",0.92,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"BatPad#2",
+"L11493","UpperBasin","SJSandIsland",9.90,"RB","05/05/2019","GCY","NoRain",0,"Sand","19:00",0.92,"Rechargeable",1,0,0,"MetcalfeA","SzydloC","03/02/2020",0.02,0,,"MetcalfeA","BatPad#2","Sample kept"
 "L11494","UpperBasin","SJSandIsland",20.50,"LB","05/06/2019","GCY","NoRain",1,"Vegetation","19:05",1.65,"Rechargeable",1,1,1,"MetcalfeA","MetcalfeA",,,0,,"MetcalfeA",,"Sample tossed"
 "L11495","GrandCanyon","CRGrandCanyon",214.50,"RB","05/14/2019","SwindlehurstJ","NoRain",0,"Rock","19:40",1,"Rechargeable",0,0,0,"SzydloC","SzydloC","08/05/2019",0.77,0,,"GiardinaM",,
 "L11496","GrandCanyon","CRGrandCanyon",214.50,"RB","05/13/2019","SwindlehurstJ","NoRain",0,"Rock","19:40",1,"Rechargeable",0,0,0,"SzydloC","SzydloC","06/04/2019",0.75,0,,"FordM",,
@@ -10603,10 +10603,10 @@ TG processing time: 1hr53min"
 "L12392","GrandCanyon","CRGrandCanyon",174.80,"RB","10/26/2019","PettyJ","NoRain",0,"Vegetation","18:07",1.17,"Rechargeable",1,0,0,"SzydloC","HanusK","12/04/2019",0.33,0,,"GiardinaM",,
 "L12394","UpperBasin","SJSandIsland",13.50,"RB","09/26/2019","GCY","NoRain",1,"Rock","19:20",1,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,"Coll: Logan Dwyer. Midway.",
 "L12398","UpperBasin","SJSandIsland",66.40,"RB","10/15/2019","GCY","NoRain",0,"Sand","18:20",1,"Rechargeable",0,1,0,"MetcalfeA",,,,0,,,"Coll: GCY/ERS. Bat kit #2 (no data). Low battery oops :(","Unclear if low battery is bat pad or light trap"
-"L12399","UpperBasin","SJSandIsland",44.50,"RB","10/13/2019","GCY","NoRain",0,"Sand","18:12",1.28,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Coll: GCY/ERS. Bat kit #2",
+"L12399","UpperBasin","SJSandIsland",44.50,"RB","10/13/2019","GCY","NoRain",0,"Sand","18:12",1.28,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","03/02/2020",0.17,0,,"MetcalfeA","Coll: GCY/ERS. Bat kit #2","Sample kept"
 "L12400","UpperBasin","SJSandIsland",76.00,"LB","10/16/2019","GCY","NoRain",0,"Sand","18:10",1.47,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,"Coll: GCY/Holland. Bat kit #2 (no data). Sorry for the extra half hour!",
-"L12401","UpperBasin","SJSandIsland",54.80,"LB","10/12/2019","GCY","NoRain",0,"Sand","18:14",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Bat kit #2",
-"L12403","UpperBasin","SJSandIsland",31.30,"LB","10/12/2019","GCY","NoRain",0,"Sand","18:17",1.03,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Coll: X. Hagood & L. Raymond. Bat kit #2",
+"L12401","UpperBasin","SJSandIsland",54.80,"LB","10/12/2019","GCY","NoRain",0,"Sand","18:14",1,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","03/02/2020",0.2,0,,"MetcalfeA","Bat kit #2","Sample kept"
+"L12403","UpperBasin","SJSandIsland",31.30,"LB","10/12/2019","GCY","NoRain",0,"Sand","18:17",1.03,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","03/02/2020",0.15,0,,"MetcalfeA","Coll: X. Hagood & L. Raymond. Bat kit #2","Sample kept"
 "L12404","UpperBasin","SJSandIsland",28.40,"RB","10/07/2019","GCY","NoRain",0,"Rock","18:00",0.92,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,"Bat kit #1 (no data)",
 "L12405","UpperBasin","SJSandIsland",33.00,"RB","10/08/2019","GCY","NoRain",0,"Sand","18:15",0.92,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,"Bat kit #1 (no data)",
 "L12406","UpperBasin","SJSandIsland",46.60,"LB","10/09/2019","GCY","NoRain",1,"Sand","18:05",1,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,"Bat kit #1 (no data)",
