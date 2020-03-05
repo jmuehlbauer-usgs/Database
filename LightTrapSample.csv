@@ -9877,7 +9877,7 @@ CS processing time: 7min"
 "L11530","GrandCanyon","CRLeesFerry",-3.50,"RB","06/16/2019","MuehlbauerJ","NoRain",0,"Rock","20:00",1.02,"Rechargeable",0,0,0,"SzydloC","SzydloC","08/08/2019",0.28,0,,"GiardinaM",,
 "L11531","GrandCanyon","CRGrandCanyon",214.50,"RB","05/11/2019","SzydloC","NoRain",0,"Sand","19:46",1.02,"Rechargeable",1,0,0,"SzydloC","SzydloC","08/06/2019",0.22,0,,"GiardinaM",,
 "L11532","GrandCanyon","CRGrandCanyon",60.20,"LB","05/04/2019","GCMRC","NoRain",0,"Sand","19:30",1,"Rechargeable",0,0,0,"SzydloC","SzydloC","06/06/2019",0.08,0,,"FordM",,
-"L11533","UpperBasin","SJSandIsland",76.00,"LB","05/28/2019","GCY","NoRain",0,"Sand","19:40",1,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,"Coll: Bec",
+"L11533","UpperBasin","SJSandIsland",76.00,"LB","05/28/2019","GCY","NoRain",0,"Sand","19:40",1,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","03/03/2020",0.08,0,,"MetcalfeA","Coll: Bec","Sample kept"
 "L11534","GrandCanyon","CRGrandCanyon",53.50,"RB","06/29/2019","BestardM","NoRain",0,"Vegetation","19:49",1.02,"Rechargeable",1,0,0,"SzydloC","FordM","01/06/2020",2.3,0,,"GiardinaM",,"Tech pick HYDA 2hr08min"
 "L11535","GrandCanyon","CRGrandCanyon",85.00,"LB","07/01/2019","BestardM","NoRain",0,"Sand","19:49",1.03,"Rechargeable",1,0,0,"SzydloC","SzydloC","01/15/2020",0.2,0,,"GiardinaM",,
 "L11536","UpperBasin","SJSandIsland",8.30,"LB","05/22/2019","GCY","NoRain",1,"Sand","19:34",0.97,"Rechargeable",1,0,0,"MetcalfeA","MetcalfeA","03/02/2020",0.1,0,,"MetcalfeA",,
@@ -10162,7 +10162,7 @@ CS process time: 50min"
 "L11832","GrandCanyon","CRGrandCanyon",188.70,"RB","06/25/2019","HarmonA","NoRain",2,"Rock","20:04",0.95,"Rechargeable",0,0,0,"SzydloC","FordM","12/17/2019",4.13,0,,"GiardinaM",,"MS processing time: 3hrs0min
 MF processing time: 1hr08min"
 "L11833","GrandCanyon","CRGrandCanyon",216.10,"RB","06/26/2019","HarmonA","NoRain",2,"Sand","19:52",0.93,"Rechargeable",0,0,0,"SzydloC","FordM","01/18/2020",0.68,0,,"GiardinaM",,
-"L11834","UpperBasin","SJSandIsland",52.70,"RB","07/15/2019","GCY","NoRain",0,"Sand","20:02",1.05,"Rechargeable",1,0,0,"MetcalfeA",,,,0,,,,
+"L11834","UpperBasin","SJSandIsland",52.70,"RB","07/15/2019","GCY","NoRain",0,"Sand","20:02",1.05,"Rechargeable",1,0,0,"MetcalfeA","GoodenoughD","03/03/2020",3.97,0,,"MetcalfeA",,"Sample kept"
 "L11835","UpperBasin","SJSandIsland",66.50,"RB","07/16/2019","GCY","NoRain",0,"Sand","19:35",1.05,"Rechargeable",0,0,0,"MetcalfeA",,,,0,,,,
 "L11836","GrandCanyon","CRGrandCanyon",166.90,"LB","07/01/2019","PettyJ","NoRain",0,"Rock","19:53",0.83,"Rechargeable",0,0,0,"SzydloC","SzydloC","01/14/2020",0.32,0,,"GiardinaM",,
 "L11837","GrandCanyon","CRGrandCanyon",180.20,"RB","07/02/2019","PettyJ","NoRain",0,"Vegetation","19:51",0.98,"Rechargeable",0,0,0,"SzydloC","FordM","01/27/2020",1.07,0,,"FordM",,
