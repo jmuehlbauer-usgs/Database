@@ -29738,7 +29738,7 @@
 "L04408","POHA",4,"2m,2f"
 "L04408","SIMA",2,
 "L04408","STAA",2,
-"L04408","THRA",3,
+"L04408","TRAV",3,"Previously Id'd as Thraulodes, J. Webb verified"
 "L04412","CERA",11,
 "L04412","CHIA",23,
 "L04412","COLE",1,
@@ -30619,7 +30619,7 @@
 "L04513","HYDA",39,
 "L04513","SIMA",1,
 "L04513","STAA",1,
-"L04513","THRA",1,
+"L04513","TRAV",1,"Previously Id'd as Thraulodes, J. Webb verified"
 "L04517","CHIA",76,"Mites present."
 "L04517","DIPT",11,
 "L04517","LEPA",2,
@@ -54014,11 +54014,11 @@
 "L09237","TRAS",4,"4m, 0f"
 "L09239","CERA",1,
 "L09239","CHIA",9,
+"L09239","FUNG",2,"Cecidomyiidae (previously in DB as NEMT)"
 "L09239","HEMA",4,
 "L09239","HYDA",40,
 "L09239","HYOC",5,"3m, 2f"
 "L09239","MUSC",10,
-"L09239","NEMT",2,"Cecidomyiidae"
 "L09239","STAA",3,
 "L09240","CHEP",1,"0m, 1f"
 "L09240","CHIA",215,

@@ -5500,3 +5500,12 @@ No processing time noted on datasheet - MG"
 "D08894","BA20200122","GrandCanyon","BrightAngel",1000.00,"01/23/2020","MetcalfeA",,,1.00,0,26,"Crepuscular","17:54:06",3.92,"Low","Net",1.2723,195.08,0.83,21.46,1,0,"GoodenoughD",,,,0,,,"River Mile is actually meters up Bright Angel Creek from confluence. Sample taken from Right Bank of creek."
 "D08895","BA20200122","GrandCanyon","BrightAngel",1000.00,"01/23/2020","MetcalfeA",,,1.00,0,26,"Crepuscular","18:07:10",5.03,"Low","Net",1.2529,254.64,0.84,28.01,1,0,"GoodenoughD",,,,0,,,"River Mile is actually meters up Bright Angel Creek from confluence. Sample taken from Center of creek."
 "D08896","BA20200122","GrandCanyon","BrightAngel",1000.00,"01/23/2020","MetcalfeA",,,1.00,0,26,"Crepuscular","18:19:55",5.07,"Low","Net",0.8201,101.76,0.33,11.19,0,0,"GoodenoughD",,,,0,,,"River Mile is actually meters up Bright Angel Creek from confluence. Sample taken from Left Bank of creek."
+"D08897","LF20200316","GrandCanyon","CRGrandCanyon",6.00,"03/16/2020","SzydloC",,,7.00,0,6,"Day","12:22:15",5,"Medium","Net",0.9888,454.42,1.51,92.11,0,0,"GoodenoughD",,,,0,,,
+"D08898","LF20200316","GrandCanyon","CRGrandCanyon",3.34,"03/16/2020","SzydloC",,,7.00,0,6,"Day","12:49:08",5,"Medium","Net",0.9946,556.24,1.85,112.75,0,0,"GoodenoughD",,,,0,,,
+"D08899","LF20200316","GrandCanyon","CRGrandCanyon",1.90,"03/16/2020","SzydloC",,,7.00,0,6,"Day","13:12:00",5,"Medium","Net",0.9874,337.03,1.12,68.32,0,0,"GoodenoughD",,,,0,,,
+"D08900","LF20200316","GrandCanyon","CRLeesFerry",0.00,"03/16/2020","SzydloC",,,7.00,0,6,"Day","13:45:02",5,"Low","Net",0.9261,209.69,0.7,42.5,0,0,"GoodenoughD",,,,0,,,
+"D08902","LF20200316","GrandCanyon","CRLeesFerry",-3.50,"03/16/2020","SzydloC",,,7.00,0,6,"Day","14:18:06",5,"Low","Net",1.0306,268.35,0.89,54.39,1,0,"GoodenoughD",,,,0,,,"Algae on bomb flowmeter."
+"D08904","LF20200316","GrandCanyon","CRLeesFerry",-8.00,"03/16/2020","SzydloC",,,7.00,0,6,"Day","15:03:30",5,"Low","Net",0.9466,363.2,1.21,73.62,0,0,"GoodenoughD",,,,0,,,
+"D08906","LF20200316","GrandCanyon","CRLeesFerry",-11.00,"03/16/2020","SzydloC",,,7.00,0,6,"Day","15:46:40",5,"Low","Net",0.9703,287.37,0.96,58.25,0,0,"GoodenoughD",,,,0,,,
+"D08908","LF20200316","GrandCanyon","CRLeesFerry",-12.90,"03/16/2020","SzydloC",,,7.00,0,6,"Day","16:03:20",5,"Low","Net",0.929,483.69,1.61,98.04,0,0,"GoodenoughD",,,,0,,,
+"D08909","LF20200316","GrandCanyon","CRLeesFerry",-13.40,"03/16/2020","SzydloC",,,7.00,0,6,"Day","16:18:25",5,"Low","Net",0.9197,181.28,0.6,36.75,0,0,"GoodenoughD",,,,0,,,
