@@ -4994,7 +4994,7 @@ processing date for 500um sample 12/7/2018"
 "D08215","GC20180915","GrandCanyon","CRGrandCanyon",55.50,"09/18/2018","GoodenoughD",,,7.00,0,4,"Day","11:54:00",3.5,"Medium","Net",0.7898,267.92,1.28,54.31,0,0,"GoodenoughD",,,,0,,,
 "D08216","GC20180915","GrandCanyon","CRGrandCanyon",57.50,"09/18/2018","GoodenoughD",,,7.00,0,4,"Day","13:22:15",3,"Medium","Net",0.9079,141.79,0.79,28.74,0,0,"GoodenoughD",,,,0,,,
 "D08217","GC20180915","GrandCanyon","CRGrandCanyon",61.70,"09/19/2018","GoodenoughD",,,7.00,0,4,"Day","08:39:00",3,"Medium","Net",0.806,160.97,0.89,32.63,0,0,"GoodenoughD","CorneliusJ","10/12/2018",4.03,0,,"FordM",
-"D08218","GC20180915","GrandCanyon","CRGrandCanyon",63.50,"09/19/2018","GoodenoughD",,,7.00,0,4,"Day","09:07:43",2.53,"Medium","Net",0.7897,196.34,1.29,39.8,0,0,"GoodenoughD",,,,0,,,"Sample elutriated 3 times in field. "
+"D08218","GC20180915","GrandCanyon","CRGrandCanyon",63.50,"09/19/2018","GoodenoughD",,,7.00,0,4,"Day","09:07:43",2.53,"Medium","Net",0.7897,196.34,1.29,39.8,0,0,"GoodenoughD","GardnerT","02/25/2020",16.07,0,,"FordM","Sample elutriated 3 times in field. "
 "D08219","GC20180915","GrandCanyon","CRGrandCanyon",68.50,"09/19/2018","GoodenoughD",,,7.00,0,6,"Day","10:18:45",3.5,"Medium","Net",0.915,277.88,1.32,56.33,0,0,"GoodenoughD","CorneliusJ","11/01/2018",2.88,0,,"FordM","Water turbulent, switched to a 500 um net for longer sample duration and improved filtration efficiency. "
 "D08220","GC20180915","GrandCanyon","CRGrandCanyon",73.40,"09/19/2018","GoodenoughD",,,7.00,0,6,"Day","12:38:25",4,"Medium","Net",0.7939,434,1.81,87.97,0,0,"GoodenoughD",,,,0,,,
 "D08221","GC20180915","GrandCanyon","CRGrandCanyon",74.70,"09/19/2018","GoodenoughD",,,7.00,0,6,"Day","13:03:40",3.5,"Medium","Net",0.8877,184.72,0.88,37.44,0,0,"GoodenoughD",,,,0,,,"Internal label in sample marked as a 250 um collection, but it was collected using a 500 um net. "
@@ -5509,3 +5509,15 @@ No processing time noted on datasheet - MG"
 "D08906","LF20200316","GrandCanyon","CRLeesFerry",-11.00,"03/16/2020","SzydloC",,,7.00,0,6,"Day","15:46:40",5,"Low","Net",0.9703,287.37,0.96,58.25,0,0,"GoodenoughD",,,,0,,,
 "D08908","LF20200316","GrandCanyon","CRLeesFerry",-12.90,"03/16/2020","SzydloC",,,7.00,0,6,"Day","16:03:20",5,"Low","Net",0.929,483.69,1.61,98.04,0,0,"GoodenoughD",,,,0,,,
 "D08909","LF20200316","GrandCanyon","CRLeesFerry",-13.40,"03/16/2020","SzydloC",,,7.00,0,6,"Day","16:18:25",5,"Low","Net",0.9197,181.28,0.6,36.75,0,0,"GoodenoughD",,,,0,,,
+"D08910","LF20200423","GrandCanyon","CRLeesFerry",0.00,"04/23/2020","SzydloC",,,7.00,0,6,"Day","13:30:00",5,,"Net",0.888,161.21,0.54,32.68,0,0,"GoodenoughD",,,,0,,,
+"D08912","LF20200423","GrandCanyon","CRLeesFerry",-3.50,"04/23/2020","SzydloC",,,7.00,0,6,"Day","14:10:30",5,,"Net",1.0121,248.02,0.83,50.27,0,0,"GoodenoughD",,,,0,,,
+"D08914","LF20200423","GrandCanyon","CRLeesFerry",-8.00,"04/23/2020","SzydloC",,,7.00,0,6,"Day","14:49:00",5,,"Net",0.9794,413.64,1.38,83.84,0,0,"GoodenoughD",,,,0,,,
+"D08916","LF20200423","GrandCanyon","CRLeesFerry",-11.00,"04/23/2020","SzydloC",,,7.00,0,6,"Day","15:24:30",5,,"Net",0.9598,282.88,0.94,57.34,0,0,"GoodenoughD",,,,0,,,
+"D08918","LF20200423","GrandCanyon","CRLeesFerry",-12.90,"04/23/2020","SzydloC",,,7.00,0,6,"Day","15:59:30",5,,"Net",0.9441,457.19,1.52,92.67,0,0,"GoodenoughD",,,,0,,,
+"D08919","LF20200423","GrandCanyon","CRLeesFerry",-13.40,"04/23/2020","SzydloC",,,7.00,0,6,"Day","16:20:00",5,,"Net",0.9024,222.49,0.74,45.1,0,0,"GoodenoughD",,,,0,,,
+"D08921","LF20200520","GrandCanyon","CRLeesFerry",-12.90,"05/20/2020","FordM",,,7.00,0,6,"Day","14:55:00",5,"Low","Net",0.9964,511.77,1.71,103.74,0,0,"GoodenoughD",,,,0,,,
+"D08922","LF20200520","GrandCanyon","CRLeesFerry",-13.40,"05/20/2020","FordM",,,7.00,0,6,"Day","15:24:00",5,"Low","Net",0.9638,250.36,0.83,50.75,0,0,"GoodenoughD",,,,0,,,
+"D08923","LF20200520","GrandCanyon","CRLeesFerry",-11.00,"05/20/2020","FordM",,,7.00,0,6,"Day","14:21:00",5,"Low","Net",0.9378,267.68,0.89,54.26,0,0,"GoodenoughD",,,,0,,,
+"D08925","LF20200520","GrandCanyon","CRLeesFerry",-8.00,"05/20/2020","FordM",,,7.00,0,6,"Day","13:43:00",5,"Low","Net",0.962,492.51,1.64,99.83,0,0,"GoodenoughD",,,,0,,,
+"D08927","LF20200520","GrandCanyon","CRLeesFerry",-3.50,"05/20/2020","GoodenoughD",,,7.00,0,6,"Day","13:12:00",5,"Low","Net",0.9223,222.19,0.74,45.04,0,0,"GoodenoughD",,,,0,,,
+"D08929","LF20200520","GrandCanyon","CRLeesFerry",0.00,"05/20/2020","FordM",,,7.00,0,6,"Day","12:32:00",5,"Low","Net",0.8491,167.34,0.56,33.92,0,0,"GoodenoughD",,,,0,,,
