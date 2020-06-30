@@ -1989,7 +1989,11 @@ BDH: habitat type not recorded on datasheet"
 "L01941","GrandCanyon","CRLeesFerry",-3.50,"RB","06/14/2019","SzydloC","NoRain",0,"Vegetation","20:00",0.97,"Rechargeable",0,0,0,"SzydloC","SzydloC","01/16/2020",0.18,0,,"GiardinaM","Opened this adjacent to L11679 to test new tupperware container. This sample used new container, L11679 used regular sterlite container.",
 "L01948","UpperBasin","SJSandIsland",0.00,"RB","03/05/2020","GCY","NoRain",0,"Sand","18:30",1,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,
 "L01948","GrandCanyon","CRGrandCanyon",,,"03/05/2020","GCY","NoRain",,,,,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,
+"L01948","UpperBasin","SJSandIsland",,"RB","03/05/2020","GCY","NoRain",0,"Sand","18:30",1,"Rechargeable",0,1,1,"SzydloC",,,,0,,,,"No river mile on datasheet - CS 6/22/2020"
 "L01949","UpperBasin","SJSandIsland",5.70,"RB","03/06/2020","GCY","NoRain",0,"Sand","19:00",1,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,
+"L01949","UpperBasin","SJSandIsland",5.70,"RB","03/06/2020","GCY","NoRain",0,"Sand","19:00",1,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,
+"L01950","UpperBasin","SJSandIsland",8.40,"LB","03/07/2020","GCY","NoRain",1,"Rock","18:25",1.38,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,
+"L01951","UpperBasin","SJSandIsland",19.30,"LB","03/08/2020","GCY","NoRain",2,"Sand","18:26",1.12,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,
 "L01952","GrandCanyon","CRGrandCanyon",70.05,"RB","04/20/2014","NPSGRCA","NoRain",0,"Sand","20:00",1,,0,0,0,,"KortenhoevenE",,0.35,0,,,,"Weather originally recorded as 'Clear' (2018-09-27 JDM). "
 "L01953","GrandCanyon","CRGrandCanyon",93.79,"LB","04/21/2014","NPSGRCA","NoRain",1,"Sand","19:40",1,,0,0,0,,"MetcalfeA",,0.58,0,,,,"Weather originally recorded as 'Cloudy' (2018-09-27 JDM). "
 "L01954","GrandCanyon","CRGrandCanyon",25.07,"LB","06/09/2014","NPSGRCA","NoRain",0,"Vegetation","20:15",1,,0,0,0,,"MetcalfeA",,0.27,0,,,,"Habitat originally recorded as 'Trees-Shrubs' (2018-09-27 JDM). Weather originally recorded as 'Clear' (2018-09-27 JDM). "
@@ -10658,7 +10662,12 @@ MF processing time: 14min"
 "L12453","GrandCanyon","CRGrandCanyon",20.70,"RB","09/17/2019","TarlowJ","NoRain",0,"Sand","18:42",1,"Rechargeable",1,0,0,"SzydloC","SzydloC","01/30/2020",0.22,0,,"GoodenoughD",,
 "L12460","GrandCanyon","CRLeesFerry",-12.00,"RB","05/20/2020","FordM","NoRain",0,"Vegetation","19:45",1,"Rechargeable",0,0,0,"SzydloC","FordM","06/01/2020",0.15,0,,"FordM",,
 "L12461","GrandCanyon","CRLeesFerry",-3.50,"RB","05/20/2020","FordM","NoRain",0,"Vegetation","19:45",1,"Rechargeable",0,0,0,"SzydloC","FordM","06/02/2020",0.12,0,,"FordM",,
+"L12462","GrandCanyon","CRGrandCanyon",1.29,"LB","06/17/2020","SzydloC","NoRain",2,"Rock","20:00",1,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,
 "L12464","GrandCanyon","CRLeesFerry",-6.00,"LB","05/20/2020","FordM","NoRain",0,"Vegetation","19:45",1,"Rechargeable",0,0,0,"SzydloC","FordM","06/02/2020",0.3,0,,"FordM",,
+"L12546","GrandCanyon","CRLeesFerry",-12.00,"RB","06/17/2020","SzydloC","NoRain",2,"Vegetation","20:00",1,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,
+"L12547","GrandCanyon","CRLeesFerry",-6.00,"LB","06/17/2020","SzydloC","NoRain",2,"Sand","20:00",1,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,
+"L12548","GrandCanyon","CRGrandCanyon",3.34,"LB","06/17/2020","SzydloC","NoRain",2,"Sand","20:00",1,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,
+"L12549","GrandCanyon","CRLeesFerry",-3.50,"RB","06/17/2020","SzydloC","NoRain",2,"Vegetation","20:00",1,"Rechargeable",0,0,0,"SzydloC",,,,0,,,,
 "L12570","GrandCanyon","CRLeesFerry",-12.00,"RB","04/23/2020","SzydloC","NoRain",0,"Vegetation","19:45",1,"Rechargeable",0,0,0,"SzydloC","HanusK","05/13/2020",0.3,0,,"FordM",,
 "L12571","GrandCanyon","CRLeesFerry",-3.50,"RB","04/23/2020","SzydloC","NoRain",0,"Vegetation","19:45",1,"Rechargeable",0,0,0,"SzydloC","HanusK","05/13/2020",0.32,0,,"FordM",,
 "L12574","GrandCanyon","CRLeesFerry",-6.00,"LB","04/23/2020","SzydloC","NoRain",0,"Sand","19:45",1,"Rechargeable",0,0,0,"SzydloC","HanusK","05/13/2020",0.17,0,,"FordM",,
