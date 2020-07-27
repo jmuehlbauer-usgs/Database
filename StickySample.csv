@@ -11189,6 +11189,10 @@
 "S11837","LF20171026","GrandCanyon","CRGrandCanyon",5.90,"RB","10/26/2017",,"DS",1,0,0,,"GoodenoughD","11/28/2017",0.13,0,,,
 "S11838","LF20171026","GrandCanyon","CRGrandCanyon",5.90,"LB","10/26/2017",,"US",1,0,0,,"GoodenoughD","11/29/2017",0.17,0,,,
 "S11839","LF20171026","GrandCanyon","CRGrandCanyon",5.90,"LB","10/26/2017",,"DS",1,0,0,,"GoodenoughD","11/29/2017",0.13,0,,,
+"S11840","GC20200710","GrandCanyon","CRGrandCanyon",245.60,"LB","07/18/2020","MuehlbauerJ","US",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Unmarked camp."
+"S11841","GC20200710","GrandCanyon","CRGrandCanyon",245.60,"LB","07/18/2020","MuehlbauerJ","DS",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Unmarked camp."
+"S11842","GC20200710","GrandCanyon","CRGrandCanyon",209.60,"RB","07/17/2020","MuehlbauerJ","US",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"209 Mile Rapid camp."
+"S11843","GC20200710","GrandCanyon","CRGrandCanyon",209.60,"RB","07/17/2020","MuehlbauerJ","DS",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"209 Mile Rapid camp."
 "S11844","LF20171115","GrandCanyon","CRLeesFerry",-15.00,"RB","11/15/2017",,"US",1,0,0,,"GoodenoughD","11/30/2017",0.07,0,,,
 "S11845","LF20171115","GrandCanyon","CRLeesFerry",-15.00,"RB","11/15/2017",,"DS",1,0,0,,"GoodenoughD","11/30/2017",0.08,0,,,
 "S11846","LF20171115","GrandCanyon","CRLeesFerry",-15.00,"LB","11/15/2017",,"US",1,0,0,,"GoodenoughD","11/30/2017",0.05,1,,,
@@ -11829,6 +11833,18 @@
 "S12515","GC20180615","GrandCanyon","CRGrandCanyon",212.00,"RB","07/03/2018",,"DS",1,0,0,,"GoodenoughD","12/19/2018",0.05,0,,"GoodenoughD","Upstream of camp."
 "S12516","GC20180615","GrandCanyon","CRGrandCanyon",212.00,"RB","07/03/2018",,"US",1,0,0,,"GoodenoughD","12/19/2018",0.07,0,,"GoodenoughD","Downstream of camp."
 "S12517","GC20180615","GrandCanyon","CRGrandCanyon",212.00,"RB","07/03/2018",,"DS",1,0,0,,"GoodenoughD","12/19/2018",0.08,1,,"GoodenoughD","Downstream of camp."
+"S12522","GC20200710","GrandCanyon","CRGrandCanyon",150.70,"LB","07/16/2020","MuehlbauerJ","US",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Upset Hotel camp."
+"S12523","GC20200710","GrandCanyon","CRGrandCanyon",150.70,"LB","07/16/2020","MuehlbauerJ","DS",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Upset Hotel camp."
+"S12524","GC20200710","GrandCanyon","CRGrandCanyon",137.60,"LB","07/15/2020","MuehlbauerJ","US",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Poncho's Kitchen camp."
+"S12525","GC20200710","GrandCanyon","CRGrandCanyon",137.60,"LB","07/15/2020","MuehlbauerJ","DS",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Poncho's Kitchen camp."
+"S12526","GC20200710","GrandCanyon","CRGrandCanyon",103.50,"RB","07/13/2020","MuehlbauerJ","US",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Shady Grove camp?"
+"S12527","GC20200710","GrandCanyon","CRGrandCanyon",103.50,"RB","07/13/2020","MuehlbauerJ","DS",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Shady Grove camp?"
+"S12528","GC20200710","GrandCanyon","CRGrandCanyon",85.10,"LB","07/12/2020","MuehlbauerJ","US",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Zoroaster camp."
+"S12529","GC20200710","GrandCanyon","CRGrandCanyon",85.10,"LB","07/12/2020","MuehlbauerJ","DS",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Zoroaster camp."
+"S12530","GC20200710","GrandCanyon","CRGrandCanyon",61.60,"RB","07/11/2020","MuehlbauerJ","US",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Above LCR camp."
+"S12531","GC20200710","GrandCanyon","CRGrandCanyon",61.60,"RB","07/11/2020","MuehlbauerJ","DS",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Above LCR camp."
+"S12532","GC20200710","GrandCanyon","CRGrandCanyon",39.30,"RB","07/10/2020","MuehlbauerJ","US",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Redbud Alcove camp."
+"S12533","GC20200710","GrandCanyon","CRGrandCanyon",39.30,"RB","07/10/2020","MuehlbauerJ","DS",0.5,0,0,"MuehlbauerJ","HanusK",,,0,,,"Redbud Alcove camp."
 "S12534","LF20180718","GrandCanyon","CRLeesFerry",-15.00,"RB","07/18/2018",,"US",1,0,0,,"SzydloC","07/31/2018",0.1,0,,,
 "S12535","LF20180718","GrandCanyon","CRLeesFerry",-15.00,"RB","07/18/2018",,"DS",1,0,0,,"SzydloC","07/31/2018",0.1,0,,,
 "S12536","LF20180718","GrandCanyon","CRLeesFerry",-15.00,"LB","07/18/2018",,"US",1,0,0,,"SzydloC","07/31/2018",0.08,0,,,
@@ -13854,6 +13870,18 @@
 "S14621","LF20200520","GrandCanyon","CRLeesFerry",0.00,"RB","05/20/2020","GoodenoughD","DS",1,0,0,"GoodenoughD","GoodenoughD",,,0,,"GoodenoughD",
 "S14622","LF20200520","GrandCanyon","CRLeesFerry",0.00,"LB","05/20/2020","GoodenoughD","US",1,0,0,"GoodenoughD","GoodenoughD",,,0,,"GoodenoughD",
 "S14623","LF20200520","GrandCanyon","CRLeesFerry",0.00,"LB","05/20/2020","GoodenoughD","DS",1,0,0,"GoodenoughD","GoodenoughD",,,0,,"GoodenoughD",
+"S14624","BA20200622","GrandCanyon","BrightAngel",0.00,"RB","06/22/2020","MuehlbauerJ","US",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
+"S14625","BA20200622","GrandCanyon","BrightAngel",0.00,"RB","06/22/2020","MuehlbauerJ","DS",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
+"S14626","BA20200622","GrandCanyon","BrightAngel",0.00,"LB","06/22/2020","MuehlbauerJ","US",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
+"S14627","BA20200622","GrandCanyon","BrightAngel",0.00,"LB","06/22/2020","MuehlbauerJ","DS",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
+"S14628","BA20200622","GrandCanyon","BrightAngel",1000.00,"RB","06/22/2020","MuehlbauerJ","US",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
+"S14629","BA20200622","GrandCanyon","BrightAngel",1000.00,"RB","06/22/2020","MuehlbauerJ","DS",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
+"S14630","BA20200622","GrandCanyon","BrightAngel",1000.00,"LB","06/22/2020","MuehlbauerJ","US",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
+"S14631","BA20200622","GrandCanyon","BrightAngel",1000.00,"LB","06/22/2020","MuehlbauerJ","DS",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
+"S14632","BA20200622","GrandCanyon","BrightAngel",3200.00,"RB","06/22/2020","MuehlbauerJ","US",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
+"S14633","BA20200622","GrandCanyon","BrightAngel",3200.00,"RB","06/22/2020","MuehlbauerJ","DS",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
+"S14634","BA20200622","GrandCanyon","BrightAngel",3200.00,"LB","06/22/2020","MuehlbauerJ","US",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
+"S14635","BA20200622","GrandCanyon","BrightAngel",3200.00,"LB","06/22/2020","MuehlbauerJ","DS",1,0,0,"MuehlbauerJ","HanusK",,,0,,,"Bright Angel Brown Trout removal foodbase study. Oriented relative to tributary (not mainstem). ""River mile"" is actually meters upstream of confluence with mainstem. Deployment times approximate."
 "S14636","LF20200616","GrandCanyon","CRLeesFerry",-15.00,"RB","06/16/2020","SzydloC","US",1,0,0,"HanusK","HanusK",,,0,,"FordM",
 "S14637","LF20200616","GrandCanyon","CRLeesFerry",-15.00,"RB","06/16/2020","SzydloC","DS",1,0,0,"HanusK","HanusK",,,0,,"FordM",
 "S14638","LF20200616","GrandCanyon","CRLeesFerry",-15.00,"LB","06/16/2020","SzydloC","US",1,0,0,"HanusK","HanusK",,,0,,"FordM",
