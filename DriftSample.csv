@@ -5555,3 +5555,12 @@ I believe this sample is still valid as nothing would have been lost. -MF"
 "D08961","LF20200715","GrandCanyon","CRLeesFerry",-11.00,"07/15/2020","SzydloC",,,7.00,0,6,"Day","16:25:00",5,"Low","Net",0.9212,263.84,0.88,53.48,0,0,"HanusK","MatteucciS","07/29/2020",8.72,0,,"FordM",
 "D08963","LF20200715","GrandCanyon","CRLeesFerry",-12.90,"07/15/2020","SzydloC",,,7.00,0,6,"Day","16:53:00",5,"Low","Net",0.9722,629.14,2.1,127.53,0,0,"FordM","MasonSarantopulo","07/29/2020",4.48,0,,"FordM","the data sheet shows 16:57, but I assume it is 16:58. Confirmed that this was indeed a 5 minute sample, simple transcription error. -MF"
 "D08964","LF20200715","GrandCanyon","CRLeesFerry",-13.40,"07/15/2020","SzydloC",,,7.00,0,6,"Day","17:07:40",5,"Low","Net",0.9043,236.53,0.79,47.94,0,0,"HanusK","MasonSarantopulo","07/29/2020",1.5,0,,"FordM",
+"D08965","LF20200819","GrandCanyon","CRGrandCanyon",6.00,"08/19/2020","SzydloC",,,7.00,0,6,"Day","10:37:00",5,"Low","Net",0.9566,480.6,1.6,97.42,0,0,"FordM",,,,0,,,
+"D08966","LF20200819","GrandCanyon","CRGrandCanyon",3.34,"08/19/2020","SzydloC",,,7.00,0,6,"Day","11:03:00",5,"Low","Net",1.0049,683.37,2.28,138.52,1,0,"FordM",,,,0,,,
+"D08967","LF20200819","GrandCanyon","CRGrandCanyon",1.90,"08/19/2020","SzydloC",,,7.00,0,6,"Day","11:24:00",5,"Low","Net",0.933,338.67,1.13,68.65,0,0,"FordM",,,,0,,,
+"D08968","LF20200819","GrandCanyon","CRLeesFerry",0.00,"08/19/2020","SzydloC",,,7.00,0,6,"Day","11:55:00",5,"Low","Net",0.8777,242.96,0.81,49.25,0,0,"FordM",,,,0,,,
+"D08970","LF20200819","GrandCanyon","CRLeesFerry",-3.50,"08/19/2020","SzydloC",,,7.00,0,6,"Day","12:29:00",5,"Low","Net",0.9147,358.71,1.2,72.71,0,0,"FordM",,,,0,,,
+"D08972","LF20200819","GrandCanyon","CRLeesFerry",-8.00,"08/19/2020","SzydloC",,,7.00,0,6,"Day","12:58:00",5,"Low","Net",1.0104,520.97,1.74,105.6,0,0,"FordM",,,,0,,,
+"D08974","LF20200819","GrandCanyon","CRLeesFerry",-11.00,"08/19/2020","SzydloC",,,7.00,0,6,"Day","13:34:00",5,"Low","Net",0.9186,321.54,1.07,65.18,0,0,"FordM",,,,0,,,
+"D08976","LF20200819","GrandCanyon","CRLeesFerry",-12.90,"08/19/2020","SzydloC",,,7.00,0,6,"Day","13:58:00",5,"Low","Net",0.9651,686.17,2.29,139.09,1,0,"FordM",,,,0,,,
+"D08977","LF20200819","GrandCanyon","CRLeesFerry",-13.40,"08/19/2020","SzydloC",,,7.00,0,6,"Day","14:14:00",5,"Low","Net",0.8878,251.17,0.84,50.91,0,0,"FordM",,,,0,,,
