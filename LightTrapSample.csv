@@ -10890,7 +10890,25 @@ No way to know how long the light was out; flagged delete. -MF"
 "L12746","GrandCanyon","CRGrandCanyon",180.20,"RB","06/29/2020","WoganK","NoRain",0,"Sand","19:55",1.12,"Rechargeable",0,0,0,"SzydloC","GardnerT","08/04/2020",1.22,0,,"FordM",,
 "L12747","GrandCanyon","CRGrandCanyon",199.40,"RB","06/30/2020","WoganK","NoRain",0,"Sand","20:01",0.97,"Rechargeable",0,0,0,"SzydloC","StarbuckM","08/06/2020",0.42,0,,"FordM",,
 "L12748","GrandCanyon","CRGrandCanyon",220.00,"RB","07/01/2020","WoganK","NoRain",1,"Vegetation","19:54",0.87,"Rechargeable",0,0,0,"SzydloC","GardnerT","08/06/2020",1.88,0,,"FordM",,
+"L12757","GrandCanyon","CRGrandCanyon",16.60,"LB","09/20/2020","PettyJ","NoRain",0,"Sand","18:29",1.1,"Rechargeable",1,0,0,"SzydloC","SzydloC",,,0,,,,
+"L12758","GrandCanyon","CRGrandCanyon",35.10,"LB","09/21/2020","PettyJ","NoRain",1,"Rock","18:21",1.05,"Rechargeable",1,0,0,"SzydloC","SzydloC",,,0,,,,
+"L12759","GrandCanyon","CRGrandCanyon",52.10,"RB","09/22/2020","PettyJ","NoRain",1,"Vegetation","18:38",1.03,"Rechargeable",1,0,0,"SzydloC","SzydloC",,,0,,,,
+"L12760","GrandCanyon","CRGrandCanyon",71.60,"LB","09/23/2020","PettyJ","NoRain",0,"Vegetation","18:49",1,"Rechargeable",1,0,0,"SzydloC","SzydloC",,,0,,,,
+"L12761","GrandCanyon","CRGrandCanyon",87.70,"LB","09/24/2020","PettyJ","NoRain",0,"Sand","18:30",1.12,"Rechargeable",1,0,0,"SzydloC","SzydloC",,,0,,,,
+"L12762","GrandCanyon","CRGrandCanyon",93.80,"LB","09/25/2020","PettyJ","NoRain",0,"Vegetation","18:30",1.08,"Rechargeable",1,0,0,"SzydloC","SzydloC",,,0,,,,
+"L12763","GrandCanyon","CRGrandCanyon",135.20,"LB","09/28/2020","PettyJ","NoRain",0,"Sand","18:25",1,"Rechargeable",0,0,0,"SzydloC","SzydloC",,,0,,,"Recording stopped. No bat data.",
+"L12764","GrandCanyon","CRGrandCanyon",148.90,"LB","09/29/2020","PettyJ","NoRain",0,"Rock","18:27",1.2,"Rechargeable",1,0,0,"SzydloC","SzydloC",,,0,,,,
+"L12765","GrandCanyon","CRGrandCanyon",190.40,"RB","10/01/2020","PettyJ","NoRain",0,"Sand","18:29",1.22,"Rechargeable",1,0,0,"SzydloC","SzydloC",,,0,,,,
+"L12766","GrandCanyon","CRGrandCanyon",220.00,"RB","10/02/2020","PettyJ","NoRain",0,"Vegetation","18:23",1.37,"Rechargeable",1,0,0,"SzydloC","SzydloC",,,0,,,,
+"L12768","GrandCanyon","CRGrandCanyon",115.10,"RB","09/26/2020","PettyJ","NoRain",0,"Rock","18:25",1.17,"Rechargeable",1,0,0,"SzydloC","SzydloC",,,0,,,,
 "L12769","GrandCanyon","CRLeesFerry",-12.00,"RB","09/23/2020","FordM","NoRain",0,"Vegetation","19:30",1,"Rechargeable",0,1,0,"SzydloC","StarbuckM","10/08/2020",0.07,0,,"FordM",,"Trap was opened 64 minutes after sunset so database flagged as strange.  - CS 10/5/2020"
+"L12782","GrandCanyon","CRGrandCanyon",35.10,"LB","09/23/2020","StalveyA","NoRain",0,"Rock","19:11",1.07,"Rechargeable",0,0,0,"SzydloC","SzydloC",,,0,,,,
+"L12783","GrandCanyon","CRGrandCanyon",47.70,"RB","09/24/2020","StalveyA","NoRain",1,"Sand","19:23",1.12,"Rechargeable",0,1,0,"SzydloC","SzydloC",,,0,,,,"Opened 61 minutes after sunset - flagged strange by database.  -CS 10/9/2020"
+"L12784","GrandCanyon","CRGrandCanyon",87.70,"LB","09/26/2020","StalveyA","NoRain",1,"Rock","19:29",1.1,"Rechargeable",0,1,0,"SzydloC","SzydloC",,,0,,,"Battery died…Not sure why. Switching to backup tomorrow.","Opened 70 minutes after sunset - flagged strange by database. If the battery died did he get full trapping session? Flag Delete? - CS 10/9/2020"
+"L12785","GrandCanyon","CRGrandCanyon",93.90,"LB","09/27/2020","StalveyA","NoRain",0,"Sand","18:51",1,"Night1AA",0,0,0,"SzydloC","SzydloC",,,0,,,"1st night backup light. Fresh pack batteries.",
+"L12786","GrandCanyon","CRGrandCanyon",109.00,"RB","09/29/2020","StalveyA","NoRain",0,"Sand","18:45",1,"Night2AA",0,1,1,"SzydloC","SzydloC",,,0,,,"2nd night on batteries. New set tomorrow.","This sample had spilled out in ammo can - container empty. - CS 10/9/2020"
+"L12787","GrandCanyon","CRGrandCanyon",165.20,"RB","10/01/2020","StalveyA","NoRain",0,"Rock","19:12",1.08,"Night1AA",0,1,0,"SzydloC","SzydloC",,,0,,,"New batteries in backup tonight.",
+"L12788","GrandCanyon","CRGrandCanyon",202.30,"RB","10/04/2020","StalveyA","NoRain",0,"Sand","18:52",1.12,"Night2AA",0,0,0,"SzydloC","SzydloC",,,0,,,,
 "L12819","GrandCanyon","CRLeesFerry",-0.03,"RB","07/07/2020","CatlettJ","NoRain",0,"Sand","19:52",1.15,"Rechargeable",1,0,0,"SzydloC","HanusK","08/03/2020",1.38,0,,"FordM",,
 "L12820","GrandCanyon","CRGrandCanyon",16.64,"LB","07/08/2020","CatlettJ","NoRain",0,"Sand","19:57",0.95,"Rechargeable",1,0,0,"SzydloC","StarbuckM","08/03/2020",0.22,0,,"FordM",,
 "L12821","GrandCanyon","CRGrandCanyon",26.54,"LB","07/09/2020","CatlettJ","NoRain",0,"Sand","19:39",1.03,"Rechargeable",1,0,0,"SzydloC","HanusK","08/03/2020",0.58,0,,"FordM",,
