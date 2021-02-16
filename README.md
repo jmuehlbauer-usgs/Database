@@ -1,5 +1,5 @@
 # Database
-Data uploads from the Foodbase database. Pushed to GitHub automatically every night at 23:00 MST by J.D. Muehlbauer's laptop, so long as it is connected to the DOI network.
+Data uploads from the Foodbase database. Deprecated as of 2021-02-16. Please see new repository on Git Lab at https://code.usgs.gov/sbsc/gcmrc/foodbase/database If you cannot view this new Git Lab repository shoot me an email to let me know. 
 
 __Disclaimer:__  
 These data are in the public domain because they originally came from the U.S. Geological Survey (USGS), an agency of the United States Department of Interior. For more information, see the official USGS copyright policy at https://www.usgs.gov/visual-id/credit_usgs.html#copyright Although these data have been used by the USGS, no warranty, expressed or implied, is made by the USGS or the U.S. Government as to the accuracy and functioning of the data and related program material nor shall the fact of distribution constitute any such warranty, and no responsibility is assumed by the USGS in connection therewith. These data are provided "AS IS."
